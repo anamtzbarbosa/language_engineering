@@ -1,8 +1,52 @@
 import torch
 from torch import nn, optim
 from dataclasses import dataclass, asdict
+from self_attention import MultiHeadSelfAttention
 
 # ============= Hyper-parameters for training ============== #
+
+class PositionwiseFFN(nn.Module):
+    """
+    The position-wise FFN that follows after the self-attention computation.
+    Vectors are projected to 4x the dimensionality and then projected down
+    again after relu application.
+    """
+
+    def __init__(self, vector_dim, dropout_prob) :
+        super().__init__()
+        self.fc1 = nn.Linear(vector_dim, 4*vector_dim, bias=True)
+        self.fc2 = nn.Linear(4*vector_dim, vector_dim, bias=True)
+        self.dropout = nn.Dropout(dropout_prob)
+
+    def forward(self, x):
+        return self.fc2(self.dropout(torch.relu(self.fc1(x))))
+
+class Block(nn.Module):
+    """
+    Transformer encoder block.
+
+    This version differs from the original version in  [Vaswani et al. NeurIPS 2017],
+    and applies the LayerNorm before the self-attention, and before the FFN, as this
+    has proved to be beneficial (see [Nguyen and Salazar 2019]).
+    """
+
+    def __init__(self, vector_dim, n_heads, block_size, dropout_prob):
+        super().__init__()
+        att_dim = vector_dim // n_heads
+        self.attn = MultiHeadSelfAttention(vector_dim, n_heads, block_size, is_causal=True)
+        self.ffn = PositionwiseFFN(vector_dim, dropout_prob)
+        self.dropout = nn.Dropout(dropout_prob)
+        self.ln1 = nn.LayerNorm(vector_dim)
+        self.ln2 = nn.LayerNorm(vector_dim)
+
+    def forward(self, x):
+        x1 = self.ln1(x)
+        x2 = x + self.dropout(self.attn(x1))
+        x3 = self.ln2(x2)
+        x4 = x2 + self.dropout(self.ffn(x3))
+        return x4
+
+        
 @dataclass
 
 class Config :
