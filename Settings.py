@@ -33,7 +33,7 @@ class Block(nn.Module):
     def __init__(self, vector_dim, n_heads, block_size, dropout_prob):
         super().__init__()
         att_dim = vector_dim // n_heads
-        self.attn = MultiHeadSelfAttention(vector_dim, n_heads, block_size, is_causal=False)
+        self.attn = MultiHeadSelfAttention(vector_dim, n_heads, block_size, is_causal=True)
         self.ffn = PositionwiseFFN(vector_dim, dropout_prob)
         self.dropout = nn.Dropout(dropout_prob)
         self.ln1 = nn.LayerNorm(vector_dim)

@@ -139,6 +139,14 @@ class TinyStoriesTokenizer:
         # Final tokens to numeric IDs
         return tokens, [self.ids[t] for t in tokens]
 
+    def decode_to_tokens(self, ids: list[int]) -> list[str]:
+    # Convierte una lista de IDs numéricos de vuelta a sus strings de BPE
+        return [self.vocab[i] for i in ids]
+
+    def decode(self, ids: list[int]) -> str:
+        # Junta todo para recuperar el texto original
+        return "".join(self.decode_to_tokens(ids))
+
 
     def save(self, path):
         serializable_merges = {f"{k[0]}<SPLIT>{k[1]}": v for k, v in self.merges.items()}
