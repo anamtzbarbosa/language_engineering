@@ -1,0 +1,13523 @@
+{
+    "One": [
+        "NUM"
+    ],
+    "day": [
+        "PROPN",
+        "NOUN"
+    ],
+    "Jack": [
+        "PROPN"
+    ],
+    "was": [
+        "AUX",
+        "VERB",
+        "NOUN"
+    ],
+    "playing": [
+        "VERB",
+        "NOUN"
+    ],
+    "with": [
+        "ADP",
+        "SCONJ"
+    ],
+    "his": [
+        "PRON",
+        "VERB",
+        "NOUN"
+    ],
+    "favour": [
+        "ADJ"
+    ],
+    "red": [
+        "ADJ",
+        "PROPN",
+        "NOUN"
+    ],
+    "car": [
+        "VERB",
+        "NOUN"
+    ],
+    "He": [
+        "ADJ",
+        "PROPN",
+        "PRON",
+        "VERB",
+        "NOUN"
+    ],
+    "loved": [
+        "AUX",
+        "VERB",
+        "ADJ"
+    ],
+    "to": [
+        "VERB",
+        "PART",
+        "NOUN",
+        "ADP",
+        "AUX"
+    ],
+    "zoom": [
+        "VERB",
+        "NOUN"
+    ],
+    "it": [
+        "PRON",
+        "VERB",
+        "NOUN",
+        "PROPN"
+    ],
+    "around": [
+        "ADP",
+        "ADV"
+    ],
+    "the": [
+        "PRON",
+        "DET"
+    ],
+    "garden": [
+        "NOUN"
+    ],
+    "and": [
+        "ADV",
+        "CCONJ",
+        "NOUN"
+    ],
+    "make": [
+        "VERB",
+        "NOUN"
+    ],
+    "motor": [
+        "NOUN"
+    ],
+    "noises": [
+        "NOUN"
+    ],
+    "But": [
+        "PROPN",
+        "CCONJ",
+        "NOUN"
+    ],
+    "this": [
+        "PRON",
+        "DET"
+    ],
+    "something": [
+        "PRON"
+    ],
+    "missing": [
+        "ADJ",
+        "VERB"
+    ],
+    "scarf": [
+        "NOUN"
+    ],
+    "had": [
+        "AUX",
+        "VERB"
+    ],
+    "left": [
+        "ADV",
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "inside": [
+        "ADV",
+        "ADJ",
+        "ADP",
+        "NOUN"
+    ],
+    "but": [
+        "SCONJ",
+        "CCONJ"
+    ],
+    "in": [
+        "ADV",
+        "ADJ",
+        "SCONJ",
+        "VERB",
+        "NOUN",
+        "ADP"
+    ],
+    "ha": [
+        "AUX",
+        "VERB",
+        "INTJ",
+        "NOUN"
+    ],
+    "he": [
+        "ADJ",
+        "PROPN",
+        "INTJ",
+        "PRON",
+        "VERB",
+        "NOUN",
+        "AUX"
+    ],
+    "forgot": [
+        "VERB"
+    ],
+    "bring": [
+        "VERB"
+    ],
+    "him": [
+        "PRON"
+    ],
+    "very": [
+        "ADV",
+        "ADJ"
+    ],
+    "sad": [
+        "ADV",
+        "ADJ",
+        "NOUN"
+    ],
+    "so": [
+        "ADV",
+        "ADJ",
+        "CCONJ",
+        "SCONJ",
+        "VERB"
+    ],
+    "decided": [
+        "VERB"
+    ],
+    "walk": [
+        "VERB",
+        "NOUN"
+    ],
+    "back": [
+        "ADV",
+        "ADJ",
+        "VERB",
+        "NOUN",
+        "ADP"
+    ],
+    "find": [
+        "VERB",
+        "NOUN"
+    ],
+    "before": [
+        "ADV",
+        "ADP",
+        "SCONJ"
+    ],
+    "could": [
+        "AUX"
+    ],
+    "take": [
+        "VERB"
+    ],
+    "even": [
+        "ADV"
+    ],
+    "two": [
+        "NUM",
+        "NOUN"
+    ],
+    "steps": [
+        "VERB",
+        "NOUN"
+    ],
+    "heard": [
+        "VERB"
+    ],
+    "a": [
+        "ADV",
+        "ADJ",
+        "PROPN",
+        "INTJ",
+        "PRON",
+        "VERB",
+        "NOUN",
+        "DET"
+    ],
+    "loud": [
+        "ADV",
+        "ADJ"
+    ],
+    "Look": [
+        "VERB",
+        "NOUN",
+        "PROPN"
+    ],
+    "up": [
+        "ADP",
+        "ADV",
+        "NOUN"
+    ],
+    "saw": [
+        "VERB",
+        "NOUN"
+    ],
+    "neigh": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "J": [
+        "ADV",
+        "ADJ",
+        "PROPN",
+        "VERB",
+        "NOUN"
+    ],
+    "wearing": [
+        "VERB"
+    ],
+    "her": [
+        "PRON"
+    ],
+    "neck": [
+        "NOUN"
+    ],
+    "heart": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "sun": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "marched": [
+        "VERB"
+    ],
+    "eagerly": [
+        "ADV"
+    ],
+    "asked": [
+        "VERB"
+    ],
+    "Can": [
+        "AUX",
+        "PART"
+    ],
+    "I": [
+        "ADV",
+        "PROPN",
+        "PRON",
+        "VERB",
+        "NOUN",
+        "ADP",
+        "AUX"
+    ],
+    "please": [
+        "VERB",
+        "INTJ",
+        "NOUN"
+    ],
+    "have": [
+        "AUX",
+        "VERB",
+        "NOUN"
+    ],
+    "my": [
+        "PRON",
+        "INTJ"
+    ],
+    "face": [
+        "VERB",
+        "NOUN"
+    ],
+    "full": [
+        "ADV",
+        "ADJ",
+        "NOUN"
+    ],
+    "of": [
+        "ADP",
+        "ADV"
+    ],
+    "enthus": [
+        "NOUN"
+    ],
+    "smiled": [
+        "VERB"
+    ],
+    "replied": [
+        "VERB"
+    ],
+    "Oh": [
+        "INTJ"
+    ],
+    "already": [
+        "ADV",
+        "ADJ"
+    ],
+    "wanted": [
+        "VERB"
+    ],
+    "wear": [
+        "VERB"
+    ],
+    "today": [
+        "NOUN"
+    ],
+    "ever": [
+        "ADV",
+        "PROPN",
+        "NOUN"
+    ],
+    "shouted": [
+        "VERB"
+    ],
+    "crossed": [
+        "VERB"
+    ],
+    "arms": [
+        "NOUN"
+    ],
+    "frowned": [
+        "VERB"
+    ],
+    "trying": [
+        "VERB"
+    ],
+    "look": [
+        "VERB",
+        "NOUN",
+        "PROPN"
+    ],
+    "as": [
+        "ADV",
+        "SCONJ",
+        "VERB",
+        "NOUN",
+        "ADP"
+    ],
+    "st": [
+        "ADV",
+        "ADJ",
+        "PROPN",
+        "VERB",
+        "NOUN"
+    ],
+    "po": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "then": [
+        "ADV"
+    ],
+    "said": [
+        "VERB",
+        "NOUN",
+        "PROPN"
+    ],
+    "Well": [
+        "ADV",
+        "INTJ"
+    ],
+    "ok": [
+        "ADJ",
+        "PROPN",
+        "INTJ"
+    ],
+    "guess": [
+        "VERB",
+        "NOUN"
+    ],
+    "can": [
+        "AUX",
+        "VERB",
+        "NOUN"
+    ],
+    "give": [
+        "VERB"
+    ],
+    "you": [
+        "PRON",
+        "NUM",
+        "ADJ",
+        "NOUN"
+    ],
+    "if": [
+        "SCONJ"
+    ],
+    "really": [
+        "ADV"
+    ],
+    "need": [
+        "AUX",
+        "VERB",
+        "NOUN"
+    ],
+    "Sm": [
+        "VERB",
+        "PROPN"
+    ],
+    "she": [
+        "PRON",
+        "VERB",
+        "NOUN"
+    ],
+    "handed": [
+        "VERB"
+    ],
+    "waved": [
+        "VERB"
+    ],
+    "goodbye": [
+        "VERB",
+        "NOUN",
+        "PROPN"
+    ],
+    "zoomed": [
+        "VERB"
+    ],
+    "off": [
+        "ADP",
+        "VERB",
+        "ADV",
+        "NOUN"
+    ],
+    "too": [
+        "ADV",
+        "PROPN",
+        "NOUN"
+    ],
+    "happy": [
+        "ADJ",
+        "NOUN"
+    ],
+    "hugged": [
+        "VERB"
+    ],
+    "close": [
+        "ADV",
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "chest": [
+        "NOUN"
+    ],
+    "quickly": [
+        "ADV"
+    ],
+    "ran": [
+        "VERB",
+        "NOUN"
+    ],
+    "outside": [
+        "ADV",
+        "ADJ",
+        "ADP",
+        "NOUN"
+    ],
+    "enjoy": [
+        "AUX",
+        "VERB",
+        "NOUN",
+        "ADJ"
+    ],
+    "again": [
+        "ADV",
+        "PROPN",
+        "NOUN"
+    ],
+    "Once": [
+        "ADV",
+        "SCONJ"
+    ],
+    "upon": [
+        "SCONJ"
+    ],
+    "time": [
+        "NOUN"
+    ],
+    "there": [
+        "PRON",
+        "ADV"
+    ],
+    "boy": [
+        "INTJ",
+        "NOUN"
+    ],
+    "named": [
+        "VERB"
+    ],
+    "Timmy": [
+        "PROPN"
+    ],
+    "liked": [
+        "VERB"
+    ],
+    "play": [
+        "VERB",
+        "NOUN"
+    ],
+    "grass": [
+        "ADJ",
+        "NOUN"
+    ],
+    "snake": [
+        "NOUN"
+    ],
+    "The": [
+        "PRON",
+        "DET"
+    ],
+    "slow": [
+        "ADV",
+        "ADJ",
+        "VERB"
+    ],
+    "scared": [
+        "ADJ",
+        "VERB"
+    ],
+    "screamed": [
+        "AUX",
+        "VERB"
+    ],
+    "for": [
+        "ADV",
+        "ADJ",
+        "SCONJ",
+        "VERB",
+        "NOUN",
+        "ADP"
+    ],
+    "mommy": [
+        "PROPN",
+        "NOUN"
+    ],
+    "Mommy": [
+        "PROPN",
+        "NOUN"
+    ],
+    "came": [
+        "AUX",
+        "VERB"
+    ],
+    "running": [
+        "VERB",
+        "NOUN"
+    ],
+    "She": [
+        "PRON"
+    ],
+    "told": [
+        "VERB"
+    ],
+    "stay": [
+        "AUX",
+        "VERB",
+        "NOUN"
+    ],
+    "away": [
+        "ADV",
+        "ADJ",
+        "ADP"
+    ],
+    "from": [
+        "ADP"
+    ],
+    "Suddenly": [
+        "ADV"
+    ],
+    "started": [
+        "VERB"
+    ],
+    "talk": [
+        "VERB",
+        "NOUN"
+    ],
+    "It": [
+        "PRON"
+    ],
+    "Hello": [
+        "PROPN",
+        "INTJ"
+    ],
+    "little": [
+        "ADV",
+        "ADJ",
+        "NOUN"
+    ],
+    "be": [
+        "ADV",
+        "ADJ",
+        "SCONJ",
+        "VERB",
+        "NOUN",
+        "ADP",
+        "AUX"
+    ],
+    "afraid": [
+        "ADJ"
+    ],
+    "me": [
+        "PRON",
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "am": [
+        "ADP",
+        "AUX",
+        "NOUN",
+        "ADJ"
+    ],
+    "friendly": [
+        "ADJ"
+    ],
+    "surprised": [
+        "ADJ",
+        "VERB"
+    ],
+    "know": [
+        "VERB",
+        "NOUN"
+    ],
+    "what": [
+        "PRON",
+        "NOUN",
+        "DET"
+    ],
+    "say": [
+        "VERB"
+    ],
+    "continued": [
+        "ADJ",
+        "VERB"
+    ],
+    "just": [
+        "ADV",
+        "ADJ",
+        "NOUN"
+    ],
+    "want": [
+        "ADP",
+        "VERB",
+        "NOUN"
+    ],
+    "your": [
+        "PRON",
+        "NOUN"
+    ],
+    "friend": [
+        "ADJ",
+        "PROPN",
+        "NOUN"
+    ],
+    "Will": [
+        "AUX",
+        "PROPN",
+        "NOUN"
+    ],
+    "thought": [
+        "ADV",
+        "VERB",
+        "NOUN"
+    ],
+    "moment": [
+        "NOUN"
+    ],
+    "Okay": [
+        "INTJ",
+        "NOUN"
+    ],
+    "And": [
+        "CCONJ"
+    ],
+    "that": [
+        "PRON",
+        "ADV",
+        "SCONJ",
+        "DET"
+    ],
+    "on": [
+        "ADV",
+        "SCONJ",
+        "ADP",
+        "NOUN"
+    ],
+    "were": [
+        "AUX",
+        "VERB"
+    ],
+    "best": [
+        "ADV",
+        "ADJ",
+        "NOUN"
+    ],
+    "friends": [
+        "NOUN"
+    ],
+    "an": [
+        "ADJ",
+        "PRON",
+        "VERB",
+        "NOUN",
+        "DET"
+    ],
+    "amazing": [
+        "ADV",
+        "ADJ",
+        "NOUN"
+    ],
+    "go": [
+        "AUX",
+        "VERB",
+        "NOUN",
+        "PROPN"
+    ],
+    "fast": [
+        "ADV",
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "its": [
+        "PRON"
+    ],
+    "felt": [
+        "AUX",
+        "VERB"
+    ],
+    "tick": [
+        "ADJ",
+        "VERB",
+        "NOUN",
+        "PROPN"
+    ],
+    "nose": [
+        "NOUN"
+    ],
+    "going": [
+        "VERB"
+    ],
+    "sneeze": [
+        "VERB",
+        "NOUN"
+    ],
+    "tried": [
+        "VERB"
+    ],
+    "stop": [
+        "AUX",
+        "VERB",
+        "NOUN"
+    ],
+    "hard": [
+        "ADV",
+        "ADJ",
+        "VERB"
+    ],
+    "sneezed": [
+        "VERB"
+    ],
+    "all": [
+        "ADV",
+        "ADJ",
+        "PRON",
+        "NOUN",
+        "DET"
+    ],
+    "looked": [
+        "VERB"
+    ],
+    "at": [
+        "ADP",
+        "VERB",
+        "ADV",
+        "NOUN"
+    ],
+    "went": [
+        "AUX",
+        "VERB"
+    ],
+    "hide": [
+        "VERB",
+        "NOUN"
+    ],
+    "down": [
+        "ADP",
+        "ADV"
+    ],
+    "knew": [
+        "VERB"
+    ],
+    "home": [
+        "ADV",
+        "ADJ",
+        "NOUN"
+    ],
+    "soon": [
+        "PRON",
+        "ADV",
+        "PROPN",
+        "NOUN"
+    ],
+    "much": [
+        "ADV",
+        "ADJ",
+        "NOUN"
+    ],
+    "see": [
+        "ADV",
+        "VERB"
+    ],
+    "where": [
+        "SCONJ"
+    ],
+    "Then": [
+        "ADV"
+    ],
+    "unexpected": [
+        "ADV",
+        "ADJ"
+    ],
+    "happened": [
+        "VERB"
+    ],
+    "hit": [
+        "VERB",
+        "NOUN"
+    ],
+    "big": [
+        "ADV",
+        "ADJ",
+        "PROPN"
+    ],
+    "rock": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "broke": [
+        "VERB",
+        "NOUN"
+    ],
+    "not": [
+        "VERB",
+        "PART",
+        "NOUN"
+    ],
+    "anymore": [
+        "ADV"
+    ],
+    "now": [
+        "ADV",
+        "NOUN"
+    ],
+    "is": [
+        "AUX",
+        "VERB",
+        "NOUN"
+    ],
+    "how": [
+        "ADV",
+        "VERB",
+        "SCONJ",
+        "NOUN"
+    ],
+    "story": [
+        "NOUN"
+    ],
+    "end": [
+        "VERB",
+        "NOUN"
+    ],
+    "brave": [
+        "ADV",
+        "ADJ",
+        "NOUN"
+    ],
+    "knight": [
+        "NOUN"
+    ],
+    "shiny": [
+        "ADJ"
+    ],
+    "shield": [
+        "NOUN"
+    ],
+    "adventure": [
+        "NOUN"
+    ],
+    "deep": [
+        "ADV",
+        "ADJ"
+    ],
+    "into": [
+        "ADP"
+    ],
+    "forest": [
+        "NOUN"
+    ],
+    "met": [
+        "VERB",
+        "NOUN"
+    ],
+    "girl": [
+        "NOUN"
+    ],
+    "Lily": [
+        "PROPN",
+        "INTJ",
+        "NOUN"
+    ],
+    "who": [
+        "PRON",
+        "DET"
+    ],
+    "lost": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "Are": [
+        "AUX"
+    ],
+    "Yes": [
+        "INTJ"
+    ],
+    "worry": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "help": [
+        "VERB",
+        "NOUN"
+    ],
+    "way": [
+        "ADV",
+        "NOUN"
+    ],
+    "kind": [
+        "ADV",
+        "ADJ",
+        "PROPN",
+        "NOUN"
+    ],
+    "used": [
+        "ADJ",
+        "VERB"
+    ],
+    "part": [
+        "ADV",
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "bushes": [
+        "NOUN"
+    ],
+    "trees": [
+        "NOUN"
+    ],
+    "making": [
+        "VERB",
+        "NOUN"
+    ],
+    "path": [
+        "NOUN"
+    ],
+    "them": [
+        "PRON",
+        "NOUN"
+    ],
+    "follow": [
+        "VERB"
+    ],
+    "After": [
+        "ADP",
+        "ADV",
+        "SCONJ"
+    ],
+    "walking": [
+        "VERB",
+        "NOUN"
+    ],
+    "while": [
+        "SCONJ",
+        "NOUN"
+    ],
+    "they": [
+        "PRON",
+        "NOUN"
+    ],
+    "finally": [
+        "ADV"
+    ],
+    "found": [
+        "VERB"
+    ],
+    "Thank": [
+        "ADV",
+        "PROPN",
+        "VERB",
+        "NOUN",
+        "AUX"
+    ],
+    "You": [
+        "PRON",
+        "PROPN"
+    ],
+    "are": [
+        "AUX",
+        "VERB",
+        "NOUN"
+    ],
+    "hero": [
+        "ADJ",
+        "NOUN",
+        "DET"
+    ],
+    "smile": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "doing": [
+        "VERB"
+    ],
+    "job": [
+        "NOUN"
+    ],
+    "modest": [
+        "ADV",
+        "ADJ"
+    ],
+    "From": [
+        "ADP"
+    ],
+    "became": [
+        "AUX",
+        "VERB"
+    ],
+    "good": [
+        "ADV",
+        "ADJ",
+        "PROPN",
+        "INTJ",
+        "NOUN"
+    ],
+    "many": [
+        "ADJ"
+    ],
+    "more": [
+        "ADV",
+        "ADJ",
+        "NOUN"
+    ],
+    "adventures": [
+        "NOUN"
+    ],
+    "together": [
+        "ADV",
+        "NOUN"
+    ],
+    "Tim": [
+        "PROPN",
+        "NOUN"
+    ],
+    "store": [
+        "VERB",
+        "NOUN"
+    ],
+    "mom": [
+        "NOUN"
+    ],
+    "obedient": [
+        "ADV",
+        "ADJ"
+    ],
+    "always": [
+        "ADV",
+        "ADJ"
+    ],
+    "helped": [
+        "AUX",
+        "VERB"
+    ],
+    "when": [
+        "SCONJ"
+    ],
+    "sho": [
+        "VERB",
+        "NOUN"
+    ],
+    "At": [
+        "ADP"
+    ],
+    "bought": [
+        "VERB"
+    ],
+    "things": [
+        "NOUN"
+    ],
+    "includ": [
+        "VERB"
+    ],
+    "bag": [
+        "PROPN",
+        "NOUN"
+    ],
+    "coffee": [
+        "NOUN"
+    ],
+    "As": [
+        "ADV",
+        "PROPN",
+        "SCONJ",
+        "VERB",
+        "ADP"
+    ],
+    "walked": [
+        "VERB"
+    ],
+    "held": [
+        "VERB"
+    ],
+    "dog": [
+        "PROPN",
+        "NOUN"
+    ],
+    "barked": [
+        "VERB"
+    ],
+    "W": [
+        "ADJ",
+        "PROPN",
+        "INTJ",
+        "SCONJ",
+        "VERB",
+        "NOUN",
+        "DET",
+        "ADP",
+        "AUX"
+    ],
+    "dropped": [
+        "VERB"
+    ],
+    "split": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "open": [
+        "ADJ",
+        "VERB",
+        "NOUN",
+        "PROPN"
+    ],
+    "spilled": [
+        "VERB"
+    ],
+    "over": [
+        "ADV",
+        "ADJ",
+        "VERB",
+        "NOUN",
+        "ADP"
+    ],
+    "ground": [
+        "VERB",
+        "NOUN"
+    ],
+    "no": [
+        "ADV",
+        "ADJ",
+        "PROPN",
+        "INTJ",
+        "PRON",
+        "VERB",
+        "NOUN",
+        "DET"
+    ],
+    "What": [
+        "PRON",
+        "DET"
+    ],
+    "do": [
+        "AUX",
+        "VERB",
+        "NOUN"
+    ],
+    "we": [
+        "ADV",
+        "ADJ",
+        "INTJ",
+        "PRON",
+        "VERB",
+        "NOUN"
+    ],
+    "His": [
+        "PRON"
+    ],
+    "okay": [
+        "ADV",
+        "ADJ",
+        "INTJ"
+    ],
+    "We": [
+        "PRON",
+        "AUX",
+        "PROPN",
+        "NOUN"
+    ],
+    "buy": [
+        "VERB"
+    ],
+    "maybe": [
+        "ADV"
+    ],
+    "treat": [
+        "VERB",
+        "NOUN"
+    ],
+    "wagged": [
+        "VERB"
+    ],
+    "tail": [
+        "NOUN"
+    ],
+    "happily": [
+        "ADV"
+    ],
+    "bright": [
+        "ADV",
+        "ADJ",
+        "VERB"
+    ],
+    "prepare": [
+        "VERB"
+    ],
+    "dinner": [
+        "NOUN"
+    ],
+    "excited": [
+        "ADJ",
+        "VERB"
+    ],
+    "kitchen": [
+        "NOUN"
+    ],
+    "grab": [
+        "VERB"
+    ],
+    "pin": [
+        "VERB",
+        "NOUN",
+        "PROPN"
+    ],
+    "counter": [
+        "NOUN"
+    ],
+    "picked": [
+        "VERB"
+    ],
+    "Here": [
+        "ADV"
+    ],
+    "cooked": [
+        "VERB"
+    ],
+    "favorite": [
+        "ADJ",
+        "NOUN"
+    ],
+    "color": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "P": [
+        "ADV",
+        "ADJ",
+        "PROPN",
+        "INTJ",
+        "CCONJ",
+        "VERB",
+        "NOUN",
+        "ADP"
+    ],
+    "gr": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "ready": [
+        "ADJ"
+    ],
+    "sat": [
+        "ADJ",
+        "VERB"
+    ],
+    "eat": [
+        "VERB",
+        "NOUN"
+    ],
+    "This": [
+        "PRON",
+        "DET"
+    ],
+    "delicious": [
+        "ADV",
+        "ADJ",
+        "PROPN",
+        "NOUN"
+    ],
+    "proud": [
+        "ADJ"
+    ],
+    "enjoyed": [
+        "AUX",
+        "VERB",
+        "ADJ"
+    ],
+    "eating": [
+        "VERB",
+        "NOUN"
+    ],
+    "family": [
+        "NOUN"
+    ],
+    "bald": [
+        "ADJ"
+    ],
+    "man": [
+        "NOUN"
+    ],
+    "Bob": [
+        "PROPN"
+    ],
+    "people": [
+        "NOUN"
+    ],
+    "town": [
+        "NOUN"
+    ],
+    "bird": [
+        "PROPN",
+        "NOUN"
+    ],
+    "dirty": [
+        "ADJ",
+        "NOUN"
+    ],
+    "body": [
+        "NOUN"
+    ],
+    "fly": [
+        "VERB",
+        "NUM",
+        "NOUN"
+    ],
+    "because": [
+        "SCONJ"
+    ],
+    "took": [
+        "VERB"
+    ],
+    "filled": [
+        "VERB"
+    ],
+    "tub": [
+        "NOUN"
+    ],
+    "water": [
+        "VERB",
+        "NOUN",
+        "PROPN"
+    ],
+    "bathe": [
+        "VERB"
+    ],
+    "first": [
+        "ADV",
+        "ADJ",
+        "NOUN"
+    ],
+    "gentle": [
+        "ADJ",
+        "NOUN"
+    ],
+    "washed": [
+        "VERB"
+    ],
+    "care": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "Soon": [
+        "ADV"
+    ],
+    "clean": [
+        "ADJ",
+        "VERB",
+        "NOUN",
+        "PROPN"
+    ],
+    "thanks": [
+        "VERB",
+        "INTJ",
+        "NOUN"
+    ],
+    "flew": [
+        "VERB"
+    ],
+    "They": [
+        "PRON"
+    ],
+    "learned": [
+        "VERB"
+    ],
+    "important": [
+        "ADV",
+        "ADJ"
+    ],
+    "others": [
+        "NOUN"
+    ],
+    "small": [
+        "ADJ"
+    ],
+    "different": [
+        "ADV",
+        "ADJ"
+    ],
+    "like": [
+        "ADJ",
+        "INTJ",
+        "SCONJ",
+        "VERB",
+        "ADP",
+        "PUNCT",
+        "AUX"
+    ],
+    "Mia": [
+        "PROPN"
+    ],
+    "calm": [
+        "ADV",
+        "ADJ",
+        "VERB"
+    ],
+    "toys": [
+        "NOUN"
+    ],
+    "pretty": [
+        "ADV",
+        "ADJ",
+        "PROPN",
+        "NOUN"
+    ],
+    "bottle": [
+        "NOUN"
+    ],
+    "perfume": [
+        "NOUN"
+    ],
+    "room": [
+        "NOUN"
+    ],
+    "smelled": [
+        "VERB"
+    ],
+    "sweet": [
+        "PRON",
+        "ADV",
+        "ADJ",
+        "NOUN"
+    ],
+    "made": [
+        "VERB"
+    ],
+    "idea": [
+        "PROPN",
+        "NOUN"
+    ],
+    "add": [
+        "VERB",
+        "NOUN"
+    ],
+    "smell": [
+        "VERB",
+        "NOUN"
+    ],
+    "nice": [
+        "ADJ",
+        "NOUN"
+    ],
+    "So": [
+        "ADV",
+        "PROPN",
+        "NOUN"
+    ],
+    "carefully": [
+        "ADV"
+    ],
+    "put": [
+        "VERB"
+    ],
+    "some": [
+        "PRON",
+        "ADV",
+        "NOUN",
+        "DET"
+    ],
+    "teddy": [
+        "PROPN",
+        "NOUN"
+    ],
+    "bear": [
+        "VERB",
+        "PROPN",
+        "NOUN"
+    ],
+    "doll": [
+        "ADV",
+        "NOUN"
+    ],
+    "toy": [
+        "NOUN"
+    ],
+    "Later": [
+        "ADV"
+    ],
+    "done": [
+        "VERB"
+    ],
+    "creative": [
+        "ADV",
+        "ADJ"
+    ],
+    "played": [
+        "VERB"
+    ],
+    "ball": [
+        "PROPN",
+        "NOUN"
+    ],
+    "game": [
+        "NOUN"
+    ],
+    "get": [
+        "AUX",
+        "VERB"
+    ],
+    "score": [
+        "VERB",
+        "NOUN"
+    ],
+    "Sam": [
+        "PROPN"
+    ],
+    "boring": [
+        "ADJ",
+        "VERB"
+    ],
+    "try": [
+        "VERB",
+        "NOUN"
+    ],
+    "new": [
+        "ADV",
+        "ADJ",
+        "NOUN"
+    ],
+    "strike": [
+        "VERB",
+        "NOUN"
+    ],
+    "All": [
+        "ADV",
+        "PROPN",
+        "PRON",
+        "NOUN",
+        "DET"
+    ],
+    "agreed": [
+        "VERB"
+    ],
+    "each": [
+        "PRON",
+        "DET"
+    ],
+    "turns": [
+        "VERB",
+        "NOUN"
+    ],
+    "last": [
+        "ADV",
+        "ADJ",
+        "VERB"
+    ],
+    "sure": [
+        "ADV",
+        "ADJ"
+    ],
+    "would": [
+        "AUX"
+    ],
+    "win": [
+        "VERB",
+        "NOUN"
+    ],
+    "got": [
+        "AUX",
+        "VERB"
+    ],
+    "sitting": [
+        "VERB",
+        "NOUN"
+    ],
+    "near": [
+        "ADP",
+        "ADJ",
+        "ADV"
+    ],
+    "anyway": [
+        "ADV"
+    ],
+    "thinking": [
+        "VERB",
+        "NOUN"
+    ],
+    "did": [
+        "AUX",
+        "VERB"
+    ],
+    "When": [
+        "PROPN",
+        "SCONJ"
+    ],
+    "str": [
+        "VERB",
+        "NOUN"
+    ],
+    "hurt": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "badly": [
+        "ADV"
+    ],
+    "about": [
+        "ADP",
+        "ADJ",
+        "ADV",
+        "SCONJ"
+    ],
+    "realized": [
+        "VERB"
+    ],
+    "moral": [
+        "ADJ",
+        "NOUN"
+    ],
+    "think": [
+        "VERB"
+    ],
+    "might": [
+        "AUX",
+        "NOUN",
+        "ADJ"
+    ],
+    "happen": [
+        "VERB"
+    ],
+    "careful": [
+        "ADJ",
+        "NOUN"
+    ],
+    "having": [
+        "VERB"
+    ],
+    "fun": [
+        "NUM",
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "especially": [
+        "ADV"
+    ],
+    "snow": [
+        "ADJ",
+        "VERB",
+        "NOUN",
+        "PROPN"
+    ],
+    "one": [
+        "PRON",
+        "NUM",
+        "NOUN"
+    ],
+    "m": [
+        "ADV",
+        "ADJ",
+        "PROPN",
+        "VERB",
+        "NOUN"
+    ],
+    "anywhere": [
+        "ADV"
+    ],
+    "next": [
+        "ADV",
+        "ADJ",
+        "ADP"
+    ],
+    "mother": [
+        "NOUN"
+    ],
+    "There": [
+        "PRON",
+        "ADV"
+    ],
+    "choose": [
+        "VERB"
+    ],
+    "ones": [
+        "NOUN"
+    ],
+    "cute": [
+        "ADJ"
+    ],
+    "animals": [
+        "NOUN"
+    ],
+    "Her": [
+        "PRON",
+        "NOUN"
+    ],
+    "attractive": [
+        "ADJ"
+    ],
+    "flying": [
+        "VERB",
+        "NOUN"
+    ],
+    "beak": [
+        "NOUN"
+    ],
+    "remembered": [
+        "VERB"
+    ],
+    "mitten": [
+        "NOUN"
+    ],
+    "wondered": [
+        "VERB"
+    ],
+    "ind": [
+        "ADV",
+        "PROPN"
+    ],
+    "their": [
+        "PRON",
+        "ADJ"
+    ],
+    "door": [
+        "ADV",
+        "NOUN"
+    ],
+    "grateful": [
+        "ADJ"
+    ],
+    "remember": [
+        "VERB",
+        "NUM"
+    ],
+    "train": [
+        "VERB",
+        "NOUN"
+    ],
+    "move": [
+        "VERB",
+        "NOUN"
+    ],
+    "track": [
+        "NOUN"
+    ],
+    "Every": [
+        "PRON",
+        "ADJ",
+        "PROPN",
+        "DET"
+    ],
+    "carry": [
+        "VERB"
+    ],
+    "places": [
+        "NOUN"
+    ],
+    "never": [
+        "ADV"
+    ],
+    "naughty": [
+        "ADJ"
+    ],
+    "ahead": [
+        "ADV"
+    ],
+    "late": [
+        "ADV",
+        "ADJ"
+    ],
+    "been": [
+        "AUX"
+    ],
+    "pay": [
+        "VERB",
+        "NOUN"
+    ],
+    "attention": [
+        "NOUN"
+    ],
+    "worked": [
+        "VERB"
+    ],
+    "watched": [
+        "VERB"
+    ],
+    "tight": [
+        "ADV",
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "vest": [
+        "NOUN"
+    ],
+    "sn": [
+        "ADJ",
+        "VERB",
+        "INTJ",
+        "NOUN"
+    ],
+    "show": [
+        "VERB",
+        "NOUN"
+    ],
+    "While": [
+        "SCONJ"
+    ],
+    "Sue": [
+        "PROPN"
+    ],
+    "Wow": [
+        "INTJ"
+    ],
+    "thing": [
+        "NOUN"
+    ],
+    "lots": [
+        "NOUN"
+    ],
+    "mark": [
+        "VERB",
+        "NOUN"
+    ],
+    "our": [
+        "PRON"
+    ],
+    "names": [
+        "NOUN"
+    ],
+    "wrote": [
+        "VERB"
+    ],
+    "laughed": [
+        "VERB"
+    ],
+    "Now": [
+        "ADV"
+    ],
+    "special": [
+        "ADJ",
+        "NOUN"
+    ],
+    "until": [
+        "ADP",
+        "SCONJ"
+    ],
+    "mar": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "Tom": [
+        "PROPN",
+        "NOUN"
+    ],
+    "pile": [
+        "NOUN"
+    ],
+    "stones": [
+        "NOUN"
+    ],
+    "road": [
+        "NOUN"
+    ],
+    "any": [
+        "PRON",
+        "ADV",
+        "NOUN",
+        "DET"
+    ],
+    "stone": [
+        "NOUN"
+    ],
+    "round": [
+        "ADV",
+        "ADJ",
+        "VERB",
+        "NOUN",
+        "ADP"
+    ],
+    "smooth": [
+        "ADV",
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "gray": [
+        "ADJ",
+        "PROPN",
+        "NOUN"
+    ],
+    "regular": [
+        "ADV",
+        "ADJ"
+    ],
+    "better": [
+        "ADV",
+        "ADJ"
+    ],
+    "threw": [
+        "VERB"
+    ],
+    "another": [
+        "PRON",
+        "DET"
+    ],
+    "exam": [
+        "VERB",
+        "NOUN"
+    ],
+    "also": [
+        "ADV"
+    ],
+    "heavy": [
+        "ADJ",
+        "NOUN"
+    ],
+    "feels": [
+        "VERB"
+    ],
+    "hand": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "kept": [
+        "VERB"
+    ],
+    "pocket": [
+        "NOUN"
+    ],
+    "every": [
+        "ADV",
+        "ADJ",
+        "PRON",
+        "NOUN",
+        "DET"
+    ],
+    "own": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "angry": [
+        "ADJ"
+    ],
+    "Why": [
+        "SCONJ"
+    ],
+    "n": [
+        "ADV",
+        "ADJ",
+        "PROPN",
+        "INTJ",
+        "NUM",
+        "CCONJ",
+        "VERB",
+        "PART",
+        "NOUN",
+        "DET"
+    ],
+    "fair": [
+        "ADJ",
+        "NOUN"
+    ],
+    "No": [
+        "ADV",
+        "PROPN",
+        "INTJ",
+        "PRON",
+        "NOUN",
+        "DET"
+    ],
+    "only": [
+        "ADV",
+        "ADJ"
+    ],
+    "pick": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "gre": [
+        "ADJ",
+        "VERB",
+        "NOUN",
+        "PROPN"
+    ],
+    "should": [
+        "AUX",
+        "NOUN"
+    ],
+    "right": [
+        "ADV",
+        "ADJ",
+        "INTJ",
+        "NOUN"
+    ],
+    "foolish": [
+        "ADJ"
+    ],
+    "un": [
+        "ADV",
+        "ADJ",
+        "PROPN",
+        "SCONJ",
+        "VERB",
+        "NOUN"
+    ],
+    "sorry": [
+        "ADJ",
+        "INTJ"
+    ],
+    "share": [
+        "VERB",
+        "NOUN"
+    ],
+    "Of": [
+        "ADV"
+    ],
+    "course": [
+        "ADV",
+        "NOUN"
+    ],
+    "appreciate": [
+        "VERB"
+    ],
+    "called": [
+        "VERB"
+    ],
+    "ostrich": [
+        "NOUN"
+    ],
+    "long": [
+        "ADV",
+        "ADJ"
+    ],
+    "legs": [
+        "NOUN"
+    ],
+    "plants": [
+        "NOUN"
+    ],
+    "seeds": [
+        "NOUN"
+    ],
+    "roll": [
+        "VERB",
+        "NOUN"
+    ],
+    "charming": [
+        "ADJ"
+    ],
+    "colors": [
+        "NOUN"
+    ],
+    "rolled": [
+        "VERB"
+    ],
+    "tired": [
+        "ADJ"
+    ],
+    "sleep": [
+        "VERB",
+        "NOUN"
+    ],
+    "Tweetie": [
+        "PROPN"
+    ],
+    "high": [
+        "ADV",
+        "ADJ",
+        "NOUN"
+    ],
+    "sky": [
+        "NOUN"
+    ],
+    "sing": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "songs": [
+        "NOUN"
+    ],
+    "sour": [
+        "ADJ",
+        "NOUN"
+    ],
+    "lemon": [
+        "NOUN"
+    ],
+    "tree": [
+        "NOUN"
+    ],
+    "taste": [
+        "VERB",
+        "NOUN"
+    ],
+    "looking": [
+        "VERB",
+        "NOUN"
+    ],
+    "reach": [
+        "VERB",
+        "NOUN"
+    ],
+    "secret": [
+        "ADV",
+        "ADJ",
+        "NOUN"
+    ],
+    "pass": [
+        "VERB",
+        "NOUN"
+    ],
+    "through": [
+        "ADP",
+        "ADV"
+    ],
+    "leaves": [
+        "VERB",
+        "NOUN"
+    ],
+    "reached": [
+        "VERB"
+    ],
+    "bite": [
+        "VERB",
+        "NOUN"
+    ],
+    "mean": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "cat": [
+        "VERB",
+        "NOUN"
+    ],
+    "appeared": [
+        "VERB"
+    ],
+    "chasing": [
+        "VERB"
+    ],
+    "hot": [
+        "ADJ",
+        "NOUN"
+    ],
+    "Finally": [
+        "ADV"
+    ],
+    "nest": [
+        "NOUN"
+    ],
+    "hid": [
+        "VERB",
+        "NOUN"
+    ],
+    "safely": [
+        "ADV"
+    ],
+    "saved": [
+        "VERB"
+    ],
+    "skills": [
+        "NOUN"
+    ],
+    "rough": [
+        "ADV",
+        "ADJ"
+    ],
+    "wheel": [
+        "VERB",
+        "NOUN"
+    ],
+    "dad": [
+        "PROPN",
+        "NOUN"
+    ],
+    "Dad": [
+        "PROPN"
+    ],
+    "has": [
+        "AUX",
+        "VERB"
+    ],
+    "fix": [
+        "VERB",
+        "NOUN"
+    ],
+    "loo": [
+        "ADV",
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "screw": [
+        "VERB",
+        "NOUN"
+    ],
+    "tool": [
+        "NOUN"
+    ],
+    "fixed": [
+        "ADJ",
+        "VERB"
+    ],
+    "without": [
+        "ADP",
+        "SCONJ"
+    ],
+    "lived": [
+        "VERB"
+    ],
+    "after": [
+        "ADV",
+        "SCONJ",
+        "ADP"
+    ],
+    "Ben": [
+        "PROPN"
+    ],
+    "loves": [
+        "VERB",
+        "NOUN"
+    ],
+    "watch": [
+        "ADJ",
+        "VERB",
+        "NOUN",
+        "PROPN"
+    ],
+    "cartoons": [
+        "NOUN"
+    ],
+    "TV": [
+        "PROPN",
+        "NOUN"
+    ],
+    "likes": [
+        "VERB",
+        "NOUN"
+    ],
+    "funny": [
+        "ADV",
+        "ADJ"
+    ],
+    "cartoon": [
+        "NOUN"
+    ],
+    "famous": [
+        "ADJ"
+    ],
+    "mouse": [
+        "PROPN",
+        "NOUN"
+    ],
+    "goes": [
+        "VERB"
+    ],
+    "laughs": [
+        "VERB",
+        "NOUN"
+    ],
+    "sees": [
+        "VERB",
+        "NOUN"
+    ],
+    "silly": [
+        "ADV",
+        "ADJ",
+        "NOUN"
+    ],
+    "tells": [
+        "VERB"
+    ],
+    "says": [
+        "VERB"
+    ],
+    "real": [
+        "ADV",
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "life": [
+        "ADJ",
+        "NOUN"
+    ],
+    "puts": [
+        "VERB"
+    ],
+    "hat": [
+        "VERB",
+        "NOUN"
+    ],
+    "shirt": [
+        "NOUN"
+    ],
+    "wait": [
+        "VERB",
+        "NOUN"
+    ],
+    "meet": [
+        "VERB",
+        "NOUN"
+    ],
+    "park": [
+        "NOUN"
+    ],
+    "rid": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "games": [
+        "NOUN"
+    ],
+    "sign": [
+        "VERB",
+        "NOUN"
+    ],
+    "runs": [
+        "VERB",
+        "NOUN"
+    ],
+    "hugs": [
+        "VERB",
+        "NOUN"
+    ],
+    "love": [
+        "VERB",
+        "NOUN"
+    ],
+    "takes": [
+        "VERB"
+    ],
+    "picture": [
+        "NOUN"
+    ],
+    "smiles": [
+        "VERB",
+        "NOUN"
+    ],
+    "hear": [
+        "VERB",
+        "NOUN"
+    ],
+    "voice": [
+        "NOUN"
+    ],
+    "L": [
+        "ADV",
+        "ADJ",
+        "PROPN",
+        "INTJ",
+        "VERB",
+        "NOUN",
+        "ADP"
+    ],
+    "boys": [
+        "NOUN"
+    ],
+    "welcome": [
+        "ADV",
+        "ADJ",
+        "INTJ",
+        "VERB",
+        "NOUN"
+    ],
+    "looks": [
+        "VERB",
+        "NOUN"
+    ],
+    "stage": [
+        "NOUN"
+    ],
+    "suit": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "bow": [
+        "VERB",
+        "NOUN"
+    ],
+    "tie": [
+        "VERB",
+        "NOUN"
+    ],
+    "waves": [
+        "VERB",
+        "NOUN"
+    ],
+    "cr": [
+        "VERB",
+        "ADJ",
+        "PROPN",
+        "NOUN"
+    ],
+    "Hi": [
+        "ADJ",
+        "PROPN",
+        "INTJ",
+        "NOUN"
+    ],
+    "clap": [
+        "VERB",
+        "NOUN",
+        "PROPN"
+    ],
+    "che": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "jumps": [
+        "VERB",
+        "NOUN"
+    ],
+    "shout": [
+        "VERB",
+        "NOUN"
+    ],
+    "M": [
+        "ADV",
+        "ADJ",
+        "PROPN",
+        "PRON",
+        "VERB",
+        "NOUN",
+        "AUX"
+    ],
+    "points": [
+        "VERB",
+        "NOUN"
+    ],
+    "great": [
+        "PRON",
+        "ADV",
+        "ADJ"
+    ],
+    "fan": [
+        "ADJ",
+        "NOUN"
+    ],
+    "Come": [
+        "AUX",
+        "VERB"
+    ],
+    "here": [
+        "ADV",
+        "NOUN"
+    ],
+    "hug": [
+        "VERB",
+        "NOUN",
+        "PROPN"
+    ],
+    "believe": [
+        "VERB"
+    ],
+    "watching": [
+        "VERB"
+    ],
+    "hope": [
+        "ADV",
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "wonderful": [
+        "ADJ"
+    ],
+    "happ": [
+        "ADV",
+        "ADJ"
+    ],
+    "world": [
+        "NOUN"
+    ],
+    "will": [
+        "AUX",
+        "VERB",
+        "NOUN",
+        "ADJ"
+    ],
+    "wave": [
+        "VERB",
+        "NOUN"
+    ],
+    "Mom": [
+        "PROPN",
+        "NOUN"
+    ],
+    "glad": [
+        "ADV",
+        "ADJ"
+    ],
+    "lucky": [
+        "ADJ"
+    ],
+    "rest": [
+        "VERB",
+        "NOUN"
+    ],
+    "hold": [
+        "VERB",
+        "NOUN"
+    ],
+    "hands": [
+        "ADJ",
+        "NOUN"
+    ],
+    "ride": [
+        "VERB",
+        "NOUN"
+    ],
+    "thinks": [
+        "VERB"
+    ],
+    "forget": [
+        "VERB"
+    ],
+    "Sally": [
+        "PROPN"
+    ],
+    "fearful": [
+        "ADJ"
+    ],
+    "why": [
+        "SCONJ"
+    ],
+    "e": [
+        "ADV",
+        "ADJ",
+        "PROPN",
+        "NUM",
+        "VERB",
+        "NOUN"
+    ],
+    "pointed": [
+        "VERB"
+    ],
+    "E": [
+        "ADV",
+        "ADJ",
+        "PROPN",
+        "INTJ",
+        "PRON",
+        "VERB",
+        "NOUN",
+        "DET"
+    ],
+    "beach": [
+        "NOUN"
+    ],
+    "daddy": [
+        "NOUN"
+    ],
+    "swim": [
+        "VERB",
+        "NOUN"
+    ],
+    "ocean": [
+        "NOUN"
+    ],
+    "seas": [
+        "VERB",
+        "NOUN"
+    ],
+    "instead": [
+        "ADV"
+    ],
+    "along": [
+        "ADP",
+        "ADV"
+    ],
+    "shore": [
+        "NOUN"
+    ],
+    "seal": [
+        "VERB",
+        "NOUN"
+    ],
+    "sleeping": [
+        "VERB",
+        "NOUN"
+    ],
+    "hidden": [
+        "ADJ",
+        "VERB"
+    ],
+    "behind": [
+        "ADP",
+        "ADV"
+    ],
+    "sea": [
+        "NOUN"
+    ],
+    "wake": [
+        "VERB",
+        "NOUN"
+    ],
+    "bucket": [
+        "NOUN"
+    ],
+    "test": [
+        "VERB",
+        "NOUN"
+    ],
+    "safe": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "by": [
+        "ADP",
+        "ADV",
+        "INTJ",
+        "NOUN"
+    ],
+    "holding": [
+        "VERB"
+    ],
+    "waited": [
+        "VERB"
+    ],
+    "swimming": [
+        "VERB",
+        "NOUN"
+    ],
+    "sunflower": [
+        "NOUN"
+    ],
+    "field": [
+        "NOUN"
+    ],
+    "other": [
+        "ADV",
+        "ADJ"
+    ],
+    "flowers": [
+        "NOUN"
+    ],
+    "step": [
+        "VERB",
+        "NOUN"
+    ],
+    "most": [
+        "ADV",
+        "ADJ"
+    ],
+    "beautiful": [
+        "ADJ",
+        "PROPN"
+    ],
+    "flower": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "seen": [
+        "VERB"
+    ],
+    "run": [
+        "VERB",
+        "NOUN"
+    ],
+    "closer": [
+        "ADV",
+        "ADJ"
+    ],
+    "Just": [
+        "ADV"
+    ],
+    "wind": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "blew": [
+        "VERB"
+    ],
+    "far": [
+        "ADV",
+        "ADJ"
+    ],
+    "gone": [
+        "VERB"
+    ],
+    "garage": [
+        "NOUN"
+    ],
+    "rare": [
+        "ADV",
+        "ADJ"
+    ],
+    "showed": [
+        "VERB"
+    ],
+    "cool": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "How": [
+        "SCONJ"
+    ],
+    "gain": [
+        "VERB",
+        "NOUN"
+    ],
+    "magic": [
+        "ADV",
+        "ADJ",
+        "PROPN",
+        "NOUN"
+    ],
+    "hiding": [
+        "VERB",
+        "NOUN"
+    ],
+    "both": [
+        "PRON",
+        "ADV",
+        "CCONJ",
+        "DET"
+    ],
+    "wish": [
+        "VERB",
+        "NOUN"
+    ],
+    "wished": [
+        "VERB"
+    ],
+    "wishes": [
+        "VERB",
+        "NOUN"
+    ],
+    "come": [
+        "AUX",
+        "VERB"
+    ],
+    "true": [
+        "ADJ"
+    ],
+    "blue": [
+        "ADJ",
+        "PROPN",
+        "NOUN"
+    ],
+    "dolphin": [
+        "NOUN"
+    ],
+    "nodded": [
+        "VERB"
+    ],
+    "clapped": [
+        "VERB"
+    ],
+    "jumped": [
+        "VERB"
+    ],
+    "air": [
+        "NOUN"
+    ],
+    "splash": [
+        "VERB",
+        "NOUN"
+    ],
+    "lot": [
+        "NOUN"
+    ],
+    "playful": [
+        "ADJ"
+    ],
+    "soft": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "blanket": [
+        "NOUN"
+    ],
+    "carried": [
+        "VERB"
+    ],
+    "noticed": [
+        "VERB"
+    ],
+    "old": [
+        "ADJ"
+    ],
+    "borrow": [
+        "VERB",
+        "NOUN"
+    ],
+    "head": [
+        "VERB",
+        "NOUN"
+    ],
+    "chased": [
+        "VERB"
+    ],
+    "disappeared": [
+        "VERB"
+    ],
+    "stood": [
+        "VERB"
+    ],
+    "branches": [
+        "NOUN"
+    ],
+    "singing": [
+        "VERB",
+        "NOUN"
+    ],
+    "listen": [
+        "VERB",
+        "NOUN"
+    ],
+    "song": [
+        "VERB",
+        "NOUN"
+    ],
+    "under": [
+        "ADP",
+        "SCONJ",
+        "ADV",
+        "NOUN"
+    ],
+    "listened": [
+        "VERB"
+    ],
+    "rain": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "tough": [
+        "ADJ"
+    ],
+    "splashing": [
+        "VERB",
+        "NOUN"
+    ],
+    "puddles": [
+        "NOUN"
+    ],
+    "strange": [
+        "ADV",
+        "ADJ"
+    ],
+    "ra": [
+        "VERB",
+        "NOUN"
+    ],
+    "bigger": [
+        "ADJ"
+    ],
+    "noise": [
+        "NOUN"
+    ],
+    "flash": [
+        "VERB",
+        "NOUN"
+    ],
+    "light": [
+        "ADV",
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "thunder": [
+        "ADJ",
+        "NOUN"
+    ],
+    "lightning": [
+        "VERB",
+        "NOUN"
+    ],
+    "calling": [
+        "VERB"
+    ],
+    "house": [
+        "PROPN",
+        "NOUN"
+    ],
+    "gave": [
+        "VERB"
+    ],
+    "warm": [
+        "ADV",
+        "ADJ",
+        "PROPN",
+        "VERB",
+        "NOUN"
+    ],
+    "everything": [
+        "PRON"
+    ],
+    "dry": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "checked": [
+        "VERB"
+    ],
+    "weather": [
+        "NOUN"
+    ],
+    "city": [
+        "NOUN"
+    ],
+    "houses": [
+        "NOUN"
+    ],
+    "storm": [
+        "VERB",
+        "NOUN"
+    ],
+    "destroyed": [
+        "VERB"
+    ],
+    "homes": [
+        "NOUN"
+    ],
+    "A": [
+        "ADV",
+        "PROPN",
+        "INTJ",
+        "CCONJ",
+        "PRON",
+        "VERB",
+        "NOUN",
+        "DET",
+        "ADP"
+    ],
+    "restore": [
+        "VERB"
+    ],
+    "broken": [
+        "ADJ",
+        "VERB"
+    ],
+    "helping": [
+        "VERB"
+    ],
+    "whenever": [
+        "SCONJ"
+    ],
+    "needed": [
+        "VERB"
+    ],
+    "quiet": [
+        "ADJ",
+        "NOUN"
+    ],
+    "In": [
+        "ADV",
+        "ADJ",
+        "PROPN",
+        "NOUN",
+        "ADP"
+    ],
+    "box": [
+        "PROPN",
+        "NOUN"
+    ],
+    "opened": [
+        "VERB"
+    ],
+    "crown": [
+        "NOUN"
+    ],
+    "queen": [
+        "PROPN",
+        "NOUN"
+    ],
+    "out": [
+        "ADV",
+        "ADJ",
+        "VERB",
+        "NOUN",
+        "ADP"
+    ],
+    "Zip": [
+        "ADJ",
+        "PROPN",
+        "NOUN"
+    ],
+    "Z": [
+        "VERB",
+        "PROPN",
+        "NUM"
+    ],
+    "meowed": [
+        "VERB"
+    ],
+    "birthday": [
+        "NOUN"
+    ],
+    "party": [
+        "NOUN"
+    ],
+    "let": [
+        "VERB",
+        "NOUN"
+    ],
+    "shared": [
+        "ADJ",
+        "VERB"
+    ],
+    "fierce": [
+        "ADV",
+        "ADJ"
+    ],
+    "exploring": [
+        "VERB"
+    ],
+    "tall": [
+        "ADJ"
+    ],
+    "mountain": [
+        "NOUN"
+    ],
+    "climbed": [
+        "VERB"
+    ],
+    "higher": [
+        "ADV",
+        "ADJ"
+    ],
+    "top": [
+        "ADJ",
+        "NOUN"
+    ],
+    "castle": [
+        "PROPN",
+        "NOUN"
+    ],
+    "getting": [
+        "AUX",
+        "VERB"
+    ],
+    "worse": [
+        "ADJ"
+    ],
+    "clever": [
+        "ADV",
+        "ADJ"
+    ],
+    "bunny": [
+        "NOUN"
+    ],
+    "Benny": [
+        "PROPN",
+        "NOUN"
+    ],
+    "hop": [
+        "VERB",
+        "NOUN"
+    ],
+    "thread": [
+        "NOUN"
+    ],
+    "paws": [
+        "NOUN"
+    ],
+    "Bobby": [
+        "PROPN"
+    ],
+    "above": [
+        "ADP",
+        "ADV"
+    ],
+    "vanished": [
+        "VERB"
+    ],
+    "searched": [
+        "VERB"
+    ],
+    "F": [
+        "ADV",
+        "ADJ",
+        "PROPN",
+        "INTJ",
+        "NUM",
+        "SCONJ",
+        "VERB",
+        "NOUN",
+        "ADP"
+    ],
+    "hopped": [
+        "VERB"
+    ],
+    "squirrel": [
+        "NOUN"
+    ],
+    "upset": [
+        "ADJ",
+        "VERB"
+    ],
+    "wrong": [
+        "ADV",
+        "ADJ",
+        "NOUN"
+    ],
+    "being": [
+        "AUX"
+    ],
+    "feel": [
+        "AUX",
+        "VERB"
+    ],
+    "dizzy": [
+        "ADJ"
+    ],
+    "feeling": [
+        "AUX",
+        "VERB",
+        "NOUN"
+    ],
+    "well": [
+        "ADV",
+        "INTJ",
+        "NOUN"
+    ],
+    "sit": [
+        "VERB",
+        "NOUN"
+    ],
+    "bit": [
+        "VERB",
+        "NOUN",
+        "PROPN"
+    ],
+    "exper": [
+        "VERB",
+        "NOUN"
+    ],
+    "herself": [
+        "PRON"
+    ],
+    "ask": [
+        "VERB"
+    ],
+    "needs": [
+        "VERB",
+        "NOUN"
+    ],
+    "wipe": [
+        "VERB",
+        "NOUN"
+    ],
+    "towel": [
+        "NOUN"
+    ],
+    "drink": [
+        "VERB",
+        "NOUN"
+    ],
+    "large": [
+        "ADJ"
+    ],
+    "jug": [
+        "ADV",
+        "VERB",
+        "NOUN"
+    ],
+    "anything": [
+        "PRON"
+    ],
+    "key": [
+        "ADJ",
+        "NOUN"
+    ],
+    "Maybe": [
+        "ADV"
+    ],
+    "Inside": [
+        "ADP",
+        "ADV",
+        "PROPN"
+    ],
+    "jolly": [
+        "ADJ"
+    ],
+    "bounce": [
+        "VERB",
+        "NOUN"
+    ],
+    "green": [
+        "ADJ",
+        "PROPN",
+        "NOUN"
+    ],
+    "owner": [
+        "NOUN"
+    ],
+    "pri": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "expensive": [
+        "ADJ"
+    ],
+    "bounced": [
+        "VERB"
+    ],
+    "free": [
+        "ADV",
+        "ADJ",
+        "VERB"
+    ],
+    "balls": [
+        "NOUN"
+    ],
+    "whole": [
+        "ADJ",
+        "NOUN"
+    ],
+    "meadow": [
+        "NOUN"
+    ],
+    "colorful": [
+        "ADJ"
+    ],
+    "broccoli": [
+        "NOUN"
+    ],
+    "freezer": [
+        "NOUN"
+    ],
+    "keep": [
+        "AUX",
+        "VERB",
+        "NOUN"
+    ],
+    "fresh": [
+        "ADV",
+        "ADJ"
+    ],
+    "cold": [
+        "ADJ",
+        "PROPN",
+        "NOUN"
+    ],
+    "mistake": [
+        "NOUN"
+    ],
+    "putting": [
+        "VERB"
+    ],
+    "ate": [
+        "VERB"
+    ],
+    "powerful": [
+        "ADJ"
+    ],
+    "wolf": [
+        "PROPN",
+        "NOUN"
+    ],
+    "sang": [
+        "VERB"
+    ],
+    "My": [
+        "PRON"
+    ],
+    "Jill": [
+        "PROPN"
+    ],
+    "picnic": [
+        "NOUN"
+    ],
+    "collected": [
+        "VERB"
+    ],
+    "include": [
+        "VERB"
+    ],
+    "which": [
+        "PRON",
+        "DET"
+    ],
+    "stuffed": [
+        "ADJ",
+        "VERB"
+    ],
+    "yummy": [
+        "ADJ",
+        "NOUN"
+    ],
+    "soup": [
+        "NOUN"
+    ],
+    "packed": [
+        "ADJ",
+        "VERB"
+    ],
+    "spot": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "arrived": [
+        "VERB"
+    ],
+    "comfort": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "basket": [
+        "NOUN"
+    ],
+    "pulled": [
+        "VERB"
+    ],
+    "surprise": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "fell": [
+        "VERB"
+    ],
+    "knee": [
+        "NOUN"
+    ],
+    "cried": [
+        "VERB"
+    ],
+    "bandage": [
+        "NOUN"
+    ],
+    "nap": [
+        "VERB",
+        "NOUN"
+    ],
+    "woke": [
+        "VERB"
+    ],
+    "able": [
+        "ADJ"
+    ],
+    "Lucy": [
+        "PROPN"
+    ],
+    "dream": [
+        "VERB",
+        "NOUN"
+    ],
+    "order": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "wild": [
+        "ADJ",
+        "NOUN"
+    ],
+    "animal": [
+        "NOUN"
+    ],
+    "night": [
+        "NOUN"
+    ],
+    "backyard": [
+        "NOUN"
+    ],
+    "Do": [
+        "VERB",
+        "AUX",
+        "PROPN",
+        "NOUN"
+    ],
+    "Sure": [
+        "ADJ",
+        "INTJ"
+    ],
+    "aeropl": [
+        "NOUN"
+    ],
+    "parents": [
+        "NOUN"
+    ],
+    "airport": [
+        "NOUN"
+    ],
+    "land": [
+        "VERB",
+        "NOUN"
+    ],
+    "aeroplane": [
+        "NOUN"
+    ],
+    "towards": [
+        "ADP"
+    ],
+    "dangerous": [
+        "ADJ"
+    ],
+    "slipped": [
+        "VERB"
+    ],
+    "sleepy": [
+        "ADJ"
+    ],
+    "yawned": [
+        "VERB"
+    ],
+    "closed": [
+        "ADJ",
+        "VERB"
+    ],
+    "eyes": [
+        "NOUN"
+    ],
+    "rushed": [
+        "VERB"
+    ],
+    "hospital": [
+        "NOUN"
+    ],
+    "interesting": [
+        "ADJ",
+        "NOUN"
+    ],
+    "or": [
+        "ADJ",
+        "VERB",
+        "CCONJ",
+        "NOUN"
+    ],
+    "brown": [
+        "ADJ",
+        "NOUN"
+    ],
+    "Max": [
+        "PROPN"
+    ],
+    "yard": [
+        "NOUN"
+    ],
+    "sunny": [
+        "ADJ"
+    ],
+    "warned": [
+        "VERB"
+    ],
+    "thanked": [
+        "VERB"
+    ],
+    "operation": [
+        "NOUN"
+    ],
+    "nosy": [
+        "ADJ"
+    ],
+    "cup": [
+        "PROPN",
+        "NOUN"
+    ],
+    "mine": [
+        "PRON",
+        "ADJ",
+        "NOUN"
+    ],
+    "quarrel": [
+        "VERB",
+        "NOUN"
+    ],
+    "wise": [
+        "ADV",
+        "ADJ"
+    ],
+    "owl": [
+        "NOUN"
+    ],
+    "sharing": [
+        "VERB",
+        "NOUN"
+    ],
+    "once": [
+        "ADV",
+        "SCONJ"
+    ],
+    "miserable": [
+        "ADJ"
+    ],
+    "puppy": [
+        "NOUN"
+    ],
+    "woods": [
+        "NOUN"
+    ],
+    "alone": [
+        "ADV",
+        "ADJ"
+    ],
+    "someone": [
+        "PRON"
+    ],
+    "spotted": [
+        "VERB"
+    ],
+    "le": [
+        "ADV",
+        "ADJ",
+        "PROPN",
+        "VERB",
+        "NOUN"
+    ],
+    "touch": [
+        "VERB",
+        "NOUN"
+    ],
+    "kneel": [
+        "VERB"
+    ],
+    "pat": [
+        "VERB",
+        "NOUN"
+    ],
+    "must": [
+        "AUX",
+        "NOUN"
+    ],
+    "words": [
+        "NOUN"
+    ],
+    "bath": [
+        "NOUN"
+    ],
+    "food": [
+        "NOUN"
+    ],
+    "pup": [
+        "NOUN"
+    ],
+    "comfortable": [
+        "ADJ"
+    ],
+    "spend": [
+        "VERB"
+    ],
+    "days": [
+        "NOUN"
+    ],
+    "lying": [
+        "VERB",
+        "NOUN"
+    ],
+    "content": [
+        "ADJ",
+        "NOUN"
+    ],
+    "longer": [
+        "ADV",
+        "ADJ"
+    ],
+    "wide": [
+        "ADV",
+        "ADJ",
+        "NOUN"
+    ],
+    "muffin": [
+        "NOUN"
+    ],
+    "floor": [
+        "NOUN"
+    ],
+    "hungry": [
+        "ADJ"
+    ],
+    "shrink": [
+        "VERB",
+        "NOUN"
+    ],
+    "smaller": [
+        "ADJ"
+    ],
+    "enough": [
+        "ADV",
+        "ADJ"
+    ],
+    "tasty": [
+        "ADJ"
+    ],
+    "giraffe": [
+        "NOUN"
+    ],
+    "stand": [
+        "VERB",
+        "NOUN"
+    ],
+    "monkey": [
+        "NOUN"
+    ],
+    "still": [
+        "ADV"
+    ],
+    "elephant": [
+        "NOUN"
+    ],
+    "though": [
+        "ADV",
+        "SCONJ"
+    ],
+    "work": [
+        "VERB",
+        "NOUN"
+    ],
+    "nation": [
+        "NOUN"
+    ],
+    "bee": [
+        "PROPN",
+        "NOUN"
+    ],
+    "collect": [
+        "VERB"
+    ],
+    "ne": [
+        "ADJ",
+        "CCONJ",
+        "PRON",
+        "VERB",
+        "NOUN"
+    ],
+    "stuck": [
+        "ADJ",
+        "VERB"
+    ],
+    "buzz": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "nobody": [
+        "PRON"
+    ],
+    "Welcome": [
+        "ADJ",
+        "PROPN",
+        "INTJ",
+        "VERB",
+        "NOUN"
+    ],
+    "welcomed": [
+        "VERB"
+    ],
+    "diary": [
+        "NOUN"
+    ],
+    "drew": [
+        "VERB"
+    ],
+    "pictures": [
+        "NOUN"
+    ],
+    "enthusiastic": [
+        "ADV",
+        "ADJ"
+    ],
+    "drawing": [
+        "VERB",
+        "NOUN"
+    ],
+    "relax": [
+        "ADJ",
+        "VERB"
+    ],
+    "swings": [
+        "VERB",
+        "NOUN"
+    ],
+    "draw": [
+        "VERB",
+        "NOUN"
+    ],
+    "drawings": [
+        "NOUN"
+    ],
+    "amazed": [
+        "ADJ"
+    ],
+    "yellow": [
+        "ADJ",
+        "PROPN",
+        "NOUN"
+    ],
+    "Sunny": [
+        "ADJ",
+        "PROPN",
+        "NOUN"
+    ],
+    "cloud": [
+        "ADJ",
+        "NOUN"
+    ],
+    "curious": [
+        "ADV",
+        "ADJ"
+    ],
+    "grow": [
+        "VERB",
+        "NOUN"
+    ],
+    "incre": [
+        "VERB",
+        "NOUN"
+    ],
+    "size": [
+        "NOUN"
+    ],
+    "happening": [
+        "VERB",
+        "NOUN"
+    ],
+    "Blue": [
+        "ADJ",
+        "PROPN",
+        "NOUN"
+    ],
+    "B": [
+        "ADV",
+        "ADJ",
+        "PROPN",
+        "INTJ",
+        "SCONJ",
+        "CCONJ",
+        "PRON",
+        "VERB",
+        "NOUN",
+        "DET",
+        "ADP"
+    ],
+    "S": [
+        "ADV",
+        "ADJ",
+        "PROPN",
+        "INTJ",
+        "SCONJ",
+        "NUM",
+        "PRON",
+        "VERB",
+        "NOUN",
+        "DET",
+        "AUX"
+    ],
+    "gets": [
+        "AUX",
+        "VERB"
+    ],
+    "learn": [
+        "VERB"
+    ],
+    "birds": [
+        "NOUN"
+    ],
+    "thick": [
+        "ADJ"
+    ],
+    "dark": [
+        "ADJ",
+        "PROPN",
+        "NOUN"
+    ],
+    "clouds": [
+        "NOUN"
+    ],
+    "coming": [
+        "VERB"
+    ],
+    "encouraged": [
+        "ADJ",
+        "VERB"
+    ],
+    "boots": [
+        "NOUN"
+    ],
+    "began": [
+        "VERB"
+    ],
+    "fall": [
+        "VERB",
+        "NOUN"
+    ],
+    "perfect": [
+        "ADJ",
+        "PROPN",
+        "NOUN"
+    ],
+    "closet": [
+        "NOUN"
+    ],
+    "messy": [
+        "ADJ",
+        "NOUN"
+    ],
+    "ugly": [
+        "ADJ"
+    ],
+    "meant": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "explained": [
+        "VERB"
+    ],
+    "neat": [
+        "ADV",
+        "ADJ"
+    ],
+    "tidy": [
+        "ADJ",
+        "VERB"
+    ],
+    "spent": [
+        "VERB"
+    ],
+    "afternoon": [
+        "NOUN"
+    ],
+    "cleaning": [
+        "VERB",
+        "NOUN"
+    ],
+    "later": [
+        "ADV"
+    ],
+    "strong": [
+        "ADJ"
+    ],
+    "apart": [
+        "ADV",
+        "NOUN"
+    ],
+    "clothes": [
+        "NOUN"
+    ],
+    "ruined": [
+        "VERB"
+    ],
+    "cleaned": [
+        "VERB"
+    ],
+    "earlier": [
+        "ADV",
+        "ADJ"
+    ],
+    "jealous": [
+        "ADJ",
+        "NOUN"
+    ],
+    "sec": [
+        "ADV",
+        "ADJ",
+        "NOUN"
+    ],
+    "stopped": [
+        "VERB"
+    ],
+    "week": [
+        "NOUN"
+    ],
+    "anyone": [
+        "PRON"
+    ],
+    "missed": [
+        "VERB"
+    ],
+    "apolog": [
+        "VERB",
+        "NOUN"
+    ],
+    "forgave": [
+        "VERB"
+    ],
+    "friendship": [
+        "NOUN"
+    ],
+    "forg": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "Fluffy": [
+        "ADJ",
+        "PROPN",
+        "NOUN"
+    ],
+    "living": [
+        "VERB",
+        "NOUN"
+    ],
+    "spoiled": [
+        "ADJ",
+        "VERB"
+    ],
+    "cake": [
+        "VERB",
+        "NOUN"
+    ],
+    "bad": [
+        "ADJ",
+        "NOUN"
+    ],
+    "leave": [
+        "VERB"
+    ],
+    "hill": [
+        "PROPN",
+        "NOUN"
+    ],
+    "view": [
+        "NOUN"
+    ],
+    "waiting": [
+        "VERB",
+        "NOUN"
+    ],
+    "seek": [
+        "VERB",
+        "NOUN"
+    ],
+    "tag": [
+        "VERB",
+        "NOUN"
+    ],
+    "race": [
+        "VERB",
+        "NOUN",
+        "PROPN"
+    ],
+    "Billy": [
+        "PROPN"
+    ],
+    "lead": [
+        "VERB",
+        "NOUN"
+    ],
+    "finish": [
+        "VERB",
+        "NOUN",
+        "PROPN"
+    ],
+    "line": [
+        "VERB",
+        "NOUN"
+    ],
+    "won": [
+        "VERB"
+    ],
+    "same": [
+        "ADJ"
+    ],
+    "Good": [
+        "ADJ",
+        "PROPN",
+        "INTJ",
+        "NOUN"
+    ],
+    "square": [
+        "ADJ",
+        "PROPN",
+        "NOUN"
+    ],
+    "V": [
+        "ADV",
+        "PROPN",
+        "NOUN"
+    ],
+    "street": [
+        "NOUN"
+    ],
+    "That": [
+        "PRON",
+        "SCONJ",
+        "DET"
+    ],
+    "matter": [
+        "ADV",
+        "VERB",
+        "NOUN"
+    ],
+    "winning": [
+        "VERB"
+    ],
+    "snacks": [
+        "NOUN"
+    ],
+    "cost": [
+        "VERB",
+        "NOUN"
+    ],
+    "fighting": [
+        "VERB",
+        "NOUN"
+    ],
+    "nervous": [
+        "ADV",
+        "ADJ",
+        "NOUN"
+    ],
+    "ar": [
+        "VERB",
+        "NOUN"
+    ],
+    "relieved": [
+        "ADJ",
+        "VERB"
+    ],
+    "jacket": [
+        "NOUN"
+    ],
+    "zipper": [
+        "NOUN"
+    ],
+    "zip": [
+        "VERB",
+        "NOUN"
+    ],
+    "teach": [
+        "VERB",
+        "NOUN"
+    ],
+    "himself": [
+        "PRON"
+    ],
+    "river": [
+        "PROPN",
+        "NOUN"
+    ],
+    "duck": [
+        "VERB",
+        "NOUN"
+    ],
+    "exclaimed": [
+        "VERB"
+    ],
+    "shoot": [
+        "VERB",
+        "NOUN"
+    ],
+    "gun": [
+        "NOUN"
+    ],
+    "finding": [
+        "VERB"
+    ],
+    "rocks": [
+        "NOUN"
+    ],
+    "throw": [
+        "VERB",
+        "NOUN"
+    ],
+    "sticks": [
+        "VERB",
+        "NOUN"
+    ],
+    "fetch": [
+        "VERB",
+        "NOUN"
+    ],
+    "zoo": [
+        "NOUN"
+    ],
+    "monkeys": [
+        "NOUN"
+    ],
+    "smart": [
+        "ADJ",
+        "NOUN"
+    ],
+    "swung": [
+        "VERB"
+    ],
+    "faces": [
+        "NOUN"
+    ],
+    "cage": [
+        "NOUN"
+    ],
+    "pet": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "scratch": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "Please": [
+        "VERB",
+        "INTJ"
+    ],
+    "begged": [
+        "VERB"
+    ],
+    "either": [
+        "PRON",
+        "ADV",
+        "CCONJ"
+    ],
+    "locked": [
+        "VERB"
+    ],
+    "rules": [
+        "NOUN"
+    ],
+    "hole": [
+        "NOUN"
+    ],
+    "fence": [
+        "NOUN"
+    ],
+    "crawled": [
+        "VERB"
+    ],
+    "scream": [
+        "VERB",
+        "NOUN"
+    ],
+    "scr": [
+        "VERB",
+        "NOUN"
+    ],
+    "trapped": [
+        "VERB"
+    ],
+    "shocked": [
+        "ADJ",
+        "VERB"
+    ],
+    "scolded": [
+        "VERB"
+    ],
+    "mad": [
+        "ADJ"
+    ],
+    "drove": [
+        "VERB"
+    ],
+    "rooms": [
+        "NOUN"
+    ],
+    "cut": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "br": [
+        "VERB",
+        "NOUN"
+    ],
+    "lesson": [
+        "NOUN"
+    ],
+    "butterfly": [
+        "NOUN"
+    ],
+    "nearby": [
+        "ADV",
+        "ADJ"
+    ],
+    "keeping": [
+        "VERB"
+    ],
+    "past": [
+        "ADP",
+        "ADJ",
+        "ADV",
+        "NOUN"
+    ],
+    "z": [
+        "NUM",
+        "VERB",
+        "NOUN",
+        "PROPN"
+    ],
+    "sound": [
+        "ADV",
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "scary": [
+        "ADJ"
+    ],
+    "fish": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "struggling": [
+        "VERB"
+    ],
+    "support": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "swam": [
+        "ADV",
+        "VERB"
+    ],
+    "properly": [
+        "ADV"
+    ],
+    "classroom": [
+        "NOUN"
+    ],
+    "spoil": [
+        "ADJ",
+        "VERB"
+    ],
+    "class": [
+        "VERB",
+        "NOUN"
+    ],
+    "three": [
+        "NUM"
+    ],
+    "candy": [
+        "NOUN"
+    ],
+    "bar": [
+        "ADJ",
+        "NOUN"
+    ],
+    "everyone": [
+        "PRON",
+        "PROPN"
+    ],
+    "else": [
+        "ADV",
+        "NOUN"
+    ],
+    "teacher": [
+        "NOUN"
+    ],
+    "w": [
+        "ADV",
+        "ADJ",
+        "PROPN",
+        "INTJ",
+        "SCONJ",
+        "PRON",
+        "VERB",
+        "NOUN",
+        "ADP",
+        "AUX"
+    ],
+    "Mary": [
+        "PROPN"
+    ],
+    "ignorant": [
+        "ADV",
+        "ADJ",
+        "NOUN"
+    ],
+    "app": [
+        "VERB",
+        "NOUN"
+    ],
+    "lunch": [
+        "NOUN"
+    ],
+    "future": [
+        "ADJ",
+        "NOUN"
+    ],
+    "act": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "knife": [
+        "NOUN"
+    ],
+    "cutting": [
+        "VERB"
+    ],
+    "apple": [
+        "NOUN"
+    ],
+    "use": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "almost": [
+        "ADV"
+    ],
+    "finger": [
+        "NOUN"
+    ],
+    "Let": [
+        "AUX",
+        "VERB",
+        "NOUN"
+    ],
+    "kn": [
+        "VERB",
+        "NOUN"
+    ],
+    "listening": [
+        "VERB",
+        "NOUN"
+    ],
+    "music": [
+        "ADJ",
+        "NOUN"
+    ],
+    "cookies": [
+        "NOUN"
+    ],
+    "cookie": [
+        "NOUN"
+    ],
+    "dreaming": [
+        "VERB"
+    ],
+    "phone": [
+        "NOUN"
+    ],
+    "snack": [
+        "VERB",
+        "NOUN"
+    ],
+    "Anna": [
+        "PROPN"
+    ],
+    "doors": [
+        "NOUN"
+    ],
+    "woman": [
+        "NOUN"
+    ],
+    "bags": [
+        "NOUN"
+    ],
+    "wealthy": [
+        "ADJ"
+    ],
+    "nods": [
+        "VERB"
+    ],
+    "hair": [
+        "NOUN"
+    ],
+    "dress": [
+        "VERB",
+        "NOUN"
+    ],
+    "dolls": [
+        "NOUN"
+    ],
+    "wants": [
+        "VERB",
+        "NOUN"
+    ],
+    "asks": [
+        "VERB"
+    ],
+    "gives": [
+        "VERB"
+    ],
+    "name": [
+        "VERB",
+        "NOUN"
+    ],
+    "thank": [
+        "VERB",
+        "NOUN"
+    ],
+    "shows": [
+        "VERB",
+        "NOUN"
+    ],
+    "pink": [
+        "ADV",
+        "ADJ",
+        "NOUN"
+    ],
+    "cars": [
+        "NOUN"
+    ],
+    "buttons": [
+        "NOUN"
+    ],
+    "lights": [
+        "NOUN"
+    ],
+    "shake": [
+        "VERB",
+        "NOUN"
+    ],
+    "delicate": [
+        "ADV",
+        "ADJ"
+    ],
+    "break": [
+        "VERB",
+        "NOUN"
+    ],
+    "does": [
+        "AUX",
+        "VERB"
+    ],
+    "understand": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "call": [
+        "VERB",
+        "NOUN"
+    ],
+    "knows": [
+        "VERB"
+    ],
+    "feelings": [
+        "NOUN"
+    ],
+    "tries": [
+        "VERB",
+        "NOUN"
+    ],
+    "pretend": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "laugh": [
+        "VERB",
+        "NOUN",
+        "PROPN"
+    ],
+    "worried": [
+        "ADV",
+        "ADJ",
+        "VERB"
+    ],
+    "decide": [
+        "VERB"
+    ],
+    "gift": [
+        "NOUN"
+    ],
+    "than": [
+        "ADP",
+        "VERB",
+        "SCONJ"
+    ],
+    "These": [
+        "PRON",
+        "DET"
+    ],
+    "yours": [
+        "PRON",
+        "NOUN"
+    ],
+    "trains": [
+        "NOUN"
+    ],
+    "riding": [
+        "VERB",
+        "NOUN"
+    ],
+    "subway": [
+        "NOUN"
+    ],
+    "busy": [
+        "ADJ"
+    ],
+    "school": [
+        "VERB",
+        "NOUN"
+    ],
+    "organize": [
+        "VERB"
+    ],
+    "window": [
+        "NOUN"
+    ],
+    "seeing": [
+        "VERB"
+    ],
+    "build": [
+        "VERB",
+        "NOUN"
+    ],
+    "bother": [
+        "VERB"
+    ],
+    "treasures": [
+        "NOUN"
+    ],
+    "tiny": [
+        "ADJ"
+    ],
+    "wing": [
+        "NOUN"
+    ],
+    "become": [
+        "VERB"
+    ],
+    "passed": [
+        "VERB"
+    ],
+    "knock": [
+        "VERB",
+        "NOUN"
+    ],
+    "mess": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "itself": [
+        "PRON"
+    ],
+    "gently": [
+        "ADV"
+    ],
+    "belongs": [
+        "VERB"
+    ],
+    "fields": [
+        "NOUN"
+    ],
+    "across": [
+        "ADP"
+    ],
+    "harsh": [
+        "ADV",
+        "ADJ"
+    ],
+    "farmer": [
+        "NOUN"
+    ],
+    "telling": [
+        "VERB"
+    ],
+    "grabbed": [
+        "VERB"
+    ],
+    "plate": [
+        "NOUN"
+    ],
+    "If": [
+        "SCONJ"
+    ],
+    "fold": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "four": [
+        "NUM"
+    ],
+    "conf": [
+        "ADV",
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "ch": [
+        "ADJ",
+        "PROPN",
+        "INTJ",
+        "VERB",
+        "NOUN"
+    ],
+    "seem": [
+        "VERB"
+    ],
+    "figure": [
+        "VERB",
+        "NOUN"
+    ],
+    "cry": [
+        "VERB",
+        "NOUN"
+    ],
+    "determined": [
+        "ADJ",
+        "VERB"
+    ],
+    "N": [
+        "ADV",
+        "ADJ",
+        "PROPN",
+        "INTJ",
+        "PRON",
+        "PART",
+        "NOUN",
+        "ADP"
+    ],
+    "succeed": [
+        "VERB"
+    ],
+    "fa": [
+        "ADV",
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "teaching": [
+        "VERB"
+    ],
+    "valuable": [
+        "ADJ",
+        "NOUN"
+    ],
+    "seemed": [
+        "VERB"
+    ],
+    "hippo": [
+        "VERB",
+        "PROPN",
+        "NOUN"
+    ],
+    "H": [
+        "ADV",
+        "ADJ",
+        "PROPN",
+        "INTJ",
+        "PRON",
+        "VERB",
+        "NOUN",
+        "AUX"
+    ],
+    "march": [
+        "VERB",
+        "NOUN",
+        "PROPN"
+    ],
+    "mud": [
+        "NOUN"
+    ],
+    "Tweet": [
+        "PROPN",
+        "NOUN"
+    ],
+    "Hey": [
+        "INTJ"
+    ],
+    "makes": [
+        "VERB"
+    ],
+    "juice": [
+        "NOUN"
+    ],
+    "drank": [
+        "VERB"
+    ],
+    "D": [
+        "ADV",
+        "ADJ",
+        "PROPN",
+        "SCONJ",
+        "VERB",
+        "NOUN",
+        "ADP",
+        "AUX"
+    ],
+    "uncomfortable": [
+        "ADJ"
+    ],
+    "moder": [
+        "NOUN"
+    ],
+    "means": [
+        "VERB",
+        "NOUN"
+    ],
+    "sometimes": [
+        "ADV"
+    ],
+    "tower": [
+        "NOUN"
+    ],
+    "middle": [
+        "ADJ",
+        "NOUN"
+    ],
+    "windows": [
+        "NOUN"
+    ],
+    "mild": [
+        "ADJ"
+    ],
+    "Whiskers": [
+        "PROPN",
+        "NOUN"
+    ],
+    "bed": [
+        "NOUN"
+    ],
+    "tell": [
+        "VERB",
+        "NOUN"
+    ],
+    "fam": [
+        "ADJ",
+        "NOUN"
+    ],
+    "screen": [
+        "NOUN"
+    ],
+    "couch": [
+        "NOUN"
+    ],
+    "print": [
+        "VERB",
+        "NOUN"
+    ],
+    "printer": [
+        "NOUN"
+    ],
+    "smoke": [
+        "VERB",
+        "NOUN"
+    ],
+    "nothing": [
+        "PRON"
+    ],
+    "velvet": [
+        "NOUN"
+    ],
+    "tomorrow": [
+        "ADV",
+        "PROPN",
+        "NOUN"
+    ],
+    "plan": [
+        "VERB",
+        "NOUN"
+    ],
+    "morning": [
+        "NOUN"
+    ],
+    "knowing": [
+        "VERB"
+    ],
+    "count": [
+        "VERB",
+        "NOUN"
+    ],
+    "catch": [
+        "VERB",
+        "NOUN"
+    ],
+    "camera": [
+        "NOUN"
+    ],
+    "record": [
+        "VERB",
+        "NOUN"
+    ],
+    "set": [
+        "VERB",
+        "NOUN"
+    ],
+    "To": [
+        "ADP",
+        "PROPN",
+        "PART",
+        "NOUN"
+    ],
+    "journey": [
+        "VERB",
+        "NOUN"
+    ],
+    "coat": [
+        "NOUN"
+    ],
+    "contin": [
+        "VERB"
+    ],
+    "summer": [
+        "NOUN"
+    ],
+    "mysterious": [
+        "ADJ"
+    ],
+    "b": [
+        "ADV",
+        "ADJ",
+        "PROPN",
+        "CCONJ",
+        "SCONJ",
+        "VERB",
+        "NOUN"
+    ],
+    "mixed": [
+        "ADJ",
+        "VERB"
+    ],
+    "dis": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "popped": [
+        "VERB"
+    ],
+    "organ": [
+        "VERB",
+        "NOUN"
+    ],
+    "moon": [
+        "NOUN"
+    ],
+    "slept": [
+        "VERB"
+    ],
+    "wa": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "organized": [
+        "ADJ",
+        "VERB"
+    ],
+    "sharp": [
+        "ADJ",
+        "VERB"
+    ],
+    "lovely": [
+        "ADJ"
+    ],
+    "loudly": [
+        "ADV"
+    ],
+    "chirped": [
+        "VERB"
+    ],
+    "louder": [
+        "ADV",
+        "ADJ"
+    ],
+    "enjoying": [
+        "VERB"
+    ],
+    "sounds": [
+        "VERB",
+        "NOUN"
+    ],
+    "humble": [
+        "ADJ"
+    ],
+    "Even": [
+        "ADV"
+    ],
+    "pr": [
+        "VERB",
+        "NOUN"
+    ],
+    "notice": [
+        "VERB"
+    ],
+    "save": [
+        "VERB"
+    ],
+    "d": [
+        "ADV",
+        "ADJ",
+        "VERB",
+        "NOUN",
+        "AUX"
+    ],
+    "calendar": [
+        "NOUN"
+    ],
+    "paper": [
+        "NOUN"
+    ],
+    "numbers": [
+        "NOUN"
+    ],
+    "present": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "grandma": [
+        "PRON",
+        "NOUN"
+    ],
+    "gloomy": [
+        "ADJ"
+    ],
+    "baby": [
+        "NOUN"
+    ],
+    "neighbor": [
+        "NOUN"
+    ],
+    "lend": [
+        "VERB"
+    ],
+    "leaving": [
+        "VERB"
+    ],
+    "crying": [
+        "VERB",
+        "NOUN"
+    ],
+    "carrying": [
+        "VERB"
+    ],
+    "T": [
+        "ADV",
+        "ADJ",
+        "PROPN",
+        "NUM",
+        "VERB",
+        "PART",
+        "NOUN"
+    ],
+    "hunter": [
+        "NOUN"
+    ],
+    "shut": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "Emily": [
+        "PROPN"
+    ],
+    "teaspoon": [
+        "NOUN"
+    ],
+    "sugar": [
+        "NOUN"
+    ],
+    "disag": [
+        "VERB",
+        "NOUN"
+    ],
+    "arg": [
+        "VERB",
+        "NOUN"
+    ],
+    "baking": [
+        "VERB",
+        "NOUN"
+    ],
+    "sprink": [
+        "VERB",
+        "NOUN"
+    ],
+    "extra": [
+        "ADV",
+        "ADJ"
+    ],
+    "apologized": [
+        "VERB"
+    ],
+    "jump": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "slide": [
+        "VERB",
+        "NOUN"
+    ],
+    "black": [
+        "ADJ",
+        "PROPN",
+        "NOUN"
+    ],
+    "answer": [
+        "VERB",
+        "NOUN"
+    ],
+    "C": [
+        "ADV",
+        "ADJ",
+        "PROPN",
+        "VERB",
+        "NOUN",
+        "AUX"
+    ],
+    "stick": [
+        "VERB",
+        "NOUN"
+    ],
+    "distant": [
+        "ADJ"
+    ],
+    "mum": [
+        "NOUN"
+    ],
+    "o": [
+        "ADJ",
+        "PROPN",
+        "INTJ",
+        "VERB",
+        "NOUN",
+        "ADP"
+    ],
+    "disappointed": [
+        "ADJ",
+        "VERB"
+    ],
+    "onto": [
+        "ADP"
+    ],
+    "slid": [
+        "VERB",
+        "NOUN"
+    ],
+    "cra": [
+        "VERB",
+        "NOUN"
+    ],
+    "fallen": [
+        "ADJ",
+        "VERB"
+    ],
+    "Mum": [
+        "PROPN",
+        "NOUN"
+    ],
+    "tightly": [
+        "ADV"
+    ],
+    "daughter": [
+        "NOUN"
+    ],
+    "cave": [
+        "NOUN"
+    ],
+    "l": [
+        "ADV",
+        "ADJ",
+        "PROPN",
+        "VERB",
+        "NOUN"
+    ],
+    "planned": [
+        "VERB"
+    ],
+    "flashlight": [
+        "NOUN"
+    ],
+    "pond": [
+        "PROPN",
+        "NOUN"
+    ],
+    "frog": [
+        "ADJ",
+        "NOUN"
+    ],
+    "Fred": [
+        "PROPN"
+    ],
+    "dive": [
+        "VERB",
+        "NOUN"
+    ],
+    "pebble": [
+        "NOUN"
+    ],
+    "bottom": [
+        "NOUN"
+    ],
+    "breath": [
+        "NOUN"
+    ],
+    "dove": [
+        "VERB",
+        "NOUN"
+    ],
+    "mouth": [
+        "NOUN"
+    ],
+    "di": [
+        "VERB",
+        "NOUN"
+    ],
+    "laughing": [
+        "VERB",
+        "NOUN"
+    ],
+    "guard": [
+        "VERB",
+        "NOUN"
+    ],
+    "Bobo": [
+        "PROPN"
+    ],
+    "collar": [
+        "NOUN"
+    ],
+    "forever": [
+        "ADV",
+        "NOUN"
+    ],
+    "twins": [
+        "NOUN"
+    ],
+    "shelf": [
+        "NOUN"
+    ],
+    "wheels": [
+        "NOUN"
+    ],
+    "start": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "argue": [
+        "VERB"
+    ],
+    "pull": [
+        "VERB",
+        "NOUN"
+    ],
+    "push": [
+        "VERB",
+        "NOUN"
+    ],
+    "hears": [
+        "VERB"
+    ],
+    "comes": [
+        "VERB"
+    ],
+    "Stop": [
+        "VERB"
+    ],
+    "nicely": [
+        "ADV"
+    ],
+    "Sorry": [
+        "ADJ",
+        "PROPN",
+        "INTJ"
+    ],
+    "nod": [
+        "VERB",
+        "ADJ",
+        "PROPN",
+        "NOUN"
+    ],
+    "bike": [
+        "NOUN"
+    ],
+    "G": [
+        "ADJ",
+        "PROPN",
+        "INTJ",
+        "VERB",
+        "NOUN"
+    ],
+    "these": [
+        "PRON",
+        "DET"
+    ],
+    "spin": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "children": [
+        "NOUN"
+    ],
+    "spinning": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "promised": [
+        "VERB"
+    ],
+    "wet": [
+        "VERB",
+        "ADJ",
+        "PROPN",
+        "NOUN"
+    ],
+    "twisted": [
+        "ADJ",
+        "VERB"
+    ],
+    "turned": [
+        "VERB"
+    ],
+    "twirled": [
+        "VERB"
+    ],
+    "leaf": [
+        "NOUN"
+    ],
+    "Instead": [
+        "ADV"
+    ],
+    "table": [
+        "NOUN"
+    ],
+    "spray": [
+        "VERB",
+        "NOUN"
+    ],
+    "sick": [
+        "ADJ",
+        "NOUN"
+    ],
+    "touched": [
+        "VERB"
+    ],
+    "sheep": [
+        "NOUN"
+    ],
+    "stepped": [
+        "VERB"
+    ],
+    "Freddy": [
+        "PROPN"
+    ],
+    "flies": [
+        "VERB",
+        "NOUN"
+    ],
+    "bug": [
+        "INTJ",
+        "NOUN"
+    ],
+    "stretch": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "visit": [
+        "VERB",
+        "NOUN"
+    ],
+    "yes": [
+        "INTJ",
+        "NOUN"
+    ],
+    "available": [
+        "ADJ"
+    ],
+    "travel": [
+        "VERB",
+        "NOUN"
+    ],
+    "file": [
+        "NOUN"
+    ],
+    "papers": [
+        "NOUN"
+    ],
+    "On": [
+        "ADP",
+        "ADJ",
+        "ADV",
+        "NOUN"
+    ],
+    "climb": [
+        "VERB",
+        "NOUN"
+    ],
+    "Fin": [
+        "PROPN",
+        "NOUN"
+    ],
+    "group": [
+        "VERB",
+        "NOUN"
+    ],
+    "us": [
+        "ADV",
+        "ADJ",
+        "PROPN",
+        "PRON",
+        "VERB",
+        "NOUN"
+    ],
+    "truck": [
+        "NOUN"
+    ],
+    "fuel": [
+        "VERB",
+        "NOUN"
+    ],
+    "vroom": [
+        "NOUN"
+    ],
+    "driving": [
+        "VERB",
+        "NOUN"
+    ],
+    "driver": [
+        "NOUN"
+    ],
+    "leaned": [
+        "VERB"
+    ],
+    "pressed": [
+        "VERB"
+    ],
+    "button": [
+        "NOUN"
+    ],
+    "smo": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "side": [
+        "ADV",
+        "NOUN"
+    ],
+    "followed": [
+        "VERB"
+    ],
+    "bugs": [
+        "NOUN"
+    ],
+    "mon": [
+        "NOUN"
+    ],
+    "ducks": [
+        "NOUN"
+    ],
+    "frogs": [
+        "NOUN"
+    ],
+    "swing": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "rabbit": [
+        "NOUN"
+    ],
+    "ears": [
+        "NOUN"
+    ],
+    "fluffy": [
+        "ADJ"
+    ],
+    "rabbits": [
+        "NOUN"
+    ],
+    "slowly": [
+        "ADV"
+    ],
+    "scare": [
+        "VERB",
+        "NOUN"
+    ],
+    "Be": [
+        "PROPN",
+        "VERB",
+        "NOUN",
+        "ADP",
+        "AUX"
+    ],
+    "sne": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "stayed": [
+        "AUX",
+        "VERB"
+    ],
+    "fur": [
+        "NOUN"
+    ],
+    "tw": [
+        "ADV",
+        "ADJ",
+        "PROPN",
+        "NUM",
+        "VERB",
+        "NOUN",
+        "DET"
+    ],
+    "expect": [
+        "VERB"
+    ],
+    "spr": [
+        "VERB",
+        "NOUN"
+    ],
+    "pain": [
+        "ADJ",
+        "NOUN"
+    ],
+    "bl": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "Ow": [
+        "PROPN",
+        "INTJ"
+    ],
+    "ow": [
+        "VERB",
+        "INTJ"
+    ],
+    "horse": [
+        "NOUN"
+    ],
+    "Brownie": [
+        "PROPN"
+    ],
+    "horses": [
+        "NOUN"
+    ],
+    "Bl": [
+        "PROPN",
+        "NOUN"
+    ],
+    "fight": [
+        "VERB",
+        "NOUN"
+    ],
+    "chase": [
+        "VERB",
+        "NOUN",
+        "PROPN"
+    ],
+    "peaceful": [
+        "ADJ",
+        "NOUN"
+    ],
+    "year": [
+        "NOUN"
+    ],
+    "dressed": [
+        "VERB"
+    ],
+    "pack": [
+        "VERB",
+        "NOUN"
+    ],
+    "stupid": [
+        "ADJ"
+    ],
+    "embarrassed": [
+        "ADJ",
+        "VERB"
+    ],
+    "Charlie": [
+        "PROPN"
+    ],
+    "backpack": [
+        "NOUN"
+    ],
+    "Bill": [
+        "PROPN"
+    ],
+    "chose": [
+        "VERB"
+    ],
+    "vase": [
+        "NOUN"
+    ],
+    "place": [
+        "VERB",
+        "NOUN"
+    ],
+    "Everyone": [
+        "PRON"
+    ],
+    "glow": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "glowing": [
+        "ADJ",
+        "VERB"
+    ],
+    "brighter": [
+        "ADV",
+        "ADJ"
+    ],
+    "magical": [
+        "ADJ",
+        "NOUN"
+    ],
+    "rainbow": [
+        "NOUN"
+    ],
+    "ex": [
+        "ADV",
+        "ADJ",
+        "SCONJ",
+        "VERB",
+        "NOUN"
+    ],
+    "giggled": [
+        "VERB"
+    ],
+    "sight": [
+        "NOUN"
+    ],
+    "Sarah": [
+        "PROPN"
+    ],
+    "card": [
+        "NOUN"
+    ],
+    "bury": [
+        "VERB",
+        "NOUN"
+    ],
+    "dug": [
+        "VERB"
+    ],
+    "covered": [
+        "VERB"
+    ],
+    "dirt": [
+        "ADJ",
+        "NOUN"
+    ],
+    "buried": [
+        "VERB"
+    ],
+    "digging": [
+        "VERB"
+    ],
+    "feed": [
+        "VERB",
+        "NOUN"
+    ],
+    "vendor": [
+        "NOUN"
+    ],
+    "sold": [
+        "VERB",
+        "NOUN"
+    ],
+    "bread": [
+        "NOUN"
+    ],
+    "honey": [
+        "NOUN"
+    ],
+    "cart": [
+        "NOUN"
+    ],
+    "O": [
+        "ADV",
+        "ADJ",
+        "PROPN",
+        "INTJ",
+        "CCONJ",
+        "PRON",
+        "VERB",
+        "NOUN",
+        "ADP"
+    ],
+    "coins": [
+        "NOUN"
+    ],
+    "edge": [
+        "NOUN"
+    ],
+    "pieces": [
+        "NOUN"
+    ],
+    "sc": [
+        "ADJ",
+        "VERB",
+        "NOUN",
+        "PROPN"
+    ],
+    "surf": [
+        "VERB",
+        "NOUN",
+        "PROPN"
+    ],
+    "piece": [
+        "NOUN"
+    ],
+    "caught": [
+        "VERB"
+    ],
+    "cheered": [
+        "VERB"
+    ],
+    "f": [
+        "ADV",
+        "ADJ",
+        "PROPN",
+        "NUM",
+        "VERB",
+        "NOUN"
+    ],
+    "empty": [
+        "ADV",
+        "ADJ"
+    ],
+    "dreamed": [
+        "VERB"
+    ],
+    "kitten": [
+        "NOUN"
+    ],
+    "clumsy": [
+        "ADJ"
+    ],
+    "falling": [
+        "VERB"
+    ],
+    "stra": [
+        "ADV",
+        "ADJ",
+        "VERB"
+    ],
+    "cudd": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "milk": [
+        "NOUN"
+    ],
+    "practiced": [
+        "VERB"
+    ],
+    "standing": [
+        "VERB"
+    ],
+    "huge": [
+        "ADJ"
+    ],
+    "nurse": [
+        "VERB",
+        "NOUN"
+    ],
+    "rescue": [
+        "VERB",
+        "NOUN"
+    ],
+    "shoes": [
+        "NOUN"
+    ],
+    "socks": [
+        "NOUN"
+    ],
+    "pants": [
+        "NOUN"
+    ],
+    "resc": [
+        "VERB"
+    ],
+    "brought": [
+        "VERB"
+    ],
+    "p": [
+        "ADJ",
+        "PROPN",
+        "INTJ",
+        "VERB",
+        "NOUN"
+    ],
+    "television": [
+        "NOUN"
+    ],
+    "successful": [
+        "ADJ"
+    ],
+    "s": [
+        "ADV",
+        "ADJ",
+        "SCONJ",
+        "NUM",
+        "PRON",
+        "VERB",
+        "NOUN",
+        "AUX"
+    ],
+    "learning": [
+        "VERB",
+        "NOUN"
+    ],
+    "study": [
+        "VERB",
+        "NOUN"
+    ],
+    "generous": [
+        "ADJ",
+        "NOUN"
+    ],
+    "dig": [
+        "VERB",
+        "NOUN",
+        "PROPN"
+    ],
+    "spade": [
+        "NOUN"
+    ],
+    "treasure": [
+        "VERB",
+        "NOUN"
+    ],
+    "gold": [
+        "ADJ",
+        "NOUN"
+    ],
+    "fairy": [
+        "NOUN"
+    ],
+    "reward": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "grew": [
+        "VERB"
+    ],
+    "plant": [
+        "VERB",
+        "NOUN"
+    ],
+    "Give": [
+        "VERB"
+    ],
+    "apples": [
+        "NOUN"
+    ],
+    "ordinary": [
+        "ADJ"
+    ],
+    "potatoes": [
+        "NOUN"
+    ],
+    "squeeze": [
+        "VERB",
+        "NOUN"
+    ],
+    "chance": [
+        "NOUN"
+    ],
+    "squee": [
+        "VERB",
+        "NOUN"
+    ],
+    "potato": [
+        "NOUN"
+    ],
+    "proudly": [
+        "ADV"
+    ],
+    "repeat": [
+        "VERB"
+    ],
+    "word": [
+        "NOUN"
+    ],
+    "question": [
+        "VERB",
+        "NOUN"
+    ],
+    "gust": [
+        "NOUN"
+    ],
+    "nowhere": [
+        "ADV"
+    ],
+    "suggested": [
+        "VERB"
+    ],
+    "library": [
+        "NOUN"
+    ],
+    "books": [
+        "NOUN"
+    ],
+    "book": [
+        "NUM",
+        "NOUN"
+    ],
+    "questions": [
+        "NOUN"
+    ],
+    "answ": [
+        "VERB",
+        "NOUN"
+    ],
+    "miss": [
+        "VERB",
+        "NOUN"
+    ],
+    "seat": [
+        "VERB",
+        "NOUN"
+    ],
+    "rude": [
+        "ADV",
+        "ADJ"
+    ],
+    "fig": [
+        "VERB"
+    ],
+    "gum": [
+        "NOUN"
+    ],
+    "chubby": [
+        "ADJ"
+    ],
+    "pig": [
+        "NOUN"
+    ],
+    "evening": [
+        "NOUN"
+    ],
+    "lean": [
+        "ADJ",
+        "VERB"
+    ],
+    "few": [
+        "ADJ"
+    ],
+    "growing": [
+        "VERB"
+    ],
+    "cur": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "rise": [
+        "VERB",
+        "NOUN"
+    ],
+    "jumping": [
+        "VERB",
+        "NOUN"
+    ],
+    "joy": [
+        "ADJ",
+        "NOUN"
+    ],
+    "creat": [
+        "VERB",
+        "NOUN"
+    ],
+    "shone": [
+        "VERB"
+    ],
+    "against": [
+        "ADP"
+    ],
+    "cozy": [
+        "ADJ"
+    ],
+    "plates": [
+        "NOUN"
+    ],
+    "Bow": [
+        "PROPN",
+        "NOUN"
+    ],
+    "ashamed": [
+        "ADJ"
+    ],
+    "happiness": [
+        "NOUN"
+    ],
+    "weird": [
+        "ADJ"
+    ],
+    "sniff": [
+        "VERB",
+        "NOUN"
+    ],
+    "stumbled": [
+        "VERB"
+    ],
+    "Ouch": [
+        "INTJ"
+    ],
+    "rubbed": [
+        "VERB"
+    ],
+    "wagging": [
+        "VERB"
+    ],
+    "fine": [
+        "ADV",
+        "ADJ",
+        "NOUN"
+    ],
+    "skip": [
+        "VERB",
+        "NOUN"
+    ],
+    "piano": [
+        "NOUN"
+    ],
+    "lonely": [
+        "ADJ"
+    ],
+    "gifted": [
+        "ADJ",
+        "VERB"
+    ],
+    "shadow": [
+        "NOUN"
+    ],
+    "shining": [
+        "VERB"
+    ],
+    "danced": [
+        "VERB"
+    ],
+    "turkey": [
+        "PROPN",
+        "NOUN"
+    ],
+    "impressive": [
+        "ADJ",
+        "NOUN"
+    ],
+    "feathers": [
+        "NOUN"
+    ],
+    "cardboard": [
+        "NOUN"
+    ],
+    "troubled": [
+        "ADJ",
+        "VERB"
+    ],
+    "supply": [
+        "VERB",
+        "NOUN"
+    ],
+    "pillow": [
+        "NOUN"
+    ],
+    "Their": [
+        "PRON"
+    ],
+    "Spot": [
+        "PROPN",
+        "NOUN"
+    ],
+    "introduce": [
+        "VERB"
+    ],
+    "minutes": [
+        "NOUN"
+    ],
+    "meat": [
+        "NOUN"
+    ],
+    "offered": [
+        "VERB"
+    ],
+    "thankful": [
+        "ADJ"
+    ],
+    "furry": [
+        "ADJ",
+        "PROPN",
+        "NOUN"
+    ],
+    "sack": [
+        "VERB",
+        "NOUN"
+    ],
+    "warning": [
+        "VERB",
+        "NOUN"
+    ],
+    "thoughtful": [
+        "ADJ",
+        "NOUN"
+    ],
+    "chalk": [
+        "NOUN"
+    ],
+    "disappear": [
+        "VERB"
+    ],
+    "carrots": [
+        "NOUN"
+    ],
+    "egg": [
+        "NOUN"
+    ],
+    "pastel": [
+        "ADJ",
+        "NOUN"
+    ],
+    "design": [
+        "VERB",
+        "NOUN"
+    ],
+    "fox": [
+        "PROPN",
+        "NOUN"
+    ],
+    "frightened": [
+        "ADJ",
+        "VERB"
+    ],
+    "Wait": [
+        "VERB"
+    ],
+    "led": [
+        "VERB"
+    ],
+    "carrot": [
+        "PROPN",
+        "NOUN"
+    ],
+    "patch": [
+        "VERB",
+        "NOUN"
+    ],
+    "spring": [
+        "VERB",
+        "NOUN"
+    ],
+    "escape": [
+        "VERB",
+        "NOUN"
+    ],
+    "John": [
+        "PROPN"
+    ],
+    "corner": [
+        "VERB",
+        "NOUN"
+    ],
+    "pointing": [
+        "VERB",
+        "NOUN"
+    ],
+    "curi": [
+        "NOUN"
+    ],
+    "Mummy": [
+        "ADJ",
+        "PROPN"
+    ],
+    "wip": [
+        "VERB"
+    ],
+    "pol": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "chocol": [
+        "NOUN"
+    ],
+    "bossy": [
+        "ADJ"
+    ],
+    "bone": [
+        "NOUN"
+    ],
+    "fro": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "doctor": [
+        "NOUN"
+    ],
+    "often": [
+        "ADV"
+    ],
+    "sunset": [
+        "NOUN"
+    ],
+    "orange": [
+        "ADJ",
+        "PROPN",
+        "NOUN"
+    ],
+    "lazy": [
+        "ADJ"
+    ],
+    "serve": [
+        "VERB"
+    ],
+    "cook": [
+        "VERB",
+        "NOUN"
+    ],
+    "mix": [
+        "VERB",
+        "NOUN"
+    ],
+    "tasted": [
+        "VERB"
+    ],
+    "ser": [
+        "VERB",
+        "NOUN"
+    ],
+    "purple": [
+        "ADJ",
+        "NOUN"
+    ],
+    "crayons": [
+        "NOUN"
+    ],
+    "crack": [
+        "VERB",
+        "NOUN"
+    ],
+    "improve": [
+        "VERB",
+        "NOUN"
+    ],
+    "impro": [
+        "ADJ",
+        "VERB"
+    ],
+    "such": [
+        "ADJ",
+        "DET"
+    ],
+    "art": [
+        "NOUN"
+    ],
+    "comb": [
+        "VERB",
+        "NOUN"
+    ],
+    "accidentally": [
+        "ADV"
+    ],
+    "glue": [
+        "VERB",
+        "NOUN"
+    ],
+    "honest": [
+        "ADJ",
+        "NOUN"
+    ],
+    "Al": [
+        "ADV",
+        "PROPN",
+        "SCONJ",
+        "ADP"
+    ],
+    "truth": [
+        "ADJ",
+        "NOUN"
+    ],
+    "rice": [
+        "NOUN"
+    ],
+    "tonight": [
+        "NOUN"
+    ],
+    "rem": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "sunshine": [
+        "NOUN"
+    ],
+    "lemonade": [
+        "NOUN"
+    ],
+    "cow": [
+        "NOUN"
+    ],
+    "Johnny": [
+        "PROPN"
+    ],
+    "pistol": [
+        "NOUN"
+    ],
+    "ad": [
+        "VERB",
+        "NOUN"
+    ],
+    "drum": [
+        "VERB",
+        "PROPN",
+        "NOUN"
+    ],
+    "rhythm": [
+        "NOUN"
+    ],
+    "bo": [
+        "ADJ",
+        "VERB",
+        "NOUN",
+        "PROPN"
+    ],
+    "alert": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "guitar": [
+        "NOUN"
+    ],
+    "belong": [
+        "VERB",
+        "NOUN"
+    ],
+    "belonged": [
+        "VERB"
+    ],
+    "dance": [
+        "VERB",
+        "NOUN"
+    ],
+    "selfish": [
+        "ADJ",
+        "NOUN"
+    ],
+    "fit": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "lose": [
+        "VERB"
+    ],
+    "tummy": [
+        "ADJ",
+        "NOUN"
+    ],
+    "solve": [
+        "VERB"
+    ],
+    "problem": [
+        "NOUN"
+    ],
+    "medicine": [
+        "NOUN"
+    ],
+    "healthy": [
+        "ADV",
+        "ADJ"
+    ],
+    "bake": [
+        "VERB"
+    ],
+    "cakes": [
+        "NOUN"
+    ],
+    "flour": [
+        "NOUN"
+    ],
+    "mixer": [
+        "NOUN"
+    ],
+    "poured": [
+        "VERB"
+    ],
+    "spun": [
+        "VERB"
+    ],
+    "ingredients": [
+        "NOUN"
+    ],
+    "easy": [
+        "ADV",
+        "ADJ"
+    ],
+    "helper": [
+        "NOUN"
+    ],
+    "finished": [
+        "AUX",
+        "ADJ",
+        "VERB"
+    ],
+    "oven": [
+        "NOUN"
+    ],
+    "Mmm": [
+        "PROPN",
+        "INTJ"
+    ],
+    "taking": [
+        "VERB",
+        "NOUN"
+    ],
+    "baked": [
+        "ADJ",
+        "VERB"
+    ],
+    "triangle": [
+        "NOUN"
+    ],
+    "person": [
+        "NOUN"
+    ],
+    "allow": [
+        "VERB",
+        "NOUN"
+    ],
+    "allowed": [
+        "VERB"
+    ],
+    "yucky": [
+        "ADJ"
+    ],
+    "stuff": [
+        "NOUN"
+    ],
+    "gl": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "event": [
+        "NOUN"
+    ],
+    "flexible": [
+        "ADJ"
+    ],
+    "bouncy": [
+        "ADJ"
+    ],
+    "pl": [
+        "CCONJ",
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "twist": [
+        "VERB",
+        "NOUN"
+    ],
+    "forward": [
+        "ADV"
+    ],
+    "Amy": [
+        "PROPN"
+    ],
+    "gather": [
+        "VERB",
+        "NOUN"
+    ],
+    "copper": [
+        "NOUN"
+    ],
+    "moms": [
+        "NOUN"
+    ],
+    "fire": [
+        "NOUN"
+    ],
+    "matches": [
+        "VERB",
+        "NOUN"
+    ],
+    "flame": [
+        "NOUN"
+    ],
+    "anxious": [
+        "ADV",
+        "ADJ"
+    ],
+    "Luckily": [
+        "ADV"
+    ],
+    "managed": [
+        "VERB"
+    ],
+    "warn": [
+        "VERB",
+        "NOUN"
+    ],
+    "live": [
+        "ADV",
+        "ADJ",
+        "VERB"
+    ],
+    "ranch": [
+        "NOUN"
+    ],
+    "chores": [
+        "NOUN"
+    ],
+    "Today": [
+        "NOUN"
+    ],
+    "wash": [
+        "VERB",
+        "NOUN"
+    ],
+    "St": [
+        "ADV",
+        "ADJ",
+        "PROPN",
+        "VERB",
+        "NOUN",
+        "AUX"
+    ],
+    "sp": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "hose": [
+        "PROPN",
+        "NOUN"
+    ],
+    "barn": [
+        "PROPN",
+        "NOUN"
+    ],
+    "dust": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "hello": [
+        "PROPN",
+        "INTJ"
+    ],
+    "splas": [
+        "VERB",
+        "NOUN"
+    ],
+    "rub": [
+        "VERB",
+        "NOUN"
+    ],
+    "bubbles": [
+        "VERB",
+        "NOUN"
+    ],
+    "li": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "mu": [
+        "ADJ"
+    ],
+    "mind": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "helpful": [
+        "ADJ"
+    ],
+    "picks": [
+        "VERB",
+        "NOUN"
+    ],
+    "bathroom": [
+        "NOUN"
+    ],
+    "shower": [
+        "NOUN"
+    ],
+    "helps": [
+        "VERB"
+    ],
+    "pa": [
+        "NOUN"
+    ],
+    "bedroom": [
+        "NOUN"
+    ],
+    "tour": [
+        "NOUN"
+    ],
+    "tricks": [
+        "NOUN"
+    ],
+    "paint": [
+        "VERB",
+        "NOUN"
+    ],
+    "banana": [
+        "NOUN"
+    ],
+    "talent": [
+        "ADJ",
+        "NOUN"
+    ],
+    "invite": [
+        "VERB"
+    ],
+    "missile": [
+        "NOUN"
+    ],
+    "Nemo": [
+        "PROPN"
+    ],
+    "octopus": [
+        "NOUN"
+    ],
+    "search": [
+        "VERB",
+        "NOUN"
+    ],
+    "inf": [
+        "VERB",
+        "NOUN"
+    ],
+    "octop": [
+        "NOUN"
+    ],
+    "creatures": [
+        "NOUN"
+    ],
+    "shells": [
+        "NOUN"
+    ],
+    "offer": [
+        "VERB",
+        "NOUN"
+    ],
+    "rich": [
+        "ADJ"
+    ],
+    "kindness": [
+        "NOUN"
+    ],
+    "wall": [
+        "PROPN",
+        "NOUN"
+    ],
+    "flow": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "poor": [
+        "ADJ",
+        "PROPN"
+    ],
+    "Sammy": [
+        "PROPN"
+    ],
+    "peanuts": [
+        "NOUN"
+    ],
+    "peanut": [
+        "NOUN"
+    ],
+    "sprayed": [
+        "VERB"
+    ],
+    "panda": [
+        "NOUN"
+    ],
+    "Pandy": [
+        "PROPN"
+    ],
+    "Bunny": [
+        "PROPN"
+    ],
+    "Kitty": [
+        "PROPN"
+    ],
+    "wore": [
+        "VERB"
+    ],
+    "sand": [
+        "ADJ",
+        "NOUN"
+    ],
+    "Before": [
+        "ADP",
+        "SCONJ"
+    ],
+    "load": [
+        "VERB",
+        "NOUN"
+    ],
+    "umbrella": [
+        "NOUN"
+    ],
+    "tow": [
+        "ADP",
+        "VERB",
+        "NOUN"
+    ],
+    "boat": [
+        "NOUN"
+    ],
+    "shade": [
+        "NOUN"
+    ],
+    "splashed": [
+        "VERB"
+    ],
+    "sandwiches": [
+        "NOUN"
+    ],
+    "cooler": [
+        "ADV",
+        "ADJ",
+        "NOUN"
+    ],
+    "talked": [
+        "VERB"
+    ],
+    "pretended": [
+        "VERB"
+    ],
+    "sailing": [
+        "VERB",
+        "NOUN"
+    ],
+    "polite": [
+        "ADV",
+        "ADJ"
+    ],
+    "pushed": [
+        "VERB"
+    ],
+    "quit": [
+        "VERB"
+    ],
+    "thin": [
+        "ADJ"
+    ],
+    "heal": [
+        "ADJ",
+        "VERB",
+        "NOUN",
+        "PROPN"
+    ],
+    "lion": [
+        "NOUN"
+    ],
+    "equipment": [
+        "NOUN"
+    ],
+    "drive": [
+        "VERB",
+        "NOUN"
+    ],
+    "van": [
+        "VERB",
+        "PROPN",
+        "NOUN"
+    ],
+    "graceful": [
+        "ADJ"
+    ],
+    "dancing": [
+        "VERB",
+        "NOUN"
+    ],
+    "suddenly": [
+        "ADV"
+    ],
+    "arm": [
+        "NOUN"
+    ],
+    "film": [
+        "VERB",
+        "NOUN"
+    ],
+    "chair": [
+        "NOUN"
+    ],
+    "pot": [
+        "PROPN",
+        "NOUN"
+    ],
+    "y": [
+        "ADJ",
+        "PROPN",
+        "INTJ",
+        "PRON",
+        "VERB",
+        "NOUN"
+    ],
+    "invited": [
+        "VERB"
+    ],
+    "son": [
+        "NOUN"
+    ],
+    "added": [
+        "VERB"
+    ],
+    "stirred": [
+        "VERB"
+    ],
+    "whispered": [
+        "VERB"
+    ],
+    "bush": [
+        "PROPN",
+        "NOUN"
+    ],
+    "Where": [
+        "SCONJ"
+    ],
+    "Sunday": [
+        "PROPN"
+    ],
+    "harmless": [
+        "ADJ"
+    ],
+    "Ellie": [
+        "PROPN"
+    ],
+    "popcorn": [
+        "NOUN"
+    ],
+    "ref": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "soak": [
+        "VERB",
+        "NOUN"
+    ],
+    "Fr": [
+        "VERB",
+        "ADJ",
+        "PROPN"
+    ],
+    "settle": [
+        "VERB"
+    ],
+    "factory": [
+        "NOUN"
+    ],
+    "distance": [
+        "NOUN"
+    ],
+    "ent": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "Fox": [
+        "PROPN"
+    ],
+    "Fo": [
+        "VERB",
+        "PROPN"
+    ],
+    "sett": [
+        "VERB"
+    ],
+    "hall": [
+        "NOUN"
+    ],
+    "success": [
+        "ADV",
+        "NOUN"
+    ],
+    "years": [
+        "NOUN"
+    ],
+    "bookcase": [
+        "NOUN"
+    ],
+    "display": [
+        "VERB",
+        "NOUN"
+    ],
+    "neighborhood": [
+        "NOUN"
+    ],
+    "asking": [
+        "VERB"
+    ],
+    "Eventually": [
+        "ADV"
+    ],
+    "candle": [
+        "NOUN"
+    ],
+    "im": [
+        "ADV",
+        "VERB",
+        "NOUN"
+    ],
+    "bowl": [
+        "NOUN"
+    ],
+    "placed": [
+        "VERB"
+    ],
+    "lit": [
+        "VERB"
+    ],
+    "shook": [
+        "VERB"
+    ],
+    "remind": [
+        "VERB",
+        "NOUN"
+    ],
+    "Jake": [
+        "PROPN"
+    ],
+    "excitedly": [
+        "ADV"
+    ],
+    "excitement": [
+        "NOUN"
+    ],
+    "joke": [
+        "VERB",
+        "NOUN"
+    ],
+    "ice": [
+        "NOUN"
+    ],
+    "cream": [
+        "ADJ",
+        "NOUN"
+    ],
+    "money": [
+        "NOUN"
+    ],
+    "cone": [
+        "NOUN"
+    ],
+    "firework": [
+        "NOUN"
+    ],
+    "throwing": [
+        "VERB"
+    ],
+    "trucks": [
+        "NOUN"
+    ],
+    "working": [
+        "VERB"
+    ],
+    "shovel": [
+        "VERB",
+        "NOUN"
+    ],
+    "taller": [
+        "ADJ"
+    ],
+    "shop": [
+        "VERB",
+        "NOUN"
+    ],
+    "kids": [
+        "NOUN"
+    ],
+    "unl": [
+        "ADP",
+        "ADJ",
+        "VERB",
+        "PROPN"
+    ],
+    "pour": [
+        "VERB"
+    ],
+    "kicked": [
+        "VERB"
+    ],
+    "jewel": [
+        "NOUN"
+    ],
+    "repair": [
+        "VERB",
+        "NOUN"
+    ],
+    "icy": [
+        "ADJ",
+        "PROPN"
+    ],
+    "diamond": [
+        "NOUN"
+    ],
+    "necklace": [
+        "NOUN"
+    ],
+    "careless": [
+        "ADJ",
+        "NOUN"
+    ],
+    "refused": [
+        "VERB"
+    ],
+    "knot": [
+        "NOUN"
+    ],
+    "Luna": [
+        "PROPN"
+    ],
+    "stars": [
+        "NOUN"
+    ],
+    "universe": [
+        "NOUN"
+    ],
+    "using": [
+        "VERB"
+    ],
+    "Help": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "moved": [
+        "VERB"
+    ],
+    "cactus": [
+        "NOUN"
+    ],
+    "join": [
+        "VERB"
+    ],
+    "king": [
+        "NOUN"
+    ],
+    "val": [
+        "VERB"
+    ],
+    "valu": [
+        "VERB"
+    ],
+    "mill": [
+        "NUM",
+        "PROPN",
+        "NOUN"
+    ],
+    "discuss": [
+        "VERB",
+        "NOUN"
+    ],
+    "Days": [
+        "NOUN"
+    ],
+    "young": [
+        "ADJ"
+    ],
+    "cats": [
+        "NOUN"
+    ],
+    "shelter": [
+        "VERB",
+        "NOUN"
+    ],
+    "balloon": [
+        "NOUN"
+    ],
+    "pop": [
+        "VERB",
+        "NOUN"
+    ],
+    "touc": [
+        "VERB",
+        "NOUN"
+    ],
+    "claws": [
+        "PROPN",
+        "NOUN"
+    ],
+    "lo": [
+        "ADV",
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "bench": [
+        "NOUN"
+    ],
+    "mis": [
+        "ADJ",
+        "VERB",
+        "PROPN"
+    ],
+    "k": [
+        "VERB",
+        "NOUN"
+    ],
+    "bend": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "softly": [
+        "ADV"
+    ],
+    "lady": [
+        "NOUN"
+    ],
+    "recogn": [
+        "VERB"
+    ],
+    "hoping": [
+        "VERB"
+    ],
+    "wander": [
+        "VERB",
+        "NOUN"
+    ],
+    "returned": [
+        "VERB"
+    ],
+    "pur": [
+        "VERB",
+        "NOUN"
+    ],
+    "hotel": [
+        "NOUN"
+    ],
+    "cheap": [
+        "ADJ"
+    ],
+    "prize": [
+        "PROPN",
+        "NOUN"
+    ],
+    "sweetie": [
+        "VERB",
+        "INTJ",
+        "NOUN"
+    ],
+    "nature": [
+        "NOUN"
+    ],
+    "crystal": [
+        "NOUN"
+    ],
+    "dear": [
+        "ADV",
+        "ADJ",
+        "INTJ",
+        "NOUN"
+    ],
+    "jar": [
+        "NOUN"
+    ],
+    "sauce": [
+        "NOUN"
+    ],
+    "ur": [
+        "VERB",
+        "NOUN"
+    ],
+    "Nutty": [
+        "ADJ",
+        "PROPN"
+    ],
+    "nuts": [
+        "ADJ",
+        "NOUN"
+    ],
+    "smelly": [
+        "ADJ",
+        "PROPN",
+        "NOUN"
+    ],
+    "searching": [
+        "VERB"
+    ],
+    "climbing": [
+        "VERB",
+        "NOUN"
+    ],
+    "bel": [
+        "ADV",
+        "ADJ",
+        "ADP"
+    ],
+    "t": [
+        "ADV",
+        "ADJ",
+        "PROPN",
+        "SCONJ",
+        "NUM",
+        "PRON",
+        "VERB",
+        "NOUN",
+        "DET"
+    ],
+    "leg": [
+        "ADJ",
+        "NOUN"
+    ],
+    "jazz": [
+        "NOUN"
+    ],
+    "sa": [
+        "VERB",
+        "NOUN"
+    ],
+    "sell": [
+        "VERB",
+        "NOUN"
+    ],
+    "balloons": [
+        "NOUN"
+    ],
+    "veterinarian": [
+        "NOUN"
+    ],
+    "Jane": [
+        "PROPN"
+    ],
+    "dogs": [
+        "NOUN"
+    ],
+    "itch": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "pray": [
+        "VERB",
+        "NOUN"
+    ],
+    "trick": [
+        "ADJ",
+        "VERB",
+        "NOUN",
+        "PROPN"
+    ],
+    "trust": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "farm": [
+        "NOUN"
+    ],
+    "explore": [
+        "VERB",
+        "NOUN"
+    ],
+    "skipped": [
+        "VERB"
+    ],
+    "noisy": [
+        "ADJ"
+    ],
+    "giant": [
+        "ADJ",
+        "NOUN"
+    ],
+    "reg": [
+        "VERB",
+        "NOUN"
+    ],
+    "comp": [
+        "VERB",
+        "NOUN"
+    ],
+    "inst": [
+        "ADV",
+        "NOUN"
+    ],
+    "eventually": [
+        "ADV"
+    ],
+    "handle": [
+        "VERB",
+        "NOUN"
+    ],
+    "pumpkin": [
+        "NOUN"
+    ],
+    "R": [
+        "ADV",
+        "ADJ",
+        "PROPN",
+        "INTJ",
+        "VERB",
+        "NOUN"
+    ],
+    "cube": [
+        "NOUN"
+    ],
+    "lake": [
+        "NOUN"
+    ],
+    "sail": [
+        "VERB",
+        "NOUN"
+    ],
+    "sailed": [
+        "VERB"
+    ],
+    "faster": [
+        "ADV",
+        "ADJ"
+    ],
+    "captain": [
+        "NOUN"
+    ],
+    "ship": [
+        "NOUN"
+    ],
+    "club": [
+        "NOUN"
+    ],
+    "talking": [
+        "VERB",
+        "NOUN"
+    ],
+    "Miss": [
+        "PROPN"
+    ],
+    "protect": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "number": [
+        "VERB",
+        "NOUN"
+    ],
+    "human": [
+        "ADJ",
+        "NOUN"
+    ],
+    "destroy": [
+        "VERB"
+    ],
+    "sadly": [
+        "ADV"
+    ],
+    "war": [
+        "NOUN"
+    ],
+    "wrap": [
+        "VERB",
+        "NOUN"
+    ],
+    "fixing": [
+        "VERB",
+        "NOUN"
+    ],
+    "easily": [
+        "ADV"
+    ],
+    "taught": [
+        "VERB"
+    ],
+    "festival": [
+        "NOUN"
+    ],
+    "turn": [
+        "VERB",
+        "NOUN"
+    ],
+    "vehicle": [
+        "NOUN"
+    ],
+    "beep": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "v": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "pretending": [
+        "VERB",
+        "NOUN"
+    ],
+    "hoped": [
+        "VERB"
+    ],
+    "machine": [
+        "NOUN"
+    ],
+    "promise": [
+        "VERB",
+        "NOUN"
+    ],
+    "razor": [
+        "NOUN"
+    ],
+    "sh": [
+        "ADJ",
+        "PROPN",
+        "INTJ",
+        "VERB",
+        "NOUN",
+        "AUX"
+    ],
+    "answered": [
+        "VERB"
+    ],
+    "between": [
+        "ADP"
+    ],
+    "pedal": [
+        "VERB",
+        "NOUN"
+    ],
+    "grown": [
+        "VERB"
+    ],
+    "bikes": [
+        "NOUN"
+    ],
+    "rode": [
+        "VERB"
+    ],
+    "normal": [
+        "ADJ"
+    ],
+    "embarra": [
+        "ADV",
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "mistakes": [
+        "NOUN"
+    ],
+    "sticker": [
+        "NOUN"
+    ],
+    "drawer": [
+        "NOUN"
+    ],
+    "budge": [
+        "VERB"
+    ],
+    "dead": [
+        "ADJ"
+    ],
+    "shrugged": [
+        "VERB"
+    ],
+    "structure": [
+        "NOUN"
+    ],
+    "counted": [
+        "VERB"
+    ],
+    "five": [
+        "NUM",
+        "NOUN"
+    ],
+    "branch": [
+        "NOUN"
+    ],
+    "white": [
+        "ADJ",
+        "PROPN"
+    ],
+    "resist": [
+        "VERB",
+        "NOUN"
+    ],
+    "shopkeeper": [
+        "NOUN"
+    ],
+    "leash": [
+        "NOUN"
+    ],
+    "Mr": [
+        "PROPN"
+    ],
+    "Brown": [
+        "PROPN"
+    ],
+    "happens": [
+        "VERB"
+    ],
+    "hammer": [
+        "VERB",
+        "NOUN"
+    ],
+    "nail": [
+        "VERB",
+        "NOUN"
+    ],
+    "applaud": [
+        "VERB",
+        "NOUN"
+    ],
+    "tank": [
+        "NOUN"
+    ],
+    "monster": [
+        "NOUN"
+    ],
+    "known": [
+        "VERB"
+    ],
+    "costume": [
+        "NOUN"
+    ],
+    "princess": [
+        "NOUN"
+    ],
+    "sparkly": [
+        "ADJ"
+    ],
+    "ca": [
+        "ADV",
+        "ADJ",
+        "PROPN",
+        "VERB",
+        "NOUN"
+    ],
+    "tripped": [
+        "VERB"
+    ],
+    "breaking": [
+        "VERB"
+    ],
+    "asleep": [
+        "ADJ"
+    ],
+    "anchor": [
+        "NOUN"
+    ],
+    "sink": [
+        "VERB",
+        "NOUN"
+    ],
+    "hoop": [
+        "NOUN"
+    ],
+    "mention": [
+        "VERB"
+    ],
+    "crawl": [
+        "VERB",
+        "NOUN"
+    ],
+    "knocked": [
+        "VERB"
+    ],
+    "axe": [
+        "NOUN"
+    ],
+    "saying": [
+        "VERB"
+    ],
+    "With": [
+        "ADP",
+        "SCONJ"
+    ],
+    "fin": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "trip": [
+        "VERB",
+        "NOUN"
+    ],
+    "caring": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "automobile": [
+        "NOUN"
+    ],
+    "walks": [
+        "VERB",
+        "NOUN"
+    ],
+    "brilliant": [
+        "ADJ"
+    ],
+    "sto": [
+        "VERB",
+        "NOUN"
+    ],
+    "wh": [
+        "VERB",
+        "INTJ",
+        "NOUN"
+    ],
+    "understood": [
+        "VERB"
+    ],
+    "steal": [
+        "VERB"
+    ],
+    "Together": [
+        "ADV"
+    ],
+    "pool": [
+        "NOUN"
+    ],
+    "float": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "marry": [
+        "VERB"
+    ],
+    "celebrate": [
+        "VERB"
+    ],
+    "married": [
+        "ADJ",
+        "VERB"
+    ],
+    "gathered": [
+        "VERB"
+    ],
+    "supp": [
+        "VERB",
+        "NOUN"
+    ],
+    "colourful": [
+        "ADJ"
+    ],
+    "realised": [
+        "VERB"
+    ],
+    "Thanks": [
+        "NOUN"
+    ],
+    "sol": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "everywhere": [
+        "ADV"
+    ],
+    "note": [
+        "VERB",
+        "NOUN"
+    ],
+    "presents": [
+        "VERB",
+        "NOUN"
+    ],
+    "pirate": [
+        "NOUN"
+    ],
+    "grumpy": [
+        "ADJ"
+    ],
+    "island": [
+        "NOUN"
+    ],
+    "co": [
+        "VERB",
+        "ADJ",
+        "PROPN",
+        "NOUN"
+    ],
+    "half": [
+        "ADV",
+        "ADJ",
+        "NOUN",
+        "DET"
+    ],
+    "gar": [
+        "NOUN"
+    ],
+    "bin": [
+        "VERB",
+        "NOUN",
+        "PROPN"
+    ],
+    "reef": [
+        "NOUN"
+    ],
+    "repe": [
+        "VERB"
+    ],
+    "moving": [
+        "VERB"
+    ],
+    "turtle": [
+        "NOUN"
+    ],
+    "g": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "growled": [
+        "VERB"
+    ],
+    "trouble": [
+        "NOUN"
+    ],
+    "saving": [
+        "VERB"
+    ],
+    "soil": [
+        "NOUN"
+    ],
+    "Teddy": [
+        "PROPN",
+        "NOUN"
+    ],
+    "hairy": [
+        "ADJ"
+    ],
+    "whisp": [
+        "ADJ",
+        "VERB",
+        "NOUN",
+        "PROPN"
+    ],
+    "cabinet": [
+        "PROPN",
+        "NOUN"
+    ],
+    "butter": [
+        "ADJ",
+        "NOUN"
+    ],
+    "jelly": [
+        "NOUN"
+    ],
+    "sandwich": [
+        "NOUN"
+    ],
+    "Mittens": [
+        "PROPN",
+        "NOUN"
+    ],
+    "sorts": [
+        "NOUN"
+    ],
+    "ways": [
+        "NOUN"
+    ],
+    "muff": [
+        "NOUN"
+    ],
+    "breakfast": [
+        "NOUN"
+    ],
+    "suffer": [
+        "VERB",
+        "NOUN"
+    ],
+    "Next": [
+        "ADV",
+        "ADJ"
+    ],
+    "less": [
+        "ADV",
+        "ADJ",
+        "NOUN"
+    ],
+    "fruits": [
+        "NOUN"
+    ],
+    "ve": [
+        "AUX",
+        "VERB",
+        "NOUN"
+    ],
+    "pit": [
+        "NOUN"
+    ],
+    "stretched": [
+        "VERB"
+    ],
+    "confused": [
+        "ADJ",
+        "VERB"
+    ],
+    "trunk": [
+        "NOUN"
+    ],
+    "lift": [
+        "VERB"
+    ],
+    "apron": [
+        "NOUN"
+    ],
+    "rat": [
+        "PROPN",
+        "NOUN"
+    ],
+    "rolling": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "ant": [
+        "ADJ",
+        "NOUN"
+    ],
+    "spider": [
+        "NOUN"
+    ],
+    "re": [
+        "ADV",
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "village": [
+        "NOUN"
+    ],
+    "fill": [
+        "VERB",
+        "NOUN"
+    ],
+    "celebr": [
+        "VERB",
+        "NOUN"
+    ],
+    "weak": [
+        "ADJ",
+        "NOUN"
+    ],
+    "patient": [
+        "ADJ",
+        "NOUN"
+    ],
+    "modern": [
+        "ADJ"
+    ],
+    "vet": [
+        "NOUN"
+    ],
+    "con": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "treats": [
+        "VERB",
+        "NOUN"
+    ],
+    "change": [
+        "VERB",
+        "NOUN"
+    ],
+    "examine": [
+        "VERB"
+    ],
+    "serious": [
+        "ADV",
+        "ADJ"
+    ],
+    "picking": [
+        "VERB",
+        "NOUN"
+    ],
+    "tape": [
+        "VERB",
+        "NOUN"
+    ],
+    "sticky": [
+        "ADJ"
+    ],
+    "visited": [
+        "VERB"
+    ],
+    "fountain": [
+        "NOUN"
+    ],
+    "Lisa": [
+        "PROPN"
+    ],
+    "fingers": [
+        "NOUN"
+    ],
+    "coin": [
+        "NOUN"
+    ],
+    "Some": [
+        "PRON",
+        "DET"
+    ],
+    "thr": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "fear": [
+        "VERB",
+        "NOUN"
+    ],
+    "switch": [
+        "VERB",
+        "NOUN"
+    ],
+    "Your": [
+        "PRON"
+    ],
+    "sw": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "u": [
+        "ADJ",
+        "VERB"
+    ],
+    "respect": [
+        "ADV",
+        "VERB",
+        "NOUN"
+    ],
+    "shr": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "prop": [
+        "ADJ",
+        "NOUN"
+    ],
+    "stu": [
+        "VERB"
+    ],
+    "toe": [
+        "NOUN"
+    ],
+    "block": [
+        "VERB",
+        "NOUN"
+    ],
+    "acc": [
+        "VERB",
+        "NOUN"
+    ],
+    "adorable": [
+        "ADJ"
+    ],
+    "following": [
+        "ADJ",
+        "VERB"
+    ],
+    "poked": [
+        "VERB"
+    ],
+    "accept": [
+        "VERB"
+    ],
+    "acce": [
+        "VERB"
+    ],
+    "Doggy": [
+        "PROPN"
+    ],
+    "panic": [
+        "VERB",
+        "NOUN"
+    ],
+    "net": [
+        "ADV",
+        "ADJ",
+        "NOUN"
+    ],
+    "swinging": [
+        "VERB",
+        "NOUN"
+    ],
+    "jog": [
+        "VERB",
+        "NOUN"
+    ],
+    "slip": [
+        "VERB",
+        "NOUN"
+    ],
+    "yourself": [
+        "PRON"
+    ],
+    "bark": [
+        "VERB",
+        "NOUN"
+    ],
+    "news": [
+        "NOUN"
+    ],
+    "kne": [
+        "VERB",
+        "NOUN"
+    ],
+    "cocoa": [
+        "PROPN",
+        "NOUN"
+    ],
+    "melt": [
+        "VERB",
+        "NOUN"
+    ],
+    "permit": [
+        "VERB"
+    ],
+    "shaking": [
+        "VERB",
+        "NOUN"
+    ],
+    "wrapped": [
+        "VERB"
+    ],
+    "low": [
+        "ADV",
+        "ADJ",
+        "VERB"
+    ],
+    "language": [
+        "NOUN"
+    ],
+    "em": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "terrible": [
+        "ADJ"
+    ],
+    "squirrels": [
+        "NOUN"
+    ],
+    "point": [
+        "VERB",
+        "NOUN"
+    ],
+    "smiling": [
+        "VERB"
+    ],
+    "wigg": [
+        "ADJ",
+        "VERB"
+    ],
+    "paw": [
+        "NOUN"
+    ],
+    "wood": [
+        "ADJ",
+        "NOUN"
+    ],
+    "plastic": [
+        "ADJ",
+        "NOUN"
+    ],
+    "eggs": [
+        "NOUN"
+    ],
+    "inv": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "protec": [
+        "VERB"
+    ],
+    "bitter": [
+        "ADJ"
+    ],
+    "Mar": [
+        "PROPN",
+        "NOUN"
+    ],
+    "shivering": [
+        "ADJ",
+        "VERB"
+    ],
+    "joined": [
+        "VERB"
+    ],
+    "prince": [
+        "NOUN"
+    ],
+    "bored": [
+        "ADJ",
+        "VERB"
+    ],
+    "wandered": [
+        "VERB"
+    ],
+    "kingdom": [
+        "NOUN"
+    ],
+    "unite": [
+        "AUX",
+        "VERB"
+    ],
+    "themselves": [
+        "PRON"
+    ],
+    "salt": [
+        "NOUN"
+    ],
+    "sip": [
+        "VERB",
+        "NOUN"
+    ],
+    "sal": [
+        "ADJ",
+        "NOUN"
+    ],
+    "competitive": [
+        "ADJ"
+    ],
+    "board": [
+        "VERB",
+        "PROPN",
+        "NOUN"
+    ],
+    "fastest": [
+        "ADJ"
+    ],
+    "waffles": [
+        "NOUN"
+    ],
+    "unusual": [
+        "ADJ"
+    ],
+    "pancakes": [
+        "NOUN"
+    ],
+    "bra": [
+        "ADV",
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "bell": [
+        "NOUN"
+    ],
+    "ring": [
+        "VERB",
+        "NOUN"
+    ],
+    "envious": [
+        "ADJ"
+    ],
+    "rang": [
+        "VERB",
+        "NOUN",
+        "PROPN"
+    ],
+    "hurting": [
+        "VERB"
+    ],
+    "ly": [
+        "INTJ"
+    ],
+    "stories": [
+        "NOUN"
+    ],
+    "blocks": [
+        "NOUN"
+    ],
+    "Bear": [
+        "PROPN"
+    ],
+    "Ra": [
+        "PROPN",
+        "NOUN"
+    ],
+    "wat": [
+        "VERB"
+    ],
+    "dec": [
+        "VERB",
+        "NOUN"
+    ],
+    "Qu": [
+        "ADV",
+        "ADJ",
+        "PROPN",
+        "INTJ",
+        "VERB",
+        "NOUN"
+    ],
+    "quack": [
+        "VERB",
+        "INTJ"
+    ],
+    "ri": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "pad": [
+        "VERB",
+        "NOUN"
+    ],
+    "imagination": [
+        "NOUN"
+    ],
+    "cord": [
+        "NOUN"
+    ],
+    "ended": [
+        "VERB"
+    ],
+    "sniffed": [
+        "VERB"
+    ],
+    "pe": [
+        "VERB",
+        "NOUN"
+    ],
+    "yarn": [
+        "NOUN"
+    ],
+    "ribb": [
+        "VERB",
+        "NOUN"
+    ],
+    "scar": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "given": [
+        "VERB"
+    ],
+    "c": [
+        "ADV",
+        "ADJ",
+        "PROPN",
+        "VERB",
+        "NOUN",
+        "AUX"
+    ],
+    "kick": [
+        "VERB",
+        "NOUN"
+    ],
+    "compassionate": [
+        "ADJ"
+    ],
+    "Quack": [
+        "VERB",
+        "PROPN",
+        "INTJ"
+    ],
+    "pattern": [
+        "NOUN"
+    ],
+    "actually": [
+        "ADV"
+    ],
+    "des": [
+        "SCONJ",
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "mailman": [
+        "NOUN"
+    ],
+    "deliver": [
+        "VERB",
+        "NOUN"
+    ],
+    "letters": [
+        "NOUN"
+    ],
+    "mail": [
+        "VERB",
+        "NOUN"
+    ],
+    "Floppy": [
+        "PROPN",
+        "NOUN"
+    ],
+    "gym": [
+        "NOUN"
+    ],
+    "Spike": [
+        "PROPN",
+        "NOUN"
+    ],
+    "regret": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "taken": [
+        "VERB"
+    ],
+    "prep": [
+        "ADJ",
+        "VERB"
+    ],
+    "sword": [
+        "NOUN"
+    ],
+    "jam": [
+        "PROPN",
+        "NOUN"
+    ],
+    "toast": [
+        "VERB",
+        "NOUN"
+    ],
+    "responsible": [
+        "ADJ"
+    ],
+    "ourselves": [
+        "PRON"
+    ],
+    "prevent": [
+        "VERB"
+    ],
+    "accidents": [
+        "NOUN"
+    ],
+    "helpless": [
+        "ADV",
+        "ADJ"
+    ],
+    "resting": [
+        "VERB"
+    ],
+    "peace": [
+        "ADV",
+        "NOUN"
+    ],
+    "balance": [
+        "VERB",
+        "NOUN"
+    ],
+    "foot": [
+        "NOUN"
+    ],
+    "network": [
+        "NOUN"
+    ],
+    "raise": [
+        "VERB"
+    ],
+    "celery": [
+        "NOUN"
+    ],
+    "Y": [
+        "ADJ",
+        "PROPN",
+        "INTJ",
+        "NOUN"
+    ],
+    "energy": [
+        "NOUN"
+    ],
+    "dried": [
+        "VERB"
+    ],
+    "suggest": [
+        "VERB",
+        "NOUN"
+    ],
+    "kite": [
+        "NOUN"
+    ],
+    "early": [
+        "ADV",
+        "ADJ"
+    ],
+    "mailbox": [
+        "NOUN"
+    ],
+    "read": [
+        "VERB",
+        "NOUN"
+    ],
+    "magaz": [
+        "NOUN"
+    ],
+    "incredible": [
+        "ADJ"
+    ],
+    "magazine": [
+        "NOUN"
+    ],
+    "unicorn": [
+        "NOUN"
+    ],
+    "cover": [
+        "VERB",
+        "NOUN"
+    ],
+    "spread": [
+        "VERB",
+        "NOUN"
+    ],
+    "pres": [
+        "VERB",
+        "NOUN",
+        "PROPN"
+    ],
+    "playground": [
+        "NOUN"
+    ],
+    "grapes": [
+        "NOUN"
+    ],
+    "lock": [
+        "VERB",
+        "NOUN"
+    ],
+    "reminded": [
+        "VERB"
+    ],
+    "hive": [
+        "NOUN"
+    ],
+    "front": [
+        "ADJ",
+        "NOUN"
+    ],
+    "helmet": [
+        "NOUN"
+    ],
+    "whip": [
+        "VERB",
+        "NOUN"
+    ],
+    "furniture": [
+        "NOUN"
+    ],
+    "explain": [
+        "VERB"
+    ],
+    "ump": [
+        "VERB"
+    ],
+    "radio": [
+        "NOUN"
+    ],
+    "complete": [
+        "ADV",
+        "ADJ",
+        "VERB"
+    ],
+    "puddle": [
+        "NOUN"
+    ],
+    "raining": [
+        "VERB"
+    ],
+    "unlock": [
+        "VERB",
+        "NOUN"
+    ],
+    "olive": [
+        "ADJ",
+        "NOUN"
+    ],
+    "blackboard": [
+        "NOUN"
+    ],
+    "hung": [
+        "ADV",
+        "VERB"
+    ],
+    "par": [
+        "VERB",
+        "NOUN"
+    ],
+    "parade": [
+        "NOUN"
+    ],
+    "clown": [
+        "NOUN"
+    ],
+    "h": [
+        "ADJ",
+        "INTJ",
+        "SCONJ",
+        "VERB",
+        "NOUN"
+    ],
+    "brother": [
+        "NOUN"
+    ],
+    "Betty": [
+        "PROPN"
+    ],
+    "safari": [
+        "NOUN"
+    ],
+    "lions": [
+        "NOUN"
+    ],
+    "rhino": [
+        "NOUN"
+    ],
+    "bre": [
+        "NOUN"
+    ],
+    "lamp": [
+        "NOUN"
+    ],
+    "prov": [
+        "VERB",
+        "PROPN"
+    ],
+    "sailor": [
+        "NOUN"
+    ],
+    "enter": [
+        "VERB"
+    ],
+    "Many": [
+        "ADJ"
+    ],
+    "provide": [
+        "VERB"
+    ],
+    "built": [
+        "VERB"
+    ],
+    "chirp": [
+        "VERB",
+        "NOUN"
+    ],
+    "mel": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "Because": [
+        "SCONJ"
+    ],
+    "choice": [
+        "NOUN"
+    ],
+    "surrender": [
+        "VERB",
+        "NOUN"
+    ],
+    "cereal": [
+        "NOUN"
+    ],
+    "spark": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "chess": [
+        "NOUN"
+    ],
+    "jungle": [
+        "NOUN"
+    ],
+    "tiger": [
+        "NOUN"
+    ],
+    "dist": [
+        "VERB",
+        "NOUN"
+    ],
+    "cap": [
+        "VERB",
+        "NOUN"
+    ],
+    "weep": [
+        "VERB"
+    ],
+    "pre": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "stamp": [
+        "VERB",
+        "NOUN"
+    ],
+    "grand": [
+        "ADJ",
+        "NOUN"
+    ],
+    "closely": [
+        "ADV"
+    ],
+    "blueber": [
+        "ADJ",
+        "PROPN",
+        "NOUN"
+    ],
+    "fruit": [
+        "PROPN",
+        "NOUN"
+    ],
+    "Did": [
+        "AUX",
+        "VERB"
+    ],
+    "adventurous": [
+        "ADJ"
+    ],
+    "expl": [
+        "VERB",
+        "NOUN"
+    ],
+    "measure": [
+        "VERB",
+        "NOUN"
+    ],
+    "barking": [
+        "VERB",
+        "NOUN"
+    ],
+    "reading": [
+        "VERB",
+        "NOUN"
+    ],
+    "page": [
+        "NOUN"
+    ],
+    "replace": [
+        "VERB",
+        "NOUN"
+    ],
+    "flapped": [
+        "VERB"
+    ],
+    "wings": [
+        "NOUN"
+    ],
+    "shot": [
+        "VERB",
+        "NOUN"
+    ],
+    "leak": [
+        "VERB",
+        "NOUN"
+    ],
+    "during": [
+        "ADP"
+    ],
+    "forth": [
+        "ADV"
+    ],
+    "cloth": [
+        "NOUN"
+    ],
+    "er": [
+        "VERB",
+        "INTJ",
+        "NOUN"
+    ],
+    "mummy": [
+        "ADJ",
+        "NOUN"
+    ],
+    "kiss": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "chimney": [
+        "NOUN"
+    ],
+    "snuggled": [
+        "VERB"
+    ],
+    "hours": [
+        "NOUN"
+    ],
+    "goose": [
+        "NOUN"
+    ],
+    "shiver": [
+        "ADV",
+        "ADJ",
+        "PROPN",
+        "VERB",
+        "NOUN"
+    ],
+    "check": [
+        "VERB",
+        "NOUN"
+    ],
+    "swan": [
+        "PROPN",
+        "NOUN"
+    ],
+    "daisy": [
+        "NOUN"
+    ],
+    "feet": [
+        "NOUN"
+    ],
+    "oyster": [
+        "NOUN"
+    ],
+    "shell": [
+        "NOUN"
+    ],
+    "baseball": [
+        "NOUN"
+    ],
+    "pinch": [
+        "VERB",
+        "NOUN"
+    ],
+    "Dolly": [
+        "PROPN"
+    ],
+    "tal": [
+        "ADJ",
+        "NOUN"
+    ],
+    "statue": [
+        "NOUN"
+    ],
+    "yet": [
+        "ADV",
+        "CCONJ"
+    ],
+    "match": [
+        "VERB",
+        "NOUN"
+    ],
+    "qu": [
+        "ADV",
+        "VERB",
+        "NOUN"
+    ],
+    "times": [
+        "NOUN"
+    ],
+    "waste": [
+        "VERB",
+        "NOUN"
+    ],
+    "lay": [
+        "VERB",
+        "NOUN"
+    ],
+    "mem": [
+        "NOUN"
+    ],
+    "basketball": [
+        "NOUN"
+    ],
+    "stubborn": [
+        "ADJ"
+    ],
+    "rake": [
+        "VERB",
+        "NOUN"
+    ],
+    "fancy": [
+        "ADJ"
+    ],
+    "lecture": [
+        "NOUN"
+    ],
+    "quietly": [
+        "ADV"
+    ],
+    "speak": [
+        "VERB",
+        "NOUN"
+    ],
+    "la": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "polish": [
+        "VERB",
+        "NOUN"
+    ],
+    "ghost": [
+        "NOUN"
+    ],
+    "chew": [
+        "VERB",
+        "NOUN"
+    ],
+    "bubble": [
+        "VERB",
+        "NOUN"
+    ],
+    "j": [
+        "ADV",
+        "VERB",
+        "NOUN"
+    ],
+    "chewed": [
+        "VERB"
+    ],
+    "magnet": [
+        "ADJ",
+        "NOUN"
+    ],
+    "create": [
+        "VERB"
+    ],
+    "spending": [
+        "VERB",
+        "NOUN"
+    ],
+    "attract": [
+        "VERB"
+    ],
+    "metal": [
+        "VERB",
+        "NOUN",
+        "PROPN"
+    ],
+    "cheese": [
+        "PROPN",
+        "NOUN"
+    ],
+    "ham": [
+        "VERB",
+        "PROPN",
+        "NOUN"
+    ],
+    "changed": [
+        "VERB"
+    ],
+    "ey": [
+        "ADJ",
+        "DET"
+    ],
+    "ins": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "spoon": [
+        "NOUN"
+    ],
+    "steel": [
+        "NOUN"
+    ],
+    "engine": [
+        "NOUN"
+    ],
+    "attached": [
+        "VERB"
+    ],
+    "rope": [
+        "NOUN"
+    ],
+    "boun": [
+        "VERB"
+    ],
+    "Mrs": [
+        "PROPN"
+    ],
+    "Johnson": [
+        "PROPN"
+    ],
+    "clot": [
+        "NOUN"
+    ],
+    "urge": [
+        "VERB",
+        "NOUN"
+    ],
+    "giggle": [
+        "VERB",
+        "NOUN"
+    ],
+    "star": [
+        "VERB",
+        "NOUN"
+    ],
+    "sister": [
+        "NOUN"
+    ],
+    "navy": [
+        "PROPN",
+        "NOUN"
+    ],
+    "harbor": [
+        "NOUN"
+    ],
+    "uniform": [
+        "NOUN"
+    ],
+    "bec": [
+        "VERB"
+    ],
+    "vine": [
+        "NOUN"
+    ],
+    "scissors": [
+        "NOUN"
+    ],
+    "makeup": [
+        "NOUN"
+    ],
+    "mirror": [
+        "NOUN"
+    ],
+    "bur": [
+        "VERB",
+        "NOUN"
+    ],
+    "grill": [
+        "VERB",
+        "NOUN"
+    ],
+    "cooking": [
+        "VERB",
+        "NOUN"
+    ],
+    "char": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "Would": [
+        "AUX"
+    ],
+    "Snuggles": [
+        "PROPN"
+    ],
+    "Daddy": [
+        "PRON",
+        "PROPN",
+        "NOUN"
+    ],
+    "Grandma": [
+        "PROPN"
+    ],
+    "elephants": [
+        "NOUN"
+    ],
+    "sounded": [
+        "VERB"
+    ],
+    "Mama": [
+        "PROPN"
+    ],
+    "rhinoceros": [
+        "NOUN"
+    ],
+    "saf": [
+        "ADJ",
+        "PROPN",
+        "NOUN"
+    ],
+    "exciting": [
+        "ADJ"
+    ],
+    "People": [
+        "NOUN"
+    ],
+    "tornado": [
+        "NOUN"
+    ],
+    "may": [
+        "AUX",
+        "NOUN"
+    ],
+    "landed": [
+        "VERB"
+    ],
+    "se": [
+        "NUM",
+        "ADJ",
+        "NOUN"
+    ],
+    "reverse": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "imagine": [
+        "VERB"
+    ],
+    "superhero": [
+        "ADJ",
+        "NOUN"
+    ],
+    "Is": [
+        "AUX",
+        "PROPN"
+    ],
+    "cheer": [
+        "ADV",
+        "VERB",
+        "NOUN"
+    ],
+    "flood": [
+        "VERB",
+        "NOUN"
+    ],
+    "loyal": [
+        "ADJ",
+        "NOUN"
+    ],
+    "Un": [
+        "ADV",
+        "PROPN"
+    ],
+    "yell": [
+        "VERB",
+        "NOUN"
+    ],
+    "yelled": [
+        "VERB"
+    ],
+    "appreci": [
+        "VERB",
+        "NOUN"
+    ],
+    "difficult": [
+        "ADJ"
+    ],
+    "sparkled": [
+        "VERB"
+    ],
+    "advent": [
+        "VERB"
+    ],
+    "ide": [
+        "NOUN"
+    ],
+    "hurry": [
+        "VERB",
+        "NOUN"
+    ],
+    "yoga": [
+        "NOUN"
+    ],
+    "pract": [
+        "ADJ",
+        "VERB"
+    ],
+    "delay": [
+        "VERB",
+        "NOUN"
+    ],
+    "practice": [
+        "VERB",
+        "NOUN"
+    ],
+    "wire": [
+        "NOUN"
+    ],
+    "deer": [
+        "NOUN"
+    ],
+    "strugg": [
+        "VERB"
+    ],
+    "vegetables": [
+        "NOUN"
+    ],
+    "hunt": [
+        "VERB",
+        "NOUN"
+    ],
+    "photo": [
+        "NOUN"
+    ],
+    "those": [
+        "PRON",
+        "DET"
+    ],
+    "scatter": [
+        "VERB"
+    ],
+    "wonder": [
+        "ADV",
+        "VERB",
+        "NOUN"
+    ],
+    "bees": [
+        "NOUN"
+    ],
+    "harder": [
+        "ADV",
+        "ADJ"
+    ],
+    "pus": [
+        "VERB"
+    ],
+    "falls": [
+        "VERB"
+    ],
+    "shoulder": [
+        "NOUN"
+    ],
+    "towers": [
+        "NOUN"
+    ],
+    "sk": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "arri": [
+        "VERB",
+        "NOUN"
+    ],
+    "grape": [
+        "NOUN"
+    ],
+    "wine": [
+        "NOUN"
+    ],
+    "judge": [
+        "VERB",
+        "NOUN"
+    ],
+    "pear": [
+        "ADJ",
+        "NOUN"
+    ],
+    "myself": [
+        "PRON",
+        "PROPN"
+    ],
+    "traffic": [
+        "NOUN"
+    ],
+    "cannot": [
+        "PART"
+    ],
+    "unknown": [
+        "ADJ",
+        "NOUN"
+    ],
+    "men": [
+        "ADJ",
+        "NOUN"
+    ],
+    "pigeon": [
+        "NOUN"
+    ],
+    "coo": [
+        "ADJ",
+        "VERB"
+    ],
+    "Go": [
+        "AUX",
+        "VERB",
+        "NOUN",
+        "PROPN"
+    ],
+    "disturb": [
+        "VERB",
+        "NOUN"
+    ],
+    "Le": [
+        "VERB",
+        "NOUN",
+        "PROPN"
+    ],
+    "sir": [
+        "PROPN",
+        "NOUN"
+    ],
+    "dependable": [
+        "ADJ"
+    ],
+    "tremble": [
+        "VERB"
+    ],
+    "biggest": [
+        "ADJ"
+    ],
+    "roar": [
+        "VERB",
+        "INTJ",
+        "NOUN",
+        "PROPN"
+    ],
+    "pro": [
+        "ADV",
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "tre": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "mask": [
+        "NOUN"
+    ],
+    "building": [
+        "VERB",
+        "NOUN"
+    ],
+    "jail": [
+        "NOUN"
+    ],
+    "strength": [
+        "NOUN"
+    ],
+    "unpack": [
+        "VERB"
+    ],
+    "grocer": [
+        "NOUN"
+    ],
+    "slides": [
+        "VERB",
+        "NOUN"
+    ],
+    "Rosie": [
+        "PROPN"
+    ],
+    "happier": [
+        "ADV",
+        "ADJ"
+    ],
+    "Tommy": [
+        "PROPN"
+    ],
+    "pages": [
+        "NOUN"
+    ],
+    "telephone": [
+        "NOUN"
+    ],
+    "Who": [
+        "PRON",
+        "INTJ"
+    ],
+    "waffle": [
+        "NOUN"
+    ],
+    "ma": [
+        "VERB",
+        "ADJ",
+        "PROPN",
+        "NOUN"
+    ],
+    "theater": [
+        "NOUN"
+    ],
+    "curtain": [
+        "NOUN"
+    ],
+    "attach": [
+        "VERB"
+    ],
+    "spoke": [
+        "VERB"
+    ],
+    "Little": [
+        "ADV",
+        "ADJ",
+        "PROPN"
+    ],
+    "Sara": [
+        "PROPN"
+    ],
+    "manage": [
+        "VERB"
+    ],
+    "cross": [
+        "VERB",
+        "NOUN",
+        "PROPN"
+    ],
+    "vill": [
+        "NOUN"
+    ],
+    "bea": [
+        "NOUN"
+    ],
+    "bridge": [
+        "NOUN"
+    ],
+    "chip": [
+        "NOUN"
+    ],
+    "dinosaur": [
+        "NOUN"
+    ],
+    "Br": [
+        "VERB",
+        "PROPN"
+    ],
+    "ignored": [
+        "VERB"
+    ],
+    "invitation": [
+        "NOUN"
+    ],
+    "pasta": [
+        "NOUN"
+    ],
+    "tomato": [
+        "NOUN"
+    ],
+    "stove": [
+        "NOUN"
+    ],
+    "burn": [
+        "VERB",
+        "NOUN"
+    ],
+    "accident": [
+        "NOUN"
+    ],
+    "compl": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "police": [
+        "NOUN"
+    ],
+    "officer": [
+        "NOUN"
+    ],
+    "opera": [
+        "NOUN"
+    ],
+    "gro": [
+        "ADJ",
+        "VERB"
+    ],
+    "dan": [
+        "VERB",
+        "NOUN"
+    ],
+    "prayed": [
+        "VERB"
+    ],
+    "painting": [
+        "VERB",
+        "NOUN"
+    ],
+    "cop": [
+        "VERB",
+        "NOUN"
+    ],
+    "stared": [
+        "VERB"
+    ],
+    "harm": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "bicycle": [
+        "NOUN"
+    ],
+    "bicy": [
+        "NOUN"
+    ],
+    "hate": [
+        "AUX",
+        "VERB"
+    ],
+    "bulb": [
+        "NOUN"
+    ],
+    "received": [
+        "VERB"
+    ],
+    "package": [
+        "NOUN"
+    ],
+    "unique": [
+        "ADJ"
+    ],
+    "muscles": [
+        "NOUN"
+    ],
+    "exercise": [
+        "VERB",
+        "NOUN"
+    ],
+    "stronger": [
+        "ADJ"
+    ],
+    "Re": [
+        "ADV",
+        "ADJ",
+        "PROPN",
+        "PRON",
+        "VERB",
+        "NOUN"
+    ],
+    "peaches": [
+        "NOUN"
+    ],
+    "peach": [
+        "ADJ",
+        "PROPN",
+        "NOUN"
+    ],
+    "ignore": [
+        "VERB"
+    ],
+    "licked": [
+        "VERB"
+    ],
+    "Coco": [
+        "PROPN"
+    ],
+    "gasped": [
+        "VERB"
+    ],
+    "tore": [
+        "VERB"
+    ],
+    "Sometimes": [
+        "ADV"
+    ],
+    "dreams": [
+        "VERB",
+        "NOUN"
+    ],
+    "feather": [
+        "NOUN"
+    ],
+    "Wh": [
+        "ADJ",
+        "PROPN",
+        "PRON",
+        "NOUN",
+        "DET"
+    ],
+    "teeth": [
+        "NOUN"
+    ],
+    "jo": [
+        "VERB",
+        "NOUN",
+        "PROPN"
+    ],
+    "rubber": [
+        "NOUN"
+    ],
+    "letter": [
+        "NOUN"
+    ],
+    "send": [
+        "VERB"
+    ],
+    "wre": [
+        "VERB",
+        "NOUN"
+    ],
+    "batter": [
+        "NOUN"
+    ],
+    "patiently": [
+        "ADV"
+    ],
+    "ribbon": [
+        "NOUN"
+    ],
+    "reliable": [
+        "ADJ"
+    ],
+    "frustrated": [
+        "ADJ",
+        "VERB"
+    ],
+    "freeze": [
+        "VERB",
+        "NOUN"
+    ],
+    "stairs": [
+        "NOUN"
+    ],
+    "older": [
+        "ADJ"
+    ],
+    "ba": [
+        "NOUN"
+    ],
+    "plane": [
+        "NOUN"
+    ],
+    "wiped": [
+        "VERB"
+    ],
+    "yawn": [
+        "VERB",
+        "NOUN"
+    ],
+    "thumb": [
+        "NOUN"
+    ],
+    "brush": [
+        "VERB",
+        "NOUN",
+        "PROPN"
+    ],
+    "horn": [
+        "NOUN"
+    ],
+    "soldier": [
+        "NOUN"
+    ],
+    "camp": [
+        "VERB",
+        "NOUN"
+    ],
+    "eye": [
+        "NOUN"
+    ],
+    "creature": [
+        "NOUN"
+    ],
+    "res": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "berries": [
+        "NOUN"
+    ],
+    "dishes": [
+        "NOUN"
+    ],
+    "separate": [
+        "ADJ",
+        "VERB"
+    ],
+    "drain": [
+        "VERB",
+        "NOUN"
+    ],
+    "separ": [
+        "VERB"
+    ],
+    "rocket": [
+        "NOUN"
+    ],
+    "space": [
+        "VERB",
+        "NOUN"
+    ],
+    "K": [
+        "VERB",
+        "NOUN",
+        "PROPN"
+    ],
+    "tast": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "popular": [
+        "ADJ"
+    ],
+    "tuna": [
+        "NOUN"
+    ],
+    "write": [
+        "VERB"
+    ],
+    "pen": [
+        "NOUN"
+    ],
+    "Jo": [
+        "VERB",
+        "PROPN",
+        "NOUN"
+    ],
+    "oil": [
+        "VERB",
+        "NOUN"
+    ],
+    "rubb": [
+        "VERB",
+        "NOUN"
+    ],
+    "slippery": [
+        "ADJ"
+    ],
+    "OK": [
+        "ADJ",
+        "INTJ"
+    ],
+    "igloo": [
+        "PROPN",
+        "NOUN"
+    ],
+    "ignor": [
+        "VERB"
+    ],
+    "tunnel": [
+        "NOUN"
+    ],
+    "deeper": [
+        "ADV",
+        "ADJ"
+    ],
+    "investigate": [
+        "VERB"
+    ],
+    "rush": [
+        "VERB",
+        "NOUN"
+    ],
+    "tied": [
+        "VERB"
+    ],
+    "pony": [
+        "NOUN"
+    ],
+    "independent": [
+        "ADJ"
+    ],
+    "ab": [
+        "ADV",
+        "VERB",
+        "ADP",
+        "NOUN"
+    ],
+    "sur": [
+        "VERB",
+        "NOUN"
+    ],
+    "flavor": [
+        "NOUN"
+    ],
+    "chocolate": [
+        "VERB",
+        "NOUN"
+    ],
+    "useful": [
+        "ADJ",
+        "NOUN"
+    ],
+    "rained": [
+        "VERB"
+    ],
+    "cows": [
+        "NOUN"
+    ],
+    "sort": [
+        "ADV",
+        "VERB"
+    ],
+    "Big": [
+        "ADJ",
+        "PROPN"
+    ],
+    "message": [
+        "NOUN"
+    ],
+    "rep": [
+        "VERB",
+        "NOUN"
+    ],
+    "unh": [
+        "ADJ"
+    ],
+    "ending": [
+        "NOUN"
+    ],
+    "com": [
+        "ADJ",
+        "VERB",
+        "NOUN",
+        "PROPN"
+    ],
+    "Susie": [
+        "PROPN"
+    ],
+    "dest": [
+        "NOUN"
+    ],
+    "imagined": [
+        "VERB"
+    ],
+    "explored": [
+        "VERB"
+    ],
+    "faucet": [
+        "NOUN"
+    ],
+    "gigg": [
+        "VERB",
+        "NOUN"
+    ],
+    "However": [
+        "ADV"
+    ],
+    "laug": [
+        "NOUN"
+    ],
+    "exp": [
+        "VERB",
+        "NOUN"
+    ],
+    "holes": [
+        "NOUN"
+    ],
+    "tent": [
+        "NOUN"
+    ],
+    "earth": [
+        "NOUN"
+    ],
+    "imag": [
+        "ADV",
+        "ADJ",
+        "VERB"
+    ],
+    "math": [
+        "NOUN"
+    ],
+    "desk": [
+        "NOUN"
+    ],
+    "notebook": [
+        "NOUN"
+    ],
+    "problems": [
+        "NOUN"
+    ],
+    "pale": [
+        "ADJ",
+        "NOUN"
+    ],
+    "jeep": [
+        "NOUN"
+    ],
+    "speed": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "raced": [
+        "VERB"
+    ],
+    "paid": [
+        "VERB"
+    ],
+    "hay": [
+        "NOUN"
+    ],
+    "hanging": [
+        "VERB",
+        "NOUN"
+    ],
+    "bricks": [
+        "NOUN"
+    ],
+    "alive": [
+        "ADJ"
+    ],
+    "behave": [
+        "VERB"
+    ],
+    "Rex": [
+        "PROPN"
+    ],
+    "peek": [
+        "ADV",
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "wag": [
+        "VERB",
+        "NOUN"
+    ],
+    "enormous": [
+        "ADJ"
+    ],
+    "Zoom": [
+        "ADJ",
+        "PROPN",
+        "PRON",
+        "VERB",
+        "NOUN"
+    ],
+    "thirsty": [
+        "ADJ"
+    ],
+    "hang": [
+        "VERB",
+        "NOUN"
+    ],
+    "coal": [
+        "NOUN"
+    ],
+    "spicy": [
+        "ADJ",
+        "PROPN",
+        "NOUN"
+    ],
+    "burned": [
+        "VERB"
+    ],
+    "stomach": [
+        "NOUN"
+    ],
+    "filthy": [
+        "ADJ"
+    ],
+    "writing": [
+        "VERB",
+        "NOUN"
+    ],
+    "sent": [
+        "VERB",
+        "NOUN"
+    ],
+    "tools": [
+        "NOUN"
+    ],
+    "robot": [
+        "NOUN"
+    ],
+    "dro": [
+        "VERB",
+        "NOUN"
+    ],
+    "breaks": [
+        "VERB",
+        "NOUN"
+    ],
+    "stops": [
+        "VERB",
+        "NOUN"
+    ],
+    "cries": [
+        "VERB",
+        "NOUN"
+    ],
+    "soap": [
+        "ADJ",
+        "NOUN"
+    ],
+    "bears": [
+        "VERB",
+        "NOUN"
+    ],
+    "flea": [
+        "NOUN"
+    ],
+    "cliff": [
+        "NOUN"
+    ],
+    "advice": [
+        "NOUN"
+    ],
+    "vacation": [
+        "NOUN"
+    ],
+    "clear": [
+        "ADV",
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "breathe": [
+        "VERB"
+    ],
+    "frown": [
+        "VERB",
+        "NOUN"
+    ],
+    "wisdom": [
+        "NOUN"
+    ],
+    "import": [
+        "NOUN"
+    ],
+    "wis": [
+        "ADJ",
+        "VERB"
+    ],
+    "admired": [
+        "VERB"
+    ],
+    "ho": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "equ": [
+        "ADV",
+        "ADJ"
+    ],
+    "trave": [
+        "VERB"
+    ],
+    "r": [
+        "ADV",
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "cont": [
+        "VERB",
+        "NOUN"
+    ],
+    "map": [
+        "NOUN"
+    ],
+    "crib": [
+        "NOUN"
+    ],
+    "base": [
+        "NOUN"
+    ],
+    "beh": [
+        "VERB",
+        "NOUN"
+    ],
+    "pole": [
+        "NOUN"
+    ],
+    "goat": [
+        "PROPN",
+        "NOUN"
+    ],
+    "giving": [
+        "VERB"
+    ],
+    "movie": [
+        "PROPN",
+        "NOUN"
+    ],
+    "adm": [
+        "ADV",
+        "VERB",
+        "NOUN"
+    ],
+    "tears": [
+        "VERB",
+        "NOUN"
+    ],
+    "respectful": [
+        "ADJ"
+    ],
+    "impressed": [
+        "ADJ",
+        "VERB"
+    ],
+    "Bessie": [
+        "PROPN"
+    ],
+    "needle": [
+        "NOUN"
+    ],
+    "forgive": [
+        "VERB",
+        "NOUN"
+    ],
+    "crab": [
+        "NOUN"
+    ],
+    "shark": [
+        "NOUN"
+    ],
+    "glass": [
+        "NOUN"
+    ],
+    "stream": [
+        "VERB",
+        "NOUN"
+    ],
+    "penny": [
+        "NOUN"
+    ],
+    "worth": [
+        "ADJ",
+        "NOUN"
+    ],
+    "luck": [
+        "ADJ",
+        "NOUN"
+    ],
+    "sm": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "object": [
+        "NOUN"
+    ],
+    "steam": [
+        "ADJ",
+        "NOUN"
+    ],
+    "spaghetti": [
+        "NOUN"
+    ],
+    "fat": [
+        "ADJ",
+        "NOUN"
+    ],
+    "fisherman": [
+        "NOUN"
+    ],
+    "fishing": [
+        "VERB",
+        "NOUN"
+    ],
+    "rod": [
+        "NOUN"
+    ],
+    "painted": [
+        "VERB"
+    ],
+    "meal": [
+        "NOUN"
+    ],
+    "football": [
+        "NOUN"
+    ],
+    "request": [
+        "VERB",
+        "NOUN"
+    ],
+    "guy": [
+        "NOUN"
+    ],
+    "Cat": [
+        "PROPN",
+        "NOUN"
+    ],
+    "restless": [
+        "ADJ"
+    ],
+    "marching": [
+        "VERB",
+        "NOUN"
+    ],
+    "band": [
+        "VERB",
+        "NOUN"
+    ],
+    "palm": [
+        "NOUN"
+    ],
+    "microphone": [
+        "NOUN"
+    ],
+    "pencil": [
+        "NOUN"
+    ],
+    "Dory": [
+        "ADJ",
+        "PROPN"
+    ],
+    "juicy": [
+        "ADJ"
+    ],
+    "cl": [
+        "ADJ",
+        "VERB",
+        "NOUN",
+        "PROPN"
+    ],
+    "gem": [
+        "NOUN"
+    ],
+    "guilty": [
+        "ADJ"
+    ],
+    "solved": [
+        "VERB"
+    ],
+    "mystery": [
+        "NOUN"
+    ],
+    "tunn": [
+        "NOUN"
+    ],
+    "crashed": [
+        "VERB"
+    ],
+    "cared": [
+        "VERB"
+    ],
+    "sighed": [
+        "VERB"
+    ],
+    "lab": [
+        "NOUN"
+    ],
+    "return": [
+        "VERB",
+        "NOUN"
+    ],
+    "envelope": [
+        "NOUN"
+    ],
+    "seed": [
+        "NOUN"
+    ],
+    "barrel": [
+        "NOUN"
+    ],
+    "hur": [
+        "VERB"
+    ],
+    "leather": [
+        "NOUN"
+    ],
+    "shouting": [
+        "VERB",
+        "NOUN"
+    ],
+    "strangers": [
+        "NOUN"
+    ],
+    "planted": [
+        "VERB"
+    ],
+    "watered": [
+        "VERB"
+    ],
+    "crayon": [
+        "NOUN"
+    ],
+    "meas": [
+        "VERB",
+        "NOUN"
+    ],
+    "admire": [
+        "VERB"
+    ],
+    "fashion": [
+        "ADJ",
+        "NOUN"
+    ],
+    "hats": [
+        "NOUN"
+    ],
+    "mod": [
+        "NOUN"
+    ],
+    "sty": [
+        "NOUN"
+    ],
+    "Sp": [
+        "VERB",
+        "ADJ",
+        "PROPN",
+        "NOUN"
+    ],
+    "loop": [
+        "VERB",
+        "NOUN"
+    ],
+    "difference": [
+        "NOUN"
+    ],
+    "receive": [
+        "VERB"
+    ],
+    "witch": [
+        "NOUN"
+    ],
+    "wand": [
+        "NOUN"
+    ],
+    "discovered": [
+        "VERB"
+    ],
+    "gate": [
+        "PROPN",
+        "NOUN"
+    ],
+    "reveal": [
+        "VERB"
+    ],
+    "newspaper": [
+        "NOUN"
+    ],
+    "holiday": [
+        "NOUN"
+    ],
+    "zebra": [
+        "PROPN",
+        "NOUN"
+    ],
+    "stri": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "carpet": [
+        "NOUN"
+    ],
+    "ag": [
+        "ADV",
+        "ADJ",
+        "PROPN",
+        "VERB",
+        "NOUN"
+    ],
+    "Ch": [
+        "PROPN",
+        "NOUN"
+    ],
+    "bu": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "mus": [
+        "ADJ",
+        "NOUN"
+    ],
+    "floating": [
+        "VERB"
+    ],
+    "rot": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "obser": [
+        "ADJ",
+        "VERB"
+    ],
+    "someday": [
+        "ADV",
+        "NOUN"
+    ],
+    "planet": [
+        "NOUN"
+    ],
+    "shooting": [
+        "VERB",
+        "NOUN"
+    ],
+    "te": [
+        "VERB",
+        "NOUN"
+    ],
+    "al": [
+        "ADV",
+        "ADJ",
+        "INTJ",
+        "SCONJ",
+        "NOUN"
+    ],
+    "delight": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "Joe": [
+        "PROPN"
+    ],
+    "salad": [
+        "NOUN"
+    ],
+    "dra": [
+        "VERB",
+        "PROPN",
+        "NOUN"
+    ],
+    "dragon": [
+        "NOUN"
+    ],
+    "trash": [
+        "NOUN"
+    ],
+    "dull": [
+        "ADJ"
+    ],
+    "intere": [
+        "ADJ",
+        "VERB"
+    ],
+    "case": [
+        "NOUN"
+    ],
+    "poem": [
+        "NOUN"
+    ],
+    "roared": [
+        "VERB"
+    ],
+    "sofa": [
+        "NOUN"
+    ],
+    "ashtray": [
+        "PROPN",
+        "NOUN"
+    ],
+    "wr": [
+        "VERB",
+        "NOUN"
+    ],
+    "invit": [
+        "VERB"
+    ],
+    "candles": [
+        "NOUN"
+    ],
+    "opens": [
+        "VERB"
+    ],
+    "Bun": [
+        "PROPN"
+    ],
+    "Tweety": [
+        "PROPN"
+    ],
+    "hanger": [
+        "NOUN"
+    ],
+    "mall": [
+        "NOUN"
+    ],
+    "entered": [
+        "VERB"
+    ],
+    "cush": [
+        "NOUN"
+    ],
+    "strawberries": [
+        "NOUN"
+    ],
+    "weight": [
+        "ADJ",
+        "NOUN"
+    ],
+    "skin": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "attic": [
+        "NOUN"
+    ],
+    "relie": [
+        "NOUN"
+    ],
+    "pair": [
+        "NOUN"
+    ],
+    "original": [
+        "ADJ",
+        "NOUN"
+    ],
+    "stranger": [
+        "ADJ",
+        "NOUN"
+    ],
+    "twig": [
+        "NOUN"
+    ],
+    "birdie": [
+        "INTJ",
+        "NOUN"
+    ],
+    "port": [
+        "NOUN"
+    ],
+    "boats": [
+        "NOUN"
+    ],
+    "decor": [
+        "VERB",
+        "NOUN"
+    ],
+    "dictionary": [
+        "NOUN"
+    ],
+    "sl": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "bookshelf": [
+        "NOUN"
+    ],
+    "U": [
+        "ADV",
+        "ADJ",
+        "PROPN",
+        "INTJ",
+        "SCONJ",
+        "VERB",
+        "ADP"
+    ],
+    "corn": [
+        "NOUN"
+    ],
+    "sew": [
+        "VERB",
+        "NOUN"
+    ],
+    "lifted": [
+        "VERB"
+    ],
+    "gas": [
+        "NOUN"
+    ],
+    "pump": [
+        "NOUN"
+    ],
+    "hedge": [
+        "NOUN"
+    ],
+    "museum": [
+        "NOUN"
+    ],
+    "ancient": [
+        "ADJ"
+    ],
+    "shoe": [
+        "NOUN"
+    ],
+    "yield": [
+        "VERB",
+        "NOUN"
+    ],
+    "elderly": [
+        "ADJ"
+    ],
+    "squeezed": [
+        "VERB"
+    ],
+    "eas": [
+        "ADV",
+        "ADJ"
+    ],
+    "See": [
+        "VERB"
+    ],
+    "crawling": [
+        "VERB"
+    ],
+    "Mickey": [
+        "PROPN"
+    ],
+    "bak": [
+        "NOUN"
+    ],
+    "pastry": [
+        "NOUN"
+    ],
+    "deaf": [
+        "ADJ",
+        "NOUN"
+    ],
+    "wo": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "fork": [
+        "VERB",
+        "NOUN"
+    ],
+    "jokes": [
+        "VERB",
+        "NOUN"
+    ],
+    "drop": [
+        "VERB",
+        "NOUN"
+    ],
+    "otter": [
+        "NOUN"
+    ],
+    "hurts": [
+        "VERB",
+        "NOUN"
+    ],
+    "post": [
+        "VERB",
+        "PROPN",
+        "NOUN"
+    ],
+    "office": [
+        "NOUN"
+    ],
+    "smells": [
+        "VERB",
+        "NOUN"
+    ],
+    "scale": [
+        "NOUN"
+    ],
+    "painter": [
+        "NOUN"
+    ],
+    "boot": [
+        "NOUN"
+    ],
+    "tooth": [
+        "NOUN"
+    ],
+    "starting": [
+        "VERB",
+        "NOUN"
+    ],
+    "alligator": [
+        "NOUN"
+    ],
+    "butterflies": [
+        "VERB",
+        "NOUN"
+    ],
+    "microscope": [
+        "NOUN"
+    ],
+    "value": [
+        "VERB",
+        "NOUN"
+    ],
+    "wheat": [
+        "NOUN"
+    ],
+    "har": [
+        "ADJ",
+        "VERB",
+        "NOUN",
+        "PROPN"
+    ],
+    "wallet": [
+        "NOUN"
+    ],
+    "punish": [
+        "VERB",
+        "NOUN"
+    ],
+    "stack": [
+        "VERB",
+        "NOUN"
+    ],
+    "reindeer": [
+        "NOUN"
+    ],
+    "Ollie": [
+        "PROPN"
+    ],
+    "intelligent": [
+        "ADJ"
+    ],
+    "quiz": [
+        "PROPN",
+        "NOUN"
+    ],
+    "eager": [
+        "ADJ"
+    ],
+    "grandpa": [
+        "PROPN",
+        "NOUN"
+    ],
+    "vide": [
+        "NOUN"
+    ],
+    "whistle": [
+        "VERB",
+        "NOUN"
+    ],
+    "tun": [
+        "NOUN"
+    ],
+    "whist": [
+        "VERB",
+        "NOUN"
+    ],
+    "hopping": [
+        "VERB",
+        "NOUN"
+    ],
+    "comf": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "lollipop": [
+        "ADJ",
+        "NOUN"
+    ],
+    "mighty": [
+        "ADJ"
+    ],
+    "haircut": [
+        "ADJ",
+        "PROPN",
+        "NOUN"
+    ],
+    "vis": [
+        "ADJ",
+        "NOUN"
+    ],
+    "kid": [
+        "NOUN"
+    ],
+    "shapes": [
+        "NOUN"
+    ],
+    "folded": [
+        "ADJ",
+        "VERB"
+    ],
+    "shape": [
+        "VERB",
+        "NOUN"
+    ],
+    "tube": [
+        "NOUN"
+    ],
+    "Buddy": [
+        "PROPN"
+    ],
+    "refrigerator": [
+        "NOUN"
+    ],
+    "recommend": [
+        "VERB",
+        "NOUN"
+    ],
+    "tr": [
+        "ADV",
+        "VERB",
+        "NOUN"
+    ],
+    "demand": [
+        "VERB",
+        "NOUN"
+    ],
+    "crocodile": [
+        "NOUN"
+    ],
+    "Carl": [
+        "PROPN"
+    ],
+    "aunt": [
+        "PROPN",
+        "NOUN"
+    ],
+    "spell": [
+        "VERB",
+        "NOUN"
+    ],
+    "hut": [
+        "NOUN"
+    ],
+    "blankets": [
+        "NOUN"
+    ],
+    "planes": [
+        "NOUN"
+    ],
+    "list": [
+        "NOUN"
+    ],
+    "imp": [
+        "ADJ",
+        "NOUN"
+    ],
+    "cauliflower": [
+        "NOUN"
+    ],
+    "temple": [
+        "PROPN",
+        "NOUN"
+    ],
+    "sidewalk": [
+        "NOUN"
+    ],
+    "beef": [
+        "NOUN"
+    ],
+    "blouse": [
+        "NOUN"
+    ],
+    "fr": [
+        "ADV",
+        "NOUN"
+    ],
+    "stom": [
+        "VERB"
+    ],
+    "dared": [
+        "VERB"
+    ],
+    "dare": [
+        "AUX",
+        "VERB",
+        "NOUN"
+    ],
+    "cards": [
+        "NOUN"
+    ],
+    "freez": [
+        "VERB"
+    ],
+    "skill": [
+        "NOUN"
+    ],
+    "Smith": [
+        "PROPN"
+    ],
+    "church": [
+        "VERB",
+        "NOUN"
+    ],
+    "Rose": [
+        "PROPN"
+    ],
+    "underground": [
+        "ADV",
+        "ADJ",
+        "PROPN",
+        "NOUN"
+    ],
+    "bull": [
+        "NOUN"
+    ],
+    "ticket": [
+        "NOUN"
+    ],
+    "caterpillar": [
+        "PROPN",
+        "NOUN"
+    ],
+    "fireworks": [
+        "NOUN"
+    ],
+    "somet": [
+        "ADV"
+    ],
+    "Yay": [
+        "PROPN",
+        "INTJ",
+        "NOUN"
+    ],
+    "decorate": [
+        "VERB"
+    ],
+    "stickers": [
+        "NOUN"
+    ],
+    "cricket": [
+        "NOUN"
+    ],
+    "sunglasses": [
+        "NOUN"
+    ],
+    "sandcastle": [
+        "NOUN"
+    ],
+    "showing": [
+        "VERB"
+    ],
+    "trail": [
+        "NOUN"
+    ],
+    "power": [
+        "ADV",
+        "NOUN"
+    ],
+    "Joey": [
+        "PROPN"
+    ],
+    "introd": [
+        "VERB"
+    ],
+    "sunf": [
+        "NOUN"
+    ],
+    "de": [
+        "ADV",
+        "VERB",
+        "NOUN"
+    ],
+    "sandc": [
+        "NOUN"
+    ],
+    "ants": [
+        "NOUN"
+    ],
+    "chickens": [
+        "NOUN"
+    ],
+    "el": [
+        "ADJ",
+        "NOUN"
+    ],
+    "kissed": [
+        "VERB"
+    ],
+    "remain": [
+        "VERB",
+        "NOUN"
+    ],
+    "sock": [
+        "NOUN"
+    ],
+    "pu": [
+        "NOUN"
+    ],
+    "During": [
+        "ADP"
+    ],
+    "belt": [
+        "NOUN"
+    ],
+    "remove": [
+        "VERB"
+    ],
+    "pan": [
+        "VERB",
+        "NOUN"
+    ],
+    "soar": [
+        "VERB"
+    ],
+    "acorns": [
+        "NOUN"
+    ],
+    "restaurant": [
+        "NOUN"
+    ],
+    "shy": [
+        "ADV",
+        "ADJ",
+        "NOUN"
+    ],
+    "washing": [
+        "VERB",
+        "NOUN"
+    ],
+    "jewels": [
+        "NOUN"
+    ],
+    "strawberry": [
+        "NOUN"
+    ],
+    "sque": [
+        "VERB",
+        "NOUN"
+    ],
+    "purse": [
+        "NOUN"
+    ],
+    "Emma": [
+        "PROPN"
+    ],
+    "tea": [
+        "NOUN"
+    ],
+    "Lulu": [
+        "PROPN"
+    ],
+    "Daisy": [
+        "PROPN"
+    ],
+    "oat": [
+        "ADV",
+        "ADJ",
+        "NOUN"
+    ],
+    "Red": [
+        "ADJ",
+        "PROPN"
+    ],
+    "circle": [
+        "NOUN"
+    ],
+    "lumber": [
+        "NOUN"
+    ],
+    "encourage": [
+        "VERB",
+        "NOUN"
+    ],
+    "ste": [
+        "ADV",
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "perform": [
+        "VERB",
+        "NOUN"
+    ],
+    "buckle": [
+        "VERB",
+        "NOUN"
+    ],
+    "buck": [
+        "VERB",
+        "NOUN"
+    ],
+    "elevator": [
+        "NOUN"
+    ],
+    "catching": [
+        "VERB",
+        "NOUN"
+    ],
+    "license": [
+        "NOUN"
+    ],
+    "ambulance": [
+        "NOUN"
+    ],
+    "cast": [
+        "VERB",
+        "NOUN"
+    ],
+    "lawn": [
+        "NOUN"
+    ],
+    "cupboard": [
+        "NOUN"
+    ],
+    "fe": [
+        "ADJ",
+        "NOUN"
+    ],
+    "dish": [
+        "ADJ",
+        "NOUN"
+    ],
+    "menu": [
+        "NOUN"
+    ],
+    "dessert": [
+        "NOUN"
+    ],
+    "slice": [
+        "NOUN"
+    ],
+    "cor": [
+        "ADV",
+        "ADJ",
+        "NOUN"
+    ],
+    "surprises": [
+        "VERB",
+        "NOUN"
+    ],
+    "law": [
+        "NOUN"
+    ],
+    "appear": [
+        "VERB",
+        "NOUN"
+    ],
+    "bracelet": [
+        "NOUN"
+    ],
+    "tip": [
+        "VERB",
+        "NOUN"
+    ],
+    "selling": [
+        "VERB"
+    ],
+    "compassion": [
+        "NOUN"
+    ],
+    "symbol": [
+        "NOUN"
+    ],
+    "Leo": [
+        "PROPN"
+    ],
+    "perfectly": [
+        "ADV"
+    ],
+    "walls": [
+        "NOUN"
+    ],
+    "mist": [
+        "NOUN"
+    ],
+    "lands": [
+        "VERB",
+        "NOUN"
+    ],
+    "ladder": [
+        "NOUN"
+    ],
+    "child": [
+        "NOUN"
+    ],
+    "cho": [
+        "ADJ",
+        "VERB"
+    ],
+    "op": [
+        "NOUN"
+    ],
+    "bloom": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "pret": [
+        "ADJ"
+    ],
+    "laundry": [
+        "ADJ",
+        "NOUN"
+    ],
+    "sandbox": [
+        "NOUN"
+    ],
+    "flag": [
+        "NOUN"
+    ],
+    "waving": [
+        "VERB"
+    ],
+    "chicken": [
+        "NOUN"
+    ],
+    "George": [
+        "PROPN"
+    ],
+    "bananas": [
+        "NOUN"
+    ],
+    "permission": [
+        "NOUN"
+    ],
+    "shine": [
+        "VERB",
+        "NOUN"
+    ],
+    "bean": [
+        "NOUN"
+    ],
+    "beans": [
+        "NOUN"
+    ],
+    "disgusting": [
+        "ADJ"
+    ],
+    "firefight": [
+        "NOUN"
+    ],
+    "Grandpa": [
+        "PROPN",
+        "NOUN"
+    ],
+    "uncle": [
+        "NOUN"
+    ],
+    "blueberries": [
+        "NOUN"
+    ],
+    "herb": [
+        "ADJ",
+        "NOUN"
+    ],
+    "team": [
+        "NOUN"
+    ],
+    "torn": [
+        "ADJ",
+        "VERB"
+    ],
+    "cub": [
+        "NOUN"
+    ],
+    "sunrise": [
+        "NOUN"
+    ],
+    "rose": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "danger": [
+        "NOUN"
+    ],
+    "raft": [
+        "NOUN"
+    ],
+    "mint": [
+        "PROPN",
+        "NOUN"
+    ],
+    "toilet": [
+        "NOUN"
+    ],
+    "skirt": [
+        "NOUN"
+    ],
+    "flo": [
+        "ADJ",
+        "VERB"
+    ],
+    "gent": [
+        "ADJ"
+    ],
+    "sig": [
+        "VERB",
+        "NOUN"
+    ],
+    "dolp": [
+        "NOUN"
+    ],
+    "lear": [
+        "VERB",
+        "NOUN"
+    ],
+    "lid": [
+        "NOUN"
+    ],
+    "An": [
+        "VERB",
+        "NOUN",
+        "DET"
+    ],
+    "blinked": [
+        "VERB"
+    ],
+    "impatient": [
+        "ADJ"
+    ],
+    "napkin": [
+        "NOUN"
+    ],
+    "fl": [
+        "ADJ",
+        "VERB",
+        "NOUN",
+        "PROPN"
+    ],
+    "oak": [
+        "NOUN"
+    ],
+    "silver": [
+        "ADJ",
+        "NOUN"
+    ],
+    "dri": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "Have": [
+        "AUX",
+        "VERB"
+    ],
+    "Bye": [
+        "PROPN",
+        "INTJ"
+    ],
+    "discu": [
+        "VERB"
+    ],
+    "nightmare": [
+        "NOUN"
+    ],
+    "violin": [
+        "NOUN"
+    ],
+    "player": [
+        "NOUN"
+    ],
+    "Ella": [
+        "PROPN"
+    ],
+    "att": [
+        "VERB",
+        "NOUN"
+    ],
+    "tutor": [
+        "NOUN"
+    ],
+    "powder": [
+        "NOUN"
+    ],
+    "bro": [
+        "NOUN"
+    ],
+    "temp": [
+        "NOUN"
+    ],
+    "thermometer": [
+        "NOUN"
+    ],
+    "gorilla": [
+        "NOUN"
+    ],
+    "cou": [
+        "ADJ",
+        "NOUN"
+    ],
+    "chairs": [
+        "NOUN"
+    ],
+    "purp": [
+        "NOUN"
+    ],
+    "cups": [
+        "NOUN"
+    ],
+    "cabin": [
+        "NOUN"
+    ],
+    "pige": [
+        "NOUN"
+    ],
+    "Fl": [
+        "VERB",
+        "PROPN",
+        "NOUN"
+    ],
+    "insect": [
+        "NOUN"
+    ],
+    "ladyb": [
+        "PROPN",
+        "NOUN"
+    ],
+    "spots": [
+        "NOUN"
+    ],
+    "brothers": [
+        "NOUN"
+    ],
+    "signs": [
+        "VERB",
+        "NOUN"
+    ],
+    "mustache": [
+        "NOUN"
+    ],
+    "country": [
+        "NOUN"
+    ],
+    "collection": [
+        "NOUN"
+    ],
+    "winter": [
+        "NOUN"
+    ],
+    "weigh": [
+        "VERB",
+        "NOUN"
+    ],
+    "lives": [
+        "VERB",
+        "NOUN"
+    ],
+    "staff": [
+        "NOUN"
+    ],
+    "crazy": [
+        "ADV",
+        "ADJ"
+    ],
+    "resp": [
+        "VERB",
+        "NOUN"
+    ],
+    "string": [
+        "NOUN"
+    ],
+    "safety": [
+        "VERB",
+        "NOUN"
+    ],
+    "excla": [
+        "VERB"
+    ],
+    "af": [
+        "ADV"
+    ],
+    "gu": [
+        "VERB",
+        "NOUN"
+    ],
+    "tap": [
+        "VERB",
+        "NOUN"
+    ],
+    "meeting": [
+        "VERB",
+        "NOUN"
+    ],
+    "video": [
+        "NOUN"
+    ],
+    "favor": [
+        "NOUN"
+    ],
+    "letting": [
+        "VERB"
+    ],
+    "amaz": [
+        "NOUN"
+    ],
+    "heat": [
+        "VERB",
+        "NOUN"
+    ],
+    "fragile": [
+        "ADJ"
+    ],
+    "pun": [
+        "VERB"
+    ],
+    "sheet": [
+        "NOUN"
+    ],
+    "pirates": [
+        "NOUN"
+    ],
+    "wool": [
+        "ADJ",
+        "NOUN"
+    ],
+    "je": [
+        "NOUN"
+    ],
+    "ac": [
+        "VERB",
+        "NOUN"
+    ],
+    "depend": [
+        "VERB"
+    ],
+    "parts": [
+        "VERB",
+        "NOUN"
+    ],
+    "scold": [
+        "VERB"
+    ],
+    "rece": [
+        "NOUN"
+    ],
+    "squash": [
+        "VERB",
+        "NOUN",
+        "PROPN"
+    ],
+    "squ": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "discover": [
+        "VERB",
+        "NOUN"
+    ],
+    "disco": [
+        "NOUN"
+    ],
+    "fort": [
+        "PROPN",
+        "NOUN"
+    ],
+    "rug": [
+        "NOUN"
+    ],
+    "pipe": [
+        "NOUN"
+    ],
+    "boss": [
+        "ADV",
+        "VERB",
+        "NOUN"
+    ],
+    "ten": [
+        "NUM"
+    ],
+    "ta": [
+        "VERB",
+        "NOUN"
+    ],
+    "ear": [
+        "PRON",
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "dishwasher": [
+        "NOUN"
+    ],
+    "ornament": [
+        "NOUN"
+    ],
+    "Tina": [
+        "PROPN"
+    ],
+    "fake": [
+        "ADJ",
+        "NOUN"
+    ],
+    "mov": [
+        "NOUN"
+    ],
+    "Ba": [
+        "PROPN",
+        "NOUN"
+    ],
+    "Bella": [
+        "PROPN"
+    ],
+    "circles": [
+        "VERB",
+        "NOUN"
+    ],
+    "eaten": [
+        "VERB"
+    ],
+    "bus": [
+        "ADJ",
+        "NOUN"
+    ],
+    "jack": [
+        "PROPN",
+        "NOUN"
+    ],
+    "encou": [
+        "ADJ",
+        "VERB"
+    ],
+    "exerc": [
+        "VERB",
+        "NOUN"
+    ],
+    "swe": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "agree": [
+        "VERB"
+    ],
+    "trumpet": [
+        "VERB",
+        "NOUN",
+        "DET"
+    ],
+    "ro": [
+        "ADJ",
+        "VERB",
+        "NOUN",
+        "PROPN"
+    ],
+    "Mark": [
+        "PROPN"
+    ],
+    "growl": [
+        "VERB",
+        "NOUN"
+    ],
+    "snap": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "trusted": [
+        "VERB"
+    ],
+    "ju": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "eraser": [
+        "NOUN"
+    ],
+    "pilot": [
+        "NOUN"
+    ],
+    "history": [
+        "NOUN"
+    ],
+    "worm": [
+        "NOUN"
+    ],
+    "quick": [
+        "ADV",
+        "ADJ"
+    ],
+    "tire": [
+        "NOUN"
+    ],
+    "parrot": [
+        "NOUN"
+    ],
+    "Polly": [
+        "PROPN"
+    ],
+    "cre": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "bat": [
+        "VERB",
+        "NOUN"
+    ],
+    "fireplace": [
+        "NOUN"
+    ],
+    "brick": [
+        "NOUN"
+    ],
+    "melon": [
+        "NOUN"
+    ],
+    "fore": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "spike": [
+        "NOUN"
+    ],
+    "mechanic": [
+        "ADJ",
+        "NOUN"
+    ],
+    "stable": [
+        "ADJ"
+    ],
+    "stir": [
+        "VERB"
+    ],
+    "avo": [
+        "VERB"
+    ],
+    "jellyfish": [
+        "ADJ",
+        "PROPN",
+        "NOUN"
+    ],
+    "trap": [
+        "VERB",
+        "NOUN"
+    ],
+    "beaut": [
+        "ADV"
+    ],
+    "Sadly": [
+        "ADV"
+    ],
+    "pill": [
+        "NOUN"
+    ],
+    "es": [
+        "VERB",
+        "INTJ",
+        "NOUN",
+        "PROPN"
+    ],
+    "circus": [
+        "NOUN"
+    ],
+    "Jim": [
+        "PROPN"
+    ],
+    "moves": [
+        "VERB",
+        "NOUN"
+    ],
+    "luggage": [
+        "NOUN"
+    ],
+    "th": [
+        "ADV",
+        "ADJ",
+        "NUM",
+        "VERB",
+        "NOUN",
+        "DET"
+    ],
+    "Ted": [
+        "PROPN"
+    ],
+    "log": [
+        "NOUN"
+    ],
+    "complain": [
+        "VERB",
+        "NOUN"
+    ],
+    "ga": [
+        "VERB"
+    ],
+    "eag": [
+        "PROPN",
+        "NOUN"
+    ],
+    "gazed": [
+        "VERB"
+    ],
+    "boxes": [
+        "NOUN"
+    ],
+    "cherries": [
+        "NOUN"
+    ],
+    "Snow": [
+        "PROPN",
+        "NOUN"
+    ],
+    "Me": [
+        "PRON",
+        "VERB",
+        "PROPN",
+        "INTJ"
+    ],
+    "tid": [
+        "VERB"
+    ],
+    "Cl": [
+        "VERB",
+        "PROPN"
+    ],
+    "motorcycle": [
+        "NOUN"
+    ],
+    "porch": [
+        "NOUN"
+    ],
+    "maze": [
+        "NOUN"
+    ],
+    "pow": [
+        "ADJ",
+        "NOUN"
+    ],
+    "Chirpy": [
+        "ADJ",
+        "PROPN"
+    ],
+    "Jerry": [
+        "PROPN"
+    ],
+    "pepper": [
+        "PROPN",
+        "NOUN"
+    ],
+    "en": [
+        "VERB",
+        "NOUN"
+    ],
+    "label": [
+        "VERB",
+        "NOUN"
+    ],
+    "radish": [
+        "NOUN"
+    ],
+    "vegetable": [
+        "ADJ",
+        "NOUN"
+    ],
+    "aw": [
+        "ADJ",
+        "VERB",
+        "INTJ",
+        "NOUN"
+    ],
+    "wra": [
+        "VERB",
+        "NOUN"
+    ],
+    "forgotten": [
+        "VERB"
+    ],
+    "fridge": [
+        "NOUN"
+    ],
+    "guys": [
+        "NOUN"
+    ],
+    "Jen": [
+        "PROPN"
+    ],
+    "ings": [
+        "NOUN"
+    ],
+    "valley": [
+        "NOUN"
+    ],
+    "lip": [
+        "NOUN"
+    ],
+    "sil": [
+        "ADV",
+        "ADJ",
+        "NOUN"
+    ],
+    "bal": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "medal": [
+        "NOUN"
+    ],
+    "clo": [
+        "VERB",
+        "NOUN"
+    ],
+    "Sh": [
+        "VERB",
+        "AUX",
+        "PROPN",
+        "NOUN"
+    ],
+    "nut": [
+        "NOUN"
+    ],
+    "acorn": [
+        "NOUN"
+    ],
+    "gear": [
+        "NOUN"
+    ],
+    "release": [
+        "VERB",
+        "NOUN"
+    ],
+    "blow": [
+        "VERB",
+        "NOUN"
+    ],
+    "junk": [
+        "NOUN"
+    ],
+    "bott": [
+        "NOUN"
+    ],
+    "spear": [
+        "NOUN"
+    ],
+    "Momo": [
+        "PROPN"
+    ],
+    "excite": [
+        "ADJ",
+        "VERB"
+    ],
+    "golf": [
+        "NOUN"
+    ],
+    "Bubbles": [
+        "PROPN",
+        "NOUN"
+    ],
+    "rail": [
+        "NOUN"
+    ],
+    "ped": [
+        "VERB",
+        "NOUN"
+    ],
+    "Ducky": [
+        "PROPN"
+    ],
+    "tur": [
+        "VERB",
+        "NOUN"
+    ],
+    "tri": [
+        "ADV",
+        "VERB",
+        "NOUN"
+    ],
+    "onion": [
+        "NOUN"
+    ],
+    "Ann": [
+        "PROPN"
+    ],
+    "skeleton": [
+        "NOUN"
+    ],
+    "short": [
+        "ADJ",
+        "NOUN"
+    ],
+    "minute": [
+        "NOUN"
+    ],
+    "cherry": [
+        "NOUN"
+    ],
+    "fought": [
+        "VERB"
+    ],
+    "cable": [
+        "NOUN"
+    ],
+    "marbles": [
+        "NOUN"
+    ],
+    "marble": [
+        "NOUN"
+    ],
+    "bet": [
+        "VERB"
+    ],
+    "phot": [
+        "VERB",
+        "NOUN"
+    ],
+    "pee": [
+        "VERB",
+        "NOUN"
+    ],
+    "doctors": [
+        "NOUN"
+    ],
+    "cobweb": [
+        "NOUN"
+    ],
+    "ing": [
+        "VERB",
+        "NOUN"
+    ],
+    "armchair": [
+        "NOUN"
+    ],
+    "Rob": [
+        "PROPN"
+    ],
+    "Lila": [
+        "PROPN"
+    ],
+    "mineral": [
+        "NOUN"
+    ],
+    "competit": [
+        "NOUN"
+    ],
+    "Boun": [
+        "VERB",
+        "ADJ",
+        "PROPN"
+    ],
+    "petted": [
+        "VERB"
+    ],
+    "veil": [
+        "NOUN"
+    ],
+    "twirl": [
+        "VERB",
+        "NOUN"
+    ],
+    "lotion": [
+        "NOUN"
+    ],
+    "barber": [
+        "NOUN"
+    ],
+    "spl": [
+        "NOUN"
+    ],
+    "pine": [
+        "ADJ",
+        "NOUN"
+    ],
+    "col": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "hockey": [
+        "NOUN"
+    ],
+    "snowman": [
+        "NOUN"
+    ],
+    "ven": [
+        "PART"
+    ],
+    "lively": [
+        "ADV",
+        "ADJ"
+    ],
+    "burrow": [
+        "NOUN"
+    ],
+    "knob": [
+        "NOUN"
+    ],
+    "birdcage": [
+        "NOUN"
+    ],
+    "Molly": [
+        "PROPN"
+    ],
+    "ordered": [
+        "VERB"
+    ],
+    "drinking": [
+        "VERB",
+        "NOUN"
+    ],
+    "wagon": [
+        "NOUN"
+    ],
+    "chick": [
+        "NOUN"
+    ],
+    "castles": [
+        "NOUN"
+    ],
+    "Squeaky": [
+        "PROPN"
+    ],
+    "capt": [
+        "VERB"
+    ],
+    "Andy": [
+        "PROPN"
+    ],
+    "alarm": [
+        "NOUN"
+    ],
+    "emer": [
+        "VERB",
+        "NOUN"
+    ],
+    "pushing": [
+        "VERB"
+    ],
+    "pizza": [
+        "NOUN"
+    ],
+    "finds": [
+        "VERB",
+        "NOUN"
+    ],
+    "printed": [
+        "VERB"
+    ],
+    "gra": [
+        "VERB"
+    ],
+    "bumped": [
+        "VERB"
+    ],
+    "envel": [
+        "NOUN"
+    ],
+    "holds": [
+        "VERB"
+    ],
+    "hook": [
+        "VERB",
+        "NOUN"
+    ],
+    "fisher": [
+        "NOUN"
+    ],
+    "believed": [
+        "VERB"
+    ],
+    "pitch": [
+        "VERB",
+        "NOUN"
+    ],
+    "snee": [
+        "VERB",
+        "NOUN"
+    ],
+    "spill": [
+        "VERB",
+        "NOUN"
+    ],
+    "respons": [
+        "NOUN"
+    ],
+    "poppy": [
+        "ADJ",
+        "NOUN"
+    ],
+    "per": [
+        "ADV",
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "vehic": [
+        "NOUN"
+    ],
+    "airplane": [
+        "NOUN"
+    ],
+    "spirit": [
+        "PROPN",
+        "NOUN"
+    ],
+    "ceiling": [
+        "NOUN"
+    ],
+    "Hoot": [
+        "PROPN",
+        "NOUN"
+    ],
+    "creek": [
+        "NOUN"
+    ],
+    "mo": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "yogurt": [
+        "PROPN",
+        "NOUN"
+    ],
+    "Em": [
+        "PROPN"
+    ],
+    "tide": [
+        "NOUN"
+    ],
+    "Remy": [
+        "PROPN"
+    ],
+    "clock": [
+        "NOUN"
+    ],
+    "counting": [
+        "VERB",
+        "NOUN"
+    ],
+    "weeks": [
+        "NOUN"
+    ],
+    "zag": [
+        "VERB"
+    ],
+    "cir": [
+        "VERB"
+    ],
+    "clay": [
+        "NOUN"
+    ],
+    "hurricane": [
+        "NOUN"
+    ],
+    "bringing": [
+        "VERB"
+    ],
+    "roof": [
+        "NOUN"
+    ],
+    "beauty": [
+        "NOUN"
+    ],
+    "Buzz": [
+        "ADJ",
+        "PROPN"
+    ],
+    "tig": [
+        "NOUN"
+    ],
+    "gir": [
+        "ADJ",
+        "NOUN"
+    ],
+    "kayak": [
+        "NOUN"
+    ],
+    "whale": [
+        "NOUN"
+    ],
+    "inse": [
+        "ADJ"
+    ],
+    "insisted": [
+        "VERB"
+    ],
+    "med": [
+        "ADJ",
+        "NOUN"
+    ],
+    "Everywhere": [
+        "ADV"
+    ],
+    "ele": [
+        "ADV",
+        "ADJ",
+        "NUM",
+        "NOUN"
+    ],
+    "retur": [
+        "VERB"
+    ],
+    "avoc": [
+        "NOUN"
+    ],
+    "avocado": [
+        "NOUN"
+    ],
+    "rever": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "stadium": [
+        "NOUN"
+    ],
+    "prin": [
+        "VERB"
+    ],
+    "computer": [
+        "NOUN"
+    ],
+    "rec": [
+        "ADV",
+        "VERB",
+        "NOUN"
+    ],
+    "pigs": [
+        "NOUN"
+    ],
+    "id": [
+        "NOUN"
+    ],
+    "ru": [
+        "VERB",
+        "NOUN"
+    ],
+    "puzzles": [
+        "NOUN"
+    ],
+    "puzzle": [
+        "NOUN"
+    ],
+    "hor": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "hum": [
+        "VERB",
+        "NOUN"
+    ],
+    "leopard": [
+        "NOUN"
+    ],
+    "task": [
+        "NOUN"
+    ],
+    "brain": [
+        "NOUN"
+    ],
+    "arrow": [
+        "NOUN"
+    ],
+    "observe": [
+        "VERB"
+    ],
+    "fo": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "shap": [
+        "VERB"
+    ],
+    "holid": [
+        "NOUN"
+    ],
+    "father": [
+        "NOUN"
+    ],
+    "swamp": [
+        "NOUN"
+    ],
+    "kinds": [
+        "NOUN"
+    ],
+    "fog": [
+        "NOUN"
+    ],
+    "ax": [
+        "NOUN"
+    ],
+    "Jimmy": [
+        "PROPN"
+    ],
+    "root": [
+        "NOUN"
+    ],
+    "strip": [
+        "ADJ",
+        "VERB",
+        "NOUN",
+        "PROPN"
+    ],
+    "mat": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "pil": [
+        "VERB",
+        "NOUN"
+    ],
+    "massage": [
+        "NOUN"
+    ],
+    "mass": [
+        "VERB",
+        "NOUN"
+    ],
+    "perm": [
+        "VERB"
+    ],
+    "worms": [
+        "NOUN"
+    ],
+    "inch": [
+        "VERB",
+        "NOUN"
+    ],
+    "lie": [
+        "VERB",
+        "NOUN"
+    ],
+    "surpr": [
+        "ADV",
+        "ADJ"
+    ],
+    "peeked": [
+        "VERB"
+    ],
+    "seagull": [
+        "NOUN"
+    ],
+    "goal": [
+        "NOUN"
+    ],
+    "dough": [
+        "NOUN"
+    ],
+    "lime": [
+        "NOUN"
+    ],
+    "fest": [
+        "ADJ",
+        "NOUN"
+    ],
+    "skull": [
+        "NOUN"
+    ],
+    "ink": [
+        "NOUN"
+    ],
+    "tracks": [
+        "NOUN"
+    ],
+    "Sund": [
+        "PROPN",
+        "NOUN"
+    ],
+    "penguin": [
+        "PROPN",
+        "NOUN"
+    ],
+    "soccer": [
+        "NOUN"
+    ],
+    "trophy": [
+        "NOUN"
+    ],
+    "blowing": [
+        "VERB"
+    ],
+    "Co": [
+        "PROPN",
+        "NOUN"
+    ],
+    "comet": [
+        "NOUN"
+    ],
+    "persistent": [
+        "ADJ"
+    ],
+    "Mimi": [
+        "PROPN"
+    ],
+    "ben": [
+        "ADP",
+        "VERB",
+        "NOUN"
+    ],
+    "thief": [
+        "NOUN"
+    ],
+    "mushroom": [
+        "NOUN"
+    ],
+    "spid": [
+        "NOUN"
+    ],
+    "Sn": [
+        "VERB",
+        "PROPN",
+        "NOUN"
+    ],
+    "Gr": [
+        "ADJ",
+        "PROPN"
+    ],
+    "trade": [
+        "VERB",
+        "NOUN"
+    ],
+    "laser": [
+        "NOUN"
+    ],
+    "infant": [
+        "NOUN"
+    ],
+    "angel": [
+        "NOUN"
+    ],
+    "tease": [
+        "VERB"
+    ],
+    "X": [
+        "PROPN",
+        "NOUN"
+    ],
+    "Buzzy": [
+        "PROPN"
+    ],
+    "row": [
+        "VERB",
+        "NOUN"
+    ],
+    "palace": [
+        "NOUN"
+    ],
+    "poison": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "carp": [
+        "NOUN"
+    ],
+    "chamber": [
+        "NOUN"
+    ],
+    "del": [
+        "NOUN"
+    ],
+    "sle": [
+        "NOUN"
+    ],
+    "volcano": [
+        "NOUN"
+    ],
+    "ang": [
+        "ADV",
+        "ADJ",
+        "PROPN",
+        "VERB",
+        "NOUN"
+    ],
+    "unt": [
+        "ADJ",
+        "VERB"
+    ],
+    "nd": [
+        "NOUN"
+    ],
+    "Th": [
+        "PROPN",
+        "NUM",
+        "PRON",
+        "VERB",
+        "NOUN",
+        "DET",
+        "ADP"
+    ],
+    "station": [
+        "NOUN"
+    ],
+    "university": [
+        "PROPN",
+        "NOUN"
+    ],
+    "ess": [
+        "PROPN"
+    ],
+    "belie": [
+        "VERB"
+    ],
+    "Peter": [
+        "PROPN"
+    ],
+    "spaceship": [
+        "NOUN"
+    ],
+    "model": [
+        "NOUN"
+    ],
+    "wor": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "starts": [
+        "VERB",
+        "NOUN"
+    ],
+    "icky": [
+        "ADJ"
+    ],
+    "chain": [
+        "NOUN"
+    ],
+    "stud": [
+        "VERB",
+        "NOUN"
+    ],
+    "candies": [
+        "NOUN"
+    ],
+    "cheerful": [
+        "ADJ"
+    ],
+    "kangaroo": [
+        "NOUN"
+    ],
+    "frame": [
+        "NOUN"
+    ],
+    "saus": [
+        "NOUN"
+    ],
+    "sausage": [
+        "NOUN"
+    ],
+    "fle": [
+        "NOUN"
+    ],
+    "bathtub": [
+        "NOUN"
+    ],
+    "Tiny": [
+        "ADJ",
+        "PROPN"
+    ],
+    "shampoo": [
+        "NOUN"
+    ],
+    "tut": [
+        "NOUN"
+    ],
+    "cact": [
+        "ADJ",
+        "NOUN"
+    ],
+    "rel": [
+        "ADV",
+        "NOUN"
+    ],
+    "mot": [
+        "NOUN"
+    ],
+    "market": [
+        "NOUN"
+    ],
+    "cro": [
+        "VERB",
+        "NOUN"
+    ],
+    "snugg": [
+        "VERB"
+    ],
+    "dr": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "pie": [
+        "NOUN"
+    ],
+    "deter": [
+        "NOUN"
+    ],
+    "Frog": [
+        "PROPN",
+        "NOUN"
+    ],
+    "suff": [
+        "VERB"
+    ],
+    "grocery": [
+        "NOUN"
+    ],
+    "somewhere": [
+        "ADV"
+    ],
+    "lizard": [
+        "NOUN"
+    ],
+    "ingredient": [
+        "NOUN"
+    ],
+    "straw": [
+        "NOUN"
+    ],
+    "Pipp": [
+        "PROPN"
+    ],
+    "int": [
+        "ADV",
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "berry": [
+        "NOUN"
+    ],
+    "thre": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "ark": [
+        "PROPN"
+    ],
+    "Spark": [
+        "VERB",
+        "PROPN",
+        "NOUN"
+    ],
+    "wife": [
+        "NOUN"
+    ],
+    "Gigi": [
+        "PROPN"
+    ],
+    "coll": [
+        "VERB",
+        "NOUN"
+    ],
+    "hig": [
+        "ADJ"
+    ],
+    "poke": [
+        "VERB",
+        "NOUN"
+    ],
+    "clapping": [
+        "VERB",
+        "NOUN"
+    ],
+    "lemons": [
+        "NOUN"
+    ],
+    "Pete": [
+        "PROPN"
+    ],
+    "cushion": [
+        "NOUN"
+    ],
+    "Tw": [
+        "PROPN",
+        "NUM"
+    ],
+    "turt": [
+        "NOUN"
+    ],
+    "frustr": [
+        "NOUN"
+    ],
+    "tear": [
+        "VERB",
+        "NOUN"
+    ],
+    "Froggy": [
+        "PROPN",
+        "NOUN"
+    ],
+    "disappoin": [
+        "VERB",
+        "NOUN"
+    ],
+    "gener": [
+        "NOUN"
+    ],
+    "fireman": [
+        "NOUN"
+    ],
+    "colour": [
+        "ADV",
+        "ADJ",
+        "NOUN"
+    ],
+    "fis": [
+        "NOUN"
+    ],
+    "battery": [
+        "NOUN"
+    ],
+    "ener": [
+        "ADJ"
+    ],
+    "repl": [
+        "VERB"
+    ],
+    "wardrobe": [
+        "NOUN"
+    ],
+    "cane": [
+        "NOUN"
+    ],
+    "bump": [
+        "VERB",
+        "NOUN"
+    ],
+    "Lee": [
+        "PROPN"
+    ],
+    "fu": [
+        "ADJ",
+        "NOUN"
+    ],
+    "helicopter": [
+        "NOUN"
+    ],
+    "inc": [
+        "ADJ",
+        "NOUN"
+    ],
+    "novel": [
+        "NOUN"
+    ],
+    "libr": [
+        "NOUN"
+    ],
+    "ion": [
+        "NOUN"
+    ],
+    "ick": [
+        "NOUN"
+    ],
+    "raven": [
+        "NOUN"
+    ],
+    "oranges": [
+        "NOUN"
+    ],
+    "scooter": [
+        "NOUN"
+    ],
+    "Pe": [
+        "ADJ",
+        "PROPN",
+        "NOUN"
+    ],
+    "ash": [
+        "NOUN"
+    ],
+    "spe": [
+        "VERB",
+        "NOUN"
+    ],
+    "folder": [
+        "NOUN"
+    ],
+    "parent": [
+        "NOUN"
+    ],
+    "dresses": [
+        "NOUN"
+    ],
+    "cu": [
+        "VERB",
+        "NOUN"
+    ],
+    "Alice": [
+        "PROPN"
+    ],
+    "musician": [
+        "NOUN"
+    ],
+    "tray": [
+        "NOUN"
+    ],
+    "gor": [
+        "ADJ",
+        "NOUN"
+    ],
+    "stor": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "ving": [
+        "VERB"
+    ],
+    "beetle": [
+        "NOUN"
+    ],
+    "Pippin": [
+        "PROPN"
+    ],
+    "Din": [
+        "PROPN"
+    ],
+    "ban": [
+        "VERB",
+        "NOUN"
+    ],
+    "sed": [
+        "VERB"
+    ],
+    "sport": [
+        "NOUN"
+    ],
+    "terri": [
+        "ADJ",
+        "VERB"
+    ],
+    "crane": [
+        "NOUN"
+    ],
+    "mole": [
+        "NOUN"
+    ],
+    "Jenny": [
+        "PROPN"
+    ],
+    "tra": [
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "snail": [
+        "NOUN"
+    ],
+    "yacht": [
+        "NOUN"
+    ],
+    "poin": [
+        "ADJ"
+    ],
+    "taxi": [
+        "NOUN"
+    ],
+    "flute": [
+        "NOUN"
+    ],
+    "jet": [
+        "NOUN"
+    ],
+    "Birdy": [
+        "PROPN"
+    ],
+    "Harry": [
+        "PROPN"
+    ],
+    "Betsy": [
+        "PROPN"
+    ],
+    "ord": [
+        "ADJ",
+        "NOUN"
+    ],
+    "breat": [
+        "VERB",
+        "NOUN"
+    ],
+    "prom": [
+        "ADV",
+        "NOUN"
+    ],
+    "upstairs": [
+        "ADV",
+        "ADJ",
+        "NOUN"
+    ],
+    "glove": [
+        "NOUN"
+    ],
+    "cell": [
+        "NOUN"
+    ],
+    "Jazz": [
+        "NOUN"
+    ],
+    "lawyer": [
+        "NOUN"
+    ],
+    "Hoppy": [
+        "ADJ",
+        "PROPN"
+    ],
+    "unk": [
+        "ADJ"
+    ],
+    "dancer": [
+        "NOUN"
+    ],
+    "unch": [
+        "PROPN"
+    ],
+    "disgust": [
+        "ADJ",
+        "NOUN"
+    ],
+    "Sus": [
+        "PROPN"
+    ],
+    "ooped": [
+        "VERB"
+    ],
+    "iron": [
+        "VERB",
+        "NOUN"
+    ],
+    "mule": [
+        "ADJ",
+        "NOUN"
+    ],
+    "Snowy": [
+        "PROPN"
+    ],
+    "True": [
+        "ADJ",
+        "PROPN"
+    ],
+    "mach": [
+        "NOUN"
+    ],
+    "scre": [
+        "NOUN"
+    ],
+    "prun": [
+        "VERB",
+        "NOUN"
+    ],
+    "bye": [
+        "INTJ",
+        "NOUN"
+    ],
+    "bathrobe": [
+        "NOUN"
+    ],
+    "airpl": [
+        "NOUN"
+    ],
+    "fier": [
+        "NOUN"
+    ],
+    "sweater": [
+        "NOUN"
+    ],
+    "mug": [
+        "NOUN"
+    ],
+    "ob": [
+        "VERB",
+        "NOUN"
+    ],
+    "umbre": [
+        "NOUN"
+    ],
+    "compass": [
+        "NOUN"
+    ],
+    "mattress": [
+        "NOUN"
+    ],
+    "langu": [
+        "NOUN"
+    ],
+    "teac": [
+        "VERB"
+    ],
+    "Q": [
+        "PROPN"
+    ],
+    "mic": [
+        "NOUN"
+    ],
+    "newsp": [
+        "NOUN"
+    ],
+    "fri": [
+        "NOUN"
+    ],
+    "ph": [
+        "NOUN"
+    ],
+    "comput": [
+        "NOUN"
+    ],
+    "Mike": [
+        "PROPN"
+    ],
+    "jewelry": [
+        "NOUN"
+    ],
+    "whistled": [
+        "VERB"
+    ],
+    "billboard": [
+        "NOUN"
+    ],
+    "mop": [
+        "VERB",
+        "NOUN",
+        "PROPN"
+    ],
+    "tem": [
+        "ADJ",
+        "NOUN"
+    ],
+    "welc": [
+        "ADJ",
+        "VERB"
+    ],
+    "mosquito": [
+        "NOUN"
+    ],
+    "quest": [
+        "NOUN"
+    ],
+    "grate": [
+        "ADV"
+    ],
+    "oxygen": [
+        "NOUN"
+    ],
+    "ot": [
+        "VERB"
+    ],
+    "super": [
+        "ADV",
+        "ADJ",
+        "VERB",
+        "NOUN"
+    ],
+    "quar": [
+        "VERB"
+    ],
+    "firef": [
+        "NOUN"
+    ],
+    "cri": [
+        "NOUN"
+    ],
+    "shrimp": [
+        "VERB",
+        "PROPN",
+        "NOUN"
+    ],
+    "earthquake": [
+        "NOUN"
+    ],
+    "Lucky": [
+        "ADJ",
+        "PROPN"
+    ],
+    "weapon": [
+        "NOUN"
+    ],
+    "ill": [
+        "ADJ",
+        "NOUN"
+    ],
+    "Pip": [
+        "PROPN"
+    ],
+    "mid": [
+        "NOUN"
+    ],
+    "sung": [
+        "VERB"
+    ],
+    "Tr": [
+        "VERB",
+        "PROPN"
+    ],
+    "ou": [
+        "ADJ",
+        "INTJ",
+        "NOUN"
+    ],
+    "pengu": [
+        "NOUN"
+    ],
+    "snowball": [
+        "NOUN"
+    ],
+    "que": [
+        "ADJ",
+        "NOUN"
+    ],
+    "aut": [
+        "NOUN"
+    ],
+    "spo": [
+        "VERB"
+    ],
+    "Kim": [
+        "PROPN"
+    ],
+    "web": [
+        "NOUN"
+    ],
+    "cle": [
+        "VERB"
+    ],
+    "tax": [
+        "NOUN"
+    ],
+    "compet": [
+        "VERB"
+    ],
+    "miner": [
+        "NOUN"
+    ],
+    "whe": [
+        "VERB",
+        "SCONJ",
+        "NOUN"
+    ],
+    "micro": [
+        "NOUN"
+    ],
+    "owed": [
+        "VERB"
+    ],
+    "magn": [
+        "ADJ",
+        "NOUN"
+    ],
+    "iv": [
+        "NOUN"
+    ],
+    "gasp": [
+        "VERB",
+        "NOUN"
+    ],
+    "grace": [
+        "ADV",
+        "NOUN"
+    ],
+    "prunes": [
+        "NOUN"
+    ],
+    "oasis": [
+        "NOUN"
+    ],
+    "cryst": [
+        "NOUN"
+    ],
+    "tor": [
+        "NOUN"
+    ],
+    "impress": [
+        "VERB"
+    ],
+    "skelet": [
+        "NOUN"
+    ],
+    "scoot": [
+        "NOUN"
+    ],
+    "perf": [
+        "ADJ"
+    ],
+    "claw": [
+        "NOUN"
+    ],
+    "rad": [
+        "NOUN"
+    ],
+    "journal": [
+        "NOUN"
+    ],
+    "caterpill": [
+        "NOUN"
+    ],
+    "enc": [
+        "VERB",
+        "NOUN"
+    ],
+    "destro": [
+        "VERB"
+    ],
+    "lic": [
+        "NOUN"
+    ],
+    "fil": [
+        "NOUN"
+    ],
+    "clum": [
+        "ADV",
+        "NOUN"
+    ],
+    "weap": [
+        "NOUN"
+    ],
+    "cour": [
+        "NOUN"
+    ],
+    "calend": [
+        "NOUN"
+    ],
+    "ed": [
+        "ADJ",
+        "PROPN",
+        "NOUN"
+    ],
+    "vac": [
+        "NOUN"
+    ],
+    "cob": [
+        "NOUN"
+    ],
+    "yaw": [
+        "VERB"
+    ],
+    "wal": [
+        "PROPN",
+        "NOUN"
+    ],
+    "fing": [
+        "NOUN"
+    ],
+    "bul": [
+        "ADJ",
+        "NOUN"
+    ],
+    "brace": [
+        "NOUN"
+    ],
+    "steak": [
+        "NOUN"
+    ],
+    "stret": [
+        "VERB",
+        "NOUN"
+    ],
+    "oy": [
+        "NOUN"
+    ],
+    "sel": [
+        "NOUN"
+    ],
+    "hun": [
+        "NOUN"
+    ],
+    "cam": [
+        "NOUN"
+    ],
+    "rag": [
+        "NOUN"
+    ],
+    "weal": [
+        "ADJ",
+        "NOUN"
+    ],
+    "fortunately": [
+        "ADV"
+    ],
+    "intellig": [
+        "NOUN"
+    ],
+    "Bu": [
+        "VERB",
+        "NOUN",
+        "PROPN"
+    ],
+    "Pinky": [
+        "PROPN"
+    ],
+    "pant": [
+        "VERB",
+        "NOUN"
+    ],
+    "ided": [
+        "VERB"
+    ],
+    "Bluey": [
+        "PROPN"
+    ],
+    "pudd": [
+        "NOUN"
+    ],
+    "ign": [
+        "ADJ"
+    ],
+    "su": [
+        "NOUN"
+    ],
+    "ret": [
+        "VERB"
+    ],
+    "ished": [
+        "VERB"
+    ],
+    "prot": [
+        "VERB"
+    ],
+    "cher": [
+        "VERB"
+    ],
+    "ome": [
+        "INTJ"
+    ],
+    "matt": [
+        "NOUN"
+    ],
+    "dre": [
+        "ADJ"
+    ],
+    "Lilly": [
+        "PROPN"
+    ],
+    "ee": [
+        "PROPN"
+    ],
+    "Gra": [
+        "PROPN",
+        "NOUN"
+    ],
+    "ident": [
+        "NOUN"
+    ],
+    "Bird": [
+        "PROPN"
+    ],
+    "icing": [
+        "VERB",
+        "NOUN"
+    ],
+    "motorcy": [
+        "NOUN"
+    ],
+    "determ": [
+        "NOUN"
+    ],
+    "Ru": [
+        "PROPN"
+    ],
+    "env": [
+        "NOUN"
+    ],
+    "pal": [
+        "NOUN"
+    ],
+    "stre": [
+        "ADJ",
+        "NOUN"
+    ],
+    "ap": [
+        "NOUN"
+    ],
+    "bor": [
+        "VERB"
+    ],
+    "Mandy": [
+        "PROPN"
+    ],
+    "ried": [
+        "VERB"
+    ],
+    "fla": [
+        "VERB"
+    ],
+    "ara": [
+        "NOUN"
+    ],
+    "eng": [
+        "NOUN"
+    ],
+    "liz": [
+        "NOUN"
+    ],
+    "por": [
+        "NOUN"
+    ],
+    "fright": [
+        "ADJ",
+        "VERB"
+    ],
+    "sug": [
+        "VERB"
+    ],
+    "Ros": [
+        "PROPN"
+    ],
+    "myster": [
+        "NOUN"
+    ],
+    "bbit": [
+        "PROPN"
+    ],
+    "fi": [
+        "ADJ"
+    ],
+    "explor": [
+        "NOUN"
+    ],
+    "clos": [
+        "VERB"
+    ],
+    "Binky": [
+        "PROPN"
+    ],
+    "min": [
+        "ADJ",
+        "NOUN"
+    ],
+    "oo": [
+        "NOUN"
+    ],
+    "passport": [
+        "NOUN"
+    ],
+    "cla": [
+        "VERB",
+        "NOUN"
+    ],
+    "fre": [
+        "ADJ",
+        "VERB"
+    ],
+    "ward": [
+        "NOUN"
+    ],
+    "ached": [
+        "VERB"
+    ],
+    "mor": [
+        "NOUN"
+    ],
+    "lad": [
+        "NOUN"
+    ],
+    "ic": [
+        "ADJ"
+    ],
+    "vi": [
+        "NOUN"
+    ],
+    "sym": [
+        "NOUN"
+    ],
+    "uct": [
+        "NOUN"
+    ],
+    "Sophie": [
+        "PROPN"
+    ],
+    "ird": [
+        "PROPN"
+    ],
+    "ster": [
+        "NOUN"
+    ],
+    "blank": [
+        "ADJ",
+        "NOUN"
+    ],
+    "ig": [
+        "ADJ"
+    ],
+    "toug": [
+        "ADJ"
+    ],
+    "Sparky": [
+        "PROPN"
+    ],
+    "arth": [
+        "NOUN"
+    ],
+    "eared": [
+        "ADJ"
+    ],
+    "puzz": [
+        "ADJ"
+    ],
+    "kay": [
+        "NOUN"
+    ],
+    "bill": [
+        "NOUN"
+    ],
+    "reco": [
+        "VERB"
+    ],
+    "ver": [
+        "NOUN"
+    ],
+    "Soph": [
+        "PROPN"
+    ],
+    "Toby": [
+        "PROPN"
+    ],
+    "lawy": [
+        "NOUN"
+    ],
+    "gen": [
+        "NOUN"
+    ],
+    "persist": [
+        "NOUN"
+    ],
+    "nam": [
+        "VERB"
+    ],
+    "Pet": [
+        "PROPN"
+    ],
+    "ots": [
+        "PROPN"
+    ],
+    "cann": [
+        "NOUN"
+    ],
+    "pers": [
+        "ADJ",
+        "NOUN"
+    ],
+    "mm": [
+        "INTJ"
+    ],
+    "diffic": [
+        "NOUN"
+    ],
+    "ning": [
+        "NOUN"
+    ],
+    "ually": [
+        "ADV"
+    ],
+    "spec": [
+        "ADJ"
+    ],
+    "impat": [
+        "NOUN"
+    ],
+    "uck": [
+        "VERB"
+    ],
+    "ndpa": [
+        "NOUN"
+    ],
+    "guit": [
+        "NOUN"
+    ],
+    "stat": [
+        "NOUN"
+    ],
+    "slipper": [
+        "NOUN"
+    ],
+    "hel": [
+        "NOUN"
+    ],
+    "Poppy": [
+        "PROPN"
+    ],
+    "automob": [
+        "NOUN"
+    ],
+    "nt": [
+        "PART"
+    ],
+    "eld": [
+        "NOUN"
+    ],
+    "Sque": [
+        "VERB",
+        "PROPN"
+    ],
+    "ss": [
+        "VERB"
+    ],
+    "Sad": [
+        "PROPN"
+    ]
+}
